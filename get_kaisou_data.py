@@ -58,8 +58,8 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
 
 
 # step 2: get newhokohesosizai
-rex_hokoheso_func = re.compile(r'Object.defineProperty\(t.prototype, "newhokohesosizai", {\s*get: function\(\) {\s*switch \(this.mst_id_after\) {\s*((case \d+:\s*return \d+;\s*)+)', re.M)
-rex_hokoheso_item = re.compile(r'case (\d+):\s*return (\d+);\s*')
+rex_hokoheso_func = re.compile(r'Object.defineProperty\(t.prototype, *"newhokohesosizai", *{\s*get: *function\(\) *{\s*switch *\(this.mst_id_after\) *{\s*((case *\d+:\s*return *\d+;\s*)+)', re.M)
+rex_hokoheso_item = re.compile(r'case *(\d+):\s*return *(\d+);\s*')
 
 with open(main_js_path) as f:
     ctx = f.read()
@@ -75,10 +75,10 @@ with open(main_js_path) as f:
 
 
 # step 3: get DevKit and BuildKit
-rex_devkit = re.compile(r'\(t.prototype._getRequiredDevkitNum = function\(t, e, i\) {\s*switch \(t\) {\s*(((case \d+:\s*)+return \d+;\s*)+)')
-rex_buildkit = re.compile(r'\(t.prototype._getRequiredBuildKitNum = function\(t\) {\s*switch \(t\) {\s*(((case \d+:\s*)+return \d+;\s*)+)')
-rex_case_ret = re.compile(r'((case \d+:\s*)+)return (\d+);\s*')
-rex_case = re.compile(r'case (\d+):')
+rex_devkit = re.compile(r't.prototype._getRequiredDevkitNum *= *function\(t, *e, *i\) *{\s*switch *\(t\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
+rex_buildkit = re.compile(r't.prototype._getRequiredBuildKitNum *= *function\(t\) *{\s*switch *\(t\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
+rex_case_ret = re.compile(r'((case *\d+:\s*)+)return *(\d+);\s*')
+rex_case = re.compile(r'case *(\d+):')
 
 def add_kaisou_key_value(key_name, rex_func):
     with open(main_js_path) as f:
@@ -114,7 +114,7 @@ default:
         15 :
         20;
 '''
-rex_use_devkit_group = re.compile(r'this._USE_DEVKIT_GROUP_ = \[\s*((\d+,?\s*)+)\];', re.M)
+rex_use_devkit_group = re.compile(r'this._USE_DEVKIT_GROUP_ *= *\[\s*((\d+,?\s*)+)\]', re.M)
 use_devkit_group = []
 with open(main_js_path) as f:
     ctx = f.read()
@@ -156,7 +156,7 @@ for cur_ship_id, item in kaisou_data.items():
                                                 # 换句话说：舰娘的依改造关系形成一个有向图，每个节点的出度只能是0或1，但入度可以大于1；因此表达改造关系时，可使用「起点」带代指，但不能用「终点」
         name1 = id2name[item["cur_ship_id"]]
         name2 = id2name[item["api_id"]]
-        output[cur_ship_id] = f'{name1} -> {name2}: ' + output[cur_ship_id]
+        # output[cur_ship_id] = f'{name1} -> {name2}: ' + output[cur_ship_id]
 
 
 
@@ -165,7 +165,7 @@ for cur_ship_id, item in kaisou_data.items():
 for k, v in output.items():
     print(f'"{k}": "{v}",')
 
-output_path = './kaisou_data_for_human.json'
+output_path = './kaisou_data.json'
 with open(output_path, 'w', encoding='utf8') as f:
     json.dump(output, f, ensure_ascii=False, sort_keys=True, indent=4)
     print(f'saved to {output_path} successfully!')
