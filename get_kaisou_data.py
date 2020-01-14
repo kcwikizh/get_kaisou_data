@@ -1,14 +1,38 @@
 import re
 import json
 
+"""
+kaisou_data 改造所需素材
+key: cur_ship_id 改前id
+values:
+    "api_id": after_ship_id,        # 改造后id
+    "cur_ship_id": cur_ship_id,     # 当前id
+    "ammo": ship["api_afterbull"],  # 改造弹耗
+    "steel": ship["api_afterfuel"], # 改造钢耗（为什么api里写的是fuel油？？？）
+    "drawing": 0,                   # 图纸          暂置0
+    "catapult": 0,                  # 甲板          暂置0
+    "report": 0,                    # 详报          暂置0
+    "devkit": 0,                    # 开发紫菜      暂置0
+    "buildkit": 0,                  # 喷火          暂置0
+    "aviation": 0,                  # 新航空紫菜    暂置0
+    "hokoheso": 0,                  # 新火炮紫菜    暂置0
+"""
 kaisou_data = {}
 
+
+"""
+key: 船的id
+value: 船的名字
+"""
+id2name = {}
+
+
+api_start2_json_url = 'http://api.kcwiki.moe/start2'
+main_js_url = 'http://ooi.moe/kcs2/js/main.js'
 api_start2_json_path = './api_start2.json'
 main_js_path = './main.js'
 
-id2name = {}
-
-# step -1: get api_id <===> name dict
+# step -1: get id2name dict from api_start2.json
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
     for ship in api_start2["api_mst_ship"]:
@@ -91,7 +115,7 @@ def add_kaisou_key_value(key_name, rex_func):
                 if c in kaisou_data:
                     kaisou_data[c][key_name] = value
                 else:
-                    raise ValueError(f'ERROR: key "{c}" is not in kaisou_data!')
+                    print(f'ERROR: key "{c}" is not in kaisou_data!')
 
 add_kaisou_key_value('devkit', rex_devkit)
 add_kaisou_key_value('buildkit', rex_buildkit)
@@ -136,6 +160,7 @@ print(kaisou_data)
 
 # step 4: generate output
 output = {}
+output_for_human = {}
 for cur_ship_id, item in kaisou_data.items():
     msg = []
     key_name = [
@@ -156,7 +181,7 @@ for cur_ship_id, item in kaisou_data.items():
                                                 # 换句话说：舰娘的依改造关系形成一个有向图，每个节点的出度只能是0或1，但入度可以大于1；因此表达改造关系时，可使用「起点」带代指，但不能用「终点」
         name1 = id2name[item["cur_ship_id"]]
         name2 = id2name[item["api_id"]]
-        # output[cur_ship_id] = f'{name1} -> {name2}: ' + output[cur_ship_id]
+        output_for_human[cur_ship_id] = f'{name1} -> {name2}: ' + output[cur_ship_id]
 
 
 
@@ -168,4 +193,9 @@ for k, v in output.items():
 output_path = './kaisou_data.json'
 with open(output_path, 'w', encoding='utf8') as f:
     json.dump(output, f, ensure_ascii=False, sort_keys=True, indent=4)
+    print(f'saved to {output_path} successfully!')
+
+output_path = './kaisou_data_for_human.json'
+with open(output_path, 'w', encoding='utf8') as f:
+    json.dump(output_for_human, f, ensure_ascii=False, sort_keys=True, indent=4)
     print(f'saved to {output_path} successfully!')
