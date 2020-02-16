@@ -1,5 +1,6 @@
 import re
 import json
+import requests
 
 """
 kaisou_data 改造所需素材
@@ -31,6 +32,13 @@ api_start2_json_url = 'http://api.kcwiki.moe/start2'
 main_js_url = 'http://ooi.moe/kcs2/js/main.js'
 api_start2_json_path = './api_start2.json'
 main_js_path = './main.js'
+
+# step -2: download latest api_start2.json and main.js
+with open(api_start2_json_path, 'w', encoding='utf8') as f:
+    f.write(requests.get(api_start2_json_url).text)
+with open(main_js_path, 'w', encoding='utf8') as f:
+    f.write(requests.get(main_js_url).text)
+
 
 # step -1: get id2name dict from api_start2.json
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
