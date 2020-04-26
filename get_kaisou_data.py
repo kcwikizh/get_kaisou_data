@@ -37,10 +37,10 @@ api_start2_json_path = './api_start2.json'
 main_js_path = './main.js'
 
 # step -2: download latest api_start2.json and main.js
-with open(api_start2_json_path, 'w', encoding='utf8') as f:
-    f.write(requests.get(api_start2_json_url).text)
-with open(main_js_path, 'w', encoding='utf8') as f:
-    f.write(requests.get(main_js_url).text)
+# with open(api_start2_json_path, 'w', encoding='utf8') as f:
+#     f.write(requests.get(api_start2_json_url).text)
+# with open(main_js_path, 'w', encoding='utf8') as f:
+#     f.write(requests.get(main_js_url).text)
 
 
 # step -1: get id2name dict from api_start2.json
@@ -93,19 +93,21 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
 
 
 # step 2: get newhokohesosizai
-rex_hokoheso_func = re.compile(r'''Object.defineProperty\(\w+.prototype, *["']newhokohesosizai["'], *{\s*'?get'?: *function\(\) *{\s*switch *\(this.mst_id_after\) *{\s*((case *\d+:\s*return *\d+;\s*)+)''', re.M)
-rex_hokoheso_item = re.compile(r'case *(\d+):\s*return *(\d+);\s*')
-''
+rex_hokoheso_func = re.compile(r'''Object.defineProperty\(\w+.prototype, *["']newhokohesosizai["'], *{\s*'?get'?: *function\(\) *{\s*switch *\(this.mst_id_after\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)''', re.M)
+rex_hokoheso_item = re.compile(r'((case *\d+:\s*)+)return *(\d+);\s*')
+rex_case = re.compile(r'case *(\d+):')
+
 with open(main_js_path, 'r', encoding='utf8') as f:
     ctx = f.read()
     match = rex_hokoheso_func.search(ctx)
     for m in rex_hokoheso_item.finditer(match.group(1)):
-        api_id = int(m.group(1))
-        hokoheso_num = int(m.group(2))
-        print("api_id=", api_id, "\thoko_num=", hokoheso_num)
-        for k, v in kaisou_data.items():        # 此处可优化，但现在我太困了
-            if v['api_id'] == api_id:
-                v['hokoheso'] = hokoheso_num
+        hokoheso_num = int(m.group(3))
+        for m_c in rex_case.finditer(m.group(1)):
+            api_id = int(m_c.group(1))
+            print("api_id=", api_id, "\thoko_num=", hokoheso_num)
+            for k, v in kaisou_data.items():        # 此处可优化，但现在我太困了
+                if v['api_id'] == api_id:
+                    v['hokoheso'] = hokoheso_num
 
 
 
