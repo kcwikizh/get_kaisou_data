@@ -17,6 +17,7 @@ values:
     "buildkit": 0,                  # 喷火          暂置0
     "aviation": 0,                  # 新航空紫菜    暂置0
     "hokoheso": 0,                  # 新火炮紫菜    暂置0
+    "arms":     0,                  # 新兵装紫菜    暂置0
 """
 kaisou_data = {}
 
@@ -73,6 +74,7 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
                 "buildkit": 0,                  # 喷火      暂置0
                 "aviation": 0,                  # 新航空紫菜暂置0
                 "hokoheso": 0,                  # 新火炮紫菜暂置0
+                "arms": 0,                      # 新兵装紫菜暂置0
             }
 
 
@@ -89,6 +91,7 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
         kaisou_data[cur_ship_id]["catapult"] = item["api_catapult_count"]
         kaisou_data[cur_ship_id]["report"] = item["api_report_count"]
         kaisou_data[cur_ship_id]["aviation"] = item["api_aviation_mat_count"]
+        kaisou_data[cur_ship_id]["arms"] = item["api_arms_mat_count"]
 
 
 
@@ -184,6 +187,7 @@ for cur_ship_id, item in kaisou_data.items():
         ("report",      "战斗详报"),
         ("aviation",    "新型航空兵装资材"),
         ("hokoheso",    "新型火炮兵装资材"),
+        ("arms",        "新型兵装资材"),
     ]
     for key, name in key_name:
         if key in item and item[key] > 0:
