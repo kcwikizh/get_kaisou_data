@@ -32,8 +32,8 @@ id2name = {}
 api_start2_json_url = 'http://api.kcwiki.moe/start2'
 # main_js_url = 'http://ooi.moe/kcs2/js/main.js'
 # 2020.04: Because of c2's technology progress,
-# We use this one: https://raw.githubusercontent.com/kcwiki/kancolle-main/master/dist/main.js
-main_js_url = 'https://raw.githubusercontent.com/kcwiki/kancolle-main/master/dist/main.js'
+# We use this one: https://raw.githubusercontent.com/kcwikizh/kancolle-main/master/dist/main.js
+main_js_url = 'https://raw.githubusercontent.com/kcwikizh/kancolle-main/master/dist/main.js'
 api_start2_json_path = './api_start2.json'
 main_js_path = './main.js'
 
