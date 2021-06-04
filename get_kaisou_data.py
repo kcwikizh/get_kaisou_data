@@ -29,6 +29,13 @@ value: 船的名字
 id2name = {}
 
 
+"""
+key: 船的id
+value: sortno, 图鉴编号
+"""
+id2sortno = {}
+
+
 api_start2_json_url = 'http://api.kcwiki.moe/start2'
 # main_js_url = 'http://ooi.moe/kcs2/js/main.js'
 # 2020.04: Because of c2's technology progress,
@@ -50,7 +57,9 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
     for ship in api_start2["api_mst_ship"]:
         id_ = ship["api_id"]
         name = ship["api_name"]
+        sortno = ship.get("api_sortno", -1)     # 深海不存在api_sortno
         id2name[id_] = name
+        id2sortno[id_] = sortno
 
 
 # step 0: parse api_start2.json, get all the ships that can do KaiSou, get the ammo and steel cost
@@ -199,13 +208,15 @@ for cur_ship_id, item in kaisou_data.items():
         name1 = id2name[item["cur_ship_id"]]
         name2 = id2name[item["api_id"]]
         output_for_human[cur_ship_id] = f'{name1} -> {name2}: ' + output[cur_ship_id]
-
-
+        # sortno1 = id2sortno[item["cur_ship_id"]]
+        # sortno2 = id2sortno[item["api_id"]]
+        # id2 = item["api_id"]
+        # output_for_human[cur_ship_id] = f'{name1}(图鉴{sortno1}) -> {name2}(图鉴{sortno2})(id={id2}): ' + output[cur_ship_id]
 
 
 # step 5: output and save
-for k, v in output.items():
-    print(f'"{k}": "{v}",')
+# for k, v in output.items():
+#     print(f'"{k}": "{v}",')
 
 output_path = './kaisou_data.json'
 with open(output_path, 'w', encoding='utf8') as f:
