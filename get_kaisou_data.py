@@ -2,6 +2,7 @@ import re
 import json
 import requests
 
+kaisou_data = {}
 """
 kaisou_data 改造所需素材
 key: cur_ship_id 改前id
@@ -19,21 +20,20 @@ values:
     "hokoheso": 0,                  # 新火炮紫菜    暂置0
     "arms":     0,                  # 新兵装紫菜    暂置0
 """
-kaisou_data = {}
 
 
+id2name = {}
 """
 key: 船的id
 value: 船的名字
 """
-id2name = {}
 
 
+id2sortno = {}
 """
 key: 船的id
 value: sortno, 图鉴编号
 """
-id2sortno = {}
 
 
 # main_js_url = 'http://ooi.moe/kcs2/js/main.js'
@@ -45,6 +45,7 @@ api_start2_json_url = 'http://api.kcwiki.moe/start2'
 api_start2_json_path = './api_start2.json'
 
 # step 0: download latest api_start2.json and main.js
+print('step 0: download latest api_start2.json and main.js')
 with open(api_start2_json_path, 'w', encoding='utf8') as f:
     print("Downloading api_start2.json")
     f.write(requests.get(api_start2_json_url).text)
@@ -54,6 +55,7 @@ with open(main_js_path, 'w', encoding='utf8') as f:
 
 
 # step 1: get id2name dict from api_start2.json
+print('step 1: get id2name dict from api_start2.json')
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
     for ship in api_start2["api_mst_ship"]:
@@ -65,6 +67,7 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
 
 
 # step 2.1: parse api_start2.json, get all the ships that can do KaiSou, get the ammo and steel cost
+print('step 2.1: parse api_start2.json, get all the ships that can do KaiSou, get the ammo and steel cost')
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
     for ship in api_start2["api_mst_ship"]:
@@ -90,6 +93,7 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
 
 
 # step 2.2: parse api_start2.json again, get api_id, cur_ship_id, drawing, catapult, report, aviation (key: cur_ship_id)
+print('step 2.2: parse api_start2.json again, get api_id, cur_ship_id, drawing, catapult, report, aviation (key: cur_ship_id)')
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
     for item in api_start2["api_mst_shipupgrade"]:
@@ -105,6 +109,7 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
 
 
 # step 3.1: parse main.js, get newhokohesosizai
+print('step 3.1: parse main.js, get newhokohesosizai')
 rex_hokoheso_func = re.compile(r'''Object.defineProperty\(\w+.prototype, *["']newhokohesosizai["'], *{\s*'?get'?: *function\(\) *{\s*switch *\(this.mst_id_after\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)''', re.M)
 rex_hokoheso_item = re.compile(r'((case *\d+:\s*)+)return *(\d+);\s*')
 rex_case = re.compile(r'case *(\d+):')
@@ -124,6 +129,7 @@ with open(main_js_path, 'r', encoding='utf8') as f:
 
 
 # step 3.2: parse main.js again, get DevKit and BuildKit
+print('step 3.2: parse main.js again, get DevKit and BuildKit')
 rex_devkit = re.compile(r'\w+.prototype._getRequiredDevkitNum *= *function\(\w+, *\w+, *\w+\) *{\s*switch *\(\w+\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
 rex_buildkit = re.compile(r'\w+.prototype._getRequiredBuildKitNum *= *function\(\w+\) *{\s*switch *\(\w+\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
 rex_case_ret = re.compile(r'((case *\d+:\s*)+)return *(\d+);\s*')
@@ -147,6 +153,7 @@ add_kaisou_key_value('buildkit', rex_buildkit)
 
 
 # step 4: get DevKit with another rule. (Only 503: 鈴谷改二 -> 鈴谷航改二 and 504: 熊野改二 -> 熊野航改二 use this rule)
+print('step 4: get DevKit with another rule. (Only 503: 鈴谷改二 -> 鈴谷航改二 and 504: 熊野改二 -> 熊野航改二 use this rule)')
 '''
 i: steel cost
 e: blue print/drawing cost
@@ -181,9 +188,10 @@ for k, v in kaisou_data.items():
         v["devkit"] = 0 if steel < 4500 else 10 if steel < 5500 else 15 if steel < 6500 else 20
 
 
-print(kaisou_data)
+# print(kaisou_data)
 
 # step 5.1: generate output
+print('step 5.1: generate output')
 output = {}
 output_for_human = {}
 for cur_ship_id, item in kaisou_data.items():
@@ -215,6 +223,7 @@ for cur_ship_id, item in kaisou_data.items():
 
 
 # step 5.2: output and save
+print('step 5.2: output and save')
 # for k, v in output.items():
 #     print(f'"{k}": "{v}",')
 
