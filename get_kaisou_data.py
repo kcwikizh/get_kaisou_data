@@ -57,7 +57,7 @@ with open(main_js_path, 'w', encoding='utf8') as f:
     f.write(requests.get(main_js_url).text)
 
 
-# step 1: get id2name dict from api_start2.json
+# step 1: get id2name and id2sortno from api_start2.json
 print('step 1: get id2name dict from api_start2.json')
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
@@ -69,8 +69,8 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
         id2sortno[id_] = sortno
 
 
-# step 2.1: parse api_start2.json, get all the ships that can do KaiSou, get the ammo and steel cost
-print('step 2.1: parse api_start2.json, get all the ships that can do KaiSou, get the ammo and steel cost')
+# step 2.1: parse api_start2.json, get all KaiSou-able ships , get ammo and steel cost
+print('step 2.1: parse api_start2.json, get all KaiSou-able ships, get ammo and steel cost')
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
     for ship in api_start2["api_mst_ship"]:
@@ -124,12 +124,12 @@ with open(main_js_path, 'r', encoding='utf8') as f:
         hokoheso_num = int(m.group(3))
         for m_c in rex_case.finditer(m.group(1)):
             api_id = int(m_c.group(1))
-            print("api_id=", api_id, "\thoko_num=", hokoheso_num)
             for k, v in kaisou_data.items():        # 此处可优化，但现在我太困了
                 # 算了不优化了，这一部分素材是根据“改后的舰船”决定的，可能由多种路径改造而来
                 # 最简明的写法就是遍历一遍
                 if v['api_id'] == api_id:           
                     v['hokoheso'] = hokoheso_num
+                    print(f"{cur_ship_id=}\t{api_id=}\t{hokoheso_num=}")
 
 
 
@@ -157,8 +157,9 @@ add_kaisou_key_value('devkit', rex_devkit)
 add_kaisou_key_value('buildkit', rex_buildkit)
 
 
-# step 4: get DevKit with another rule. (Only 503: 鈴谷改二 -> 鈴谷航改二 and 504: 熊野改二 -> 熊野航改二 use this rule)
-print('step 4: get DevKit with another rule. (Only 503: 鈴谷改二 -> 鈴谷航改二 and 504: 熊野改二 -> 熊野航改二 use this rule)')
+# step 4: get DevKit with another rule. 
+#         (At 2021-09-04, only 503: 鈴谷改二 -> 鈴谷航改二 and 504: 熊野改二 -> 熊野航改二 use this rule)
+print('step 4: get DevKit with another rule.')
 '''
 i: steel cost
 e: blue print/drawing cost
@@ -229,8 +230,8 @@ for cur_ship_id, item in kaisou_data.items():
 
 # step 5.2: output and save
 print('step 5.2: output and save')
-# for k, v in output.items():
-#     print(f'"{k}": "{v}",')
+for k, v in output_for_human.items():
+    print(f'"{k}": "{v}",')
 
 output_path = './kaisou_data.json'
 with open(output_path, 'w', encoding='utf8') as f:
