@@ -5,8 +5,10 @@ import requests
 kaisou_data = {}
 """
 kaisou_data 改造所需素材
+
 key: cur_ship_id 改前id
-values:
+
+value: a dict: {
     "api_id": after_ship_id,        # 改造后id
     "cur_ship_id": cur_ship_id,     # 当前id
     "ammo": ship["api_afterbull"],  # 改造弹耗
@@ -19,6 +21,7 @@ values:
     "aviation": 0,                  # 新航空紫菜    暂置0
     "hokoheso": 0,                  # 新火炮紫菜    暂置0
     "arms":     0,                  # 新兵装紫菜    暂置0
+}
 """
 
 
@@ -92,7 +95,7 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
             }
 
 
-# step 2.2: parse api_start2.json again, get api_id, cur_ship_id, drawing, catapult, report, aviation (key: cur_ship_id)
+# step 2.2: parse api_start2.json again, get api_id, cur_ship_id, drawing, catapult, report, aviation, and arms (key: cur_ship_id)
 print('step 2.2: parse api_start2.json again, get api_id, cur_ship_id, drawing, catapult, report, aviation (key: cur_ship_id)')
 with open(api_start2_json_path, 'r', encoding='utf8') as f:
     api_start2 = json.load(f)
@@ -123,7 +126,9 @@ with open(main_js_path, 'r', encoding='utf8') as f:
             api_id = int(m_c.group(1))
             print("api_id=", api_id, "\thoko_num=", hokoheso_num)
             for k, v in kaisou_data.items():        # 此处可优化，但现在我太困了
-                if v['api_id'] == api_id:
+                # 算了不优化了，这一部分素材是根据“改后的舰船”决定的，可能由多种路径改造而来
+                # 最简明的写法就是遍历一遍
+                if v['api_id'] == api_id:           
                     v['hokoheso'] = hokoheso_num
 
 
