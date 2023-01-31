@@ -51,7 +51,8 @@ api_start2_json_path = './api_start2.json'
 print('step 0: download latest api_start2.json and main.js')
 with open(api_start2_json_path, 'w', encoding='utf8') as f:
     print("Downloading api_start2.json")
-    f.write(requests.get(api_start2_json_url).text)
+    api_start2 = json.loads(requests.get(api_start2_json_url).text)
+    json.dump(api_start2, f, ensure_ascii=False, indent=2)
 with open(main_js_path, 'w', encoding='utf8') as f:
     print("Downloading main.js")
     f.write(requests.get(main_js_url).text)
@@ -84,14 +85,15 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
                 "cur_ship_id": cur_ship_id,     # 当前id
                 "ammo": ship["api_afterbull"],  # 改造弹耗
                 "steel": ship["api_afterfuel"], # 改造钢耗（为什么api里写的是fuel油？？？）
-                "drawing": 0,                   # 图纸      暂置0
-                "catapult": 0,                  # 甲板      暂置0
-                "report": 0,                    # 详报      暂置0
-                "devkit": 0,                    # 开发紫菜  暂置0
-                "buildkit": 0,                  # 喷火      暂置0
-                "aviation": 0,                  # 新航空紫菜暂置0
-                "hokoheso": 0,                  # 新火炮紫菜暂置0
-                "arms": 0,                      # 新兵装紫菜暂置0
+                "drawing": 0,                   # 图纸              暂置0
+                "catapult": 0,                  # 甲板              暂置0
+                "report": 0,                    # 详报              暂置0
+                "devkit": 0,                    # 开发紫菜          暂置0
+                "buildkit": 0,                  # 喷火              暂置0
+                "aviation": 0,                  # 新航空紫菜        暂置0
+                "hokoheso": 0,                  # 新火炮紫菜        暂置0
+                "arms": 0,                      # 新兵装紫菜        暂置0
+                "boiler": 0,                    # 新型高温高圧缶    暂置0
             }
 
 
@@ -109,11 +111,12 @@ with open(api_start2_json_path, 'r', encoding='utf8') as f:
         kaisou_data[cur_ship_id]["report"] = item["api_report_count"]
         kaisou_data[cur_ship_id]["aviation"] = item["api_aviation_mat_count"]
         kaisou_data[cur_ship_id]["arms"] = item["api_arms_mat_count"]
+        kaisou_data[cur_ship_id]["boiler"] = item.get("api_boiler_count", 0)
 
 
 # step 3.1: parse main.js, get newhokohesosizai
 print('step 3.1: parse main.js, get newhokohesosizai')
-rex_hokoheso_func = re.compile(r'''Object.defineProperty\(\w+.prototype, *["']newhokohesosizai["'], *{\s*'?get'?: *function\(\) *{\s*switch *\(this.mst_id_after\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)''', re.M)
+rex_hokoheso_func = re.compile(r'''Object.defineProperty\(\w+.prototype, *["']newhokohesosizai["'], *\{\s*'?get'?: *function\(\) *\{\s*switch *\(this.mst_id_after\) *\{\s*((.*\n)+?)\s*default:\s*return 0;\s*\}''', re.M)
 rex_hokoheso_item = re.compile(r'((case *\d+:\s*)+)return *(\d+);\s*')
 rex_case = re.compile(r'case *(\d+):')
 
@@ -129,14 +132,24 @@ with open(main_js_path, 'r', encoding='utf8') as f:
                 # 最简明的写法就是遍历一遍
                 if v['api_id'] == api_id:           
                     v['hokoheso'] = hokoheso_num
+                    cur_ship_id = k
                     print(f"{cur_ship_id=}\t{api_id=}\t{hokoheso_num=}")
 
+'''
+大和改 -> 大和改二 特殊规则：
+case 911:
+    return 136 == this.mst_id_before ? 3 : 0;
+原本这段代码是根据“改后的舰船”决定炮坟紫菜数量
+但对于大和改二，仅对大和改 -> 大和改二需要3个紫菜，改二重->改二不需紫菜
+田中代码过于sb，明明直接写到api_start2.json就可以了
+'''
+kaisou_data[136]['hokoheso'] = 3
 
 
 # step 3.2: parse main.js again, get DevKit and BuildKit
 print('step 3.2: parse main.js again, get DevKit and BuildKit')
-rex_devkit = re.compile(r'\w+.prototype._getRequiredDevkitNum *= *function\(\w+, *\w+, *\w+\) *{\s*switch *\(\w+\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
-rex_buildkit = re.compile(r'\w+.prototype._getRequiredBuildKitNum *= *function\(\w+\) *{\s*switch *\(\w+\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
+rex_devkit = re.compile(r'\w+.prototype._getRequiredDevkitNum *= *function\(\w+, *\w+, *\w+\) *\{\s*switch *\(\w+\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
+rex_buildkit = re.compile(r'\w+.prototype._getRequiredBuildKitNum *= *function\(\w+\) *\{\s*switch *\(\w+\) *{\s*(((case *\d+:\s*)+return *\d+;\s*)+)')
 rex_case_ret = re.compile(r'((case *\d+:\s*)+)return *(\d+);\s*')
 rex_case = re.compile(r'case *(\d+):')
 
@@ -211,6 +224,7 @@ for cur_ship_id, item in kaisou_data.items():
         ("aviation",    "新型航空兵装资材"),
         ("hokoheso",    "新型火炮兵装资材"),
         ("arms",        "新型兵装资材"),
+        ("boiler",      "新型高温高圧缶"),
     ]
     for key, name in key_name:
         if key in item and item[key] > 0:
