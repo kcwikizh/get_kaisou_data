@@ -224,7 +224,7 @@ for cur_ship_id, item in kaisou_data.items():
         ("aviation",    "新型航空兵装资材"),
         ("hokoheso",    "新型火炮兵装资材"),
         ("arms",        "新型兵装资材"),
-        ("boiler",      "新型高温高圧缶"),
+        ("boiler",      "新型高温高压锅炉"),
     ]
     for key, name in key_name:
         if key in item and item[key] > 0:
