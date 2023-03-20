@@ -44819,6 +44819,71 @@
       "api_voicef": 3
     },
     {
+      "api_id": 727,
+      "api_sortno": 1727,
+      "api_sort_id": 26022,
+      "api_name": "第百一号輸送艦改",
+      "api_yomi": "だいひゃくいちごう",
+      "api_stype": 17,
+      "api_ctype": 120,
+      "api_afterlv": 0,
+      "api_aftershipid": "0",
+      "api_taik": [
+        40,
+        59
+      ],
+      "api_souk": [
+        14,
+        46
+      ],
+      "api_houg": [
+        12,
+        37
+      ],
+      "api_raig": [
+        0,
+        0
+      ],
+      "api_tyku": [
+        17,
+        41
+      ],
+      "api_luck": [
+        22,
+        72
+      ],
+      "api_soku": 5,
+      "api_leng": 1,
+      "api_slot_num": 3,
+      "api_maxeq": [
+        8,
+        8,
+        2,
+        0,
+        0
+      ],
+      "api_buildtime": 150,
+      "api_broken": [
+        2,
+        2,
+        13,
+        5
+      ],
+      "api_powup": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "api_backs": 6,
+      "api_getmes": "<br>",
+      "api_afterfuel": 0,
+      "api_afterbull": 0,
+      "api_fuel_max": 45,
+      "api_bull_max": 25,
+      "api_voicef": 1
+    },
+    {
       "api_id": 877,
       "api_sortno": 477,
       "api_sort_id": 31011,
@@ -46072,6 +46137,71 @@
       "api_voicef": 3
     },
     {
+      "api_id": 904,
+      "api_sortno": 504,
+      "api_sort_id": 21041,
+      "api_name": "能美",
+      "api_yomi": "のうみ",
+      "api_stype": 1,
+      "api_ctype": 94,
+      "api_afterlv": 45,
+      "api_aftershipid": "909",
+      "api_taik": [
+        9,
+        18
+      ],
+      "api_souk": [
+        4,
+        16
+      ],
+      "api_houg": [
+        4,
+        16
+      ],
+      "api_raig": [
+        0,
+        0
+      ],
+      "api_tyku": [
+        9,
+        36
+      ],
+      "api_luck": [
+        13,
+        67
+      ],
+      "api_soku": 5,
+      "api_leng": 1,
+      "api_slot_num": 2,
+      "api_maxeq": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_buildtime": 14,
+      "api_broken": [
+        1,
+        1,
+        2,
+        0
+      ],
+      "api_powup": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "api_backs": 4,
+      "api_getmes": "提督、よろしくお願い致します。海防艦、能美です。<br>御蔵型の四番艦です。マル急計画で整備されました。<br>この海……共にまいりましょう。",
+      "api_afterfuel": 90,
+      "api_afterbull": 125,
+      "api_fuel_max": 10,
+      "api_bull_max": 10,
+      "api_voicef": 1
+    },
+    {
       "api_id": 905,
       "api_sortno": 505,
       "api_sort_id": 21051,
@@ -46200,6 +46330,71 @@
       "api_fuel_max": 15,
       "api_bull_max": 20,
       "api_voicef": 3
+    },
+    {
+      "api_id": 909,
+      "api_sortno": 509,
+      "api_sort_id": 21042,
+      "api_name": "能美改",
+      "api_yomi": "のうみ",
+      "api_stype": 1,
+      "api_ctype": 94,
+      "api_afterlv": 0,
+      "api_aftershipid": "0",
+      "api_taik": [
+        17,
+        28
+      ],
+      "api_souk": [
+        7,
+        33
+      ],
+      "api_houg": [
+        5,
+        35
+      ],
+      "api_raig": [
+        0,
+        0
+      ],
+      "api_tyku": [
+        16,
+        61
+      ],
+      "api_luck": [
+        16,
+        76
+      ],
+      "api_soku": 5,
+      "api_leng": 1,
+      "api_slot_num": 3,
+      "api_maxeq": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_buildtime": 14,
+      "api_broken": [
+        1,
+        1,
+        2,
+        0
+      ],
+      "api_powup": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "api_backs": 5,
+      "api_getmes": "<br>",
+      "api_afterfuel": 0,
+      "api_afterbull": 0,
+      "api_fuel_max": 10,
+      "api_bull_max": 10,
+      "api_voicef": 1
     },
     {
       "api_id": 910,
@@ -46722,6 +46917,71 @@
       "api_voicef": 1
     },
     {
+      "api_id": 923,
+      "api_sortno": 523,
+      "api_sort_id": 32361,
+      "api_name": "Tuscaloosa",
+      "api_yomi": "タスカルーサ",
+      "api_stype": 5,
+      "api_ctype": 121,
+      "api_afterlv": 50,
+      "api_aftershipid": "928",
+      "api_taik": [
+        43,
+        55
+      ],
+      "api_souk": [
+        34,
+        49
+      ],
+      "api_houg": [
+        36,
+        52
+      ],
+      "api_raig": [
+        0,
+        45
+      ],
+      "api_tyku": [
+        18,
+        60
+      ],
+      "api_luck": [
+        17,
+        77
+      ],
+      "api_soku": 10,
+      "api_leng": 2,
+      "api_slot_num": 3,
+      "api_maxeq": [
+        1,
+        1,
+        5,
+        0,
+        0
+      ],
+      "api_buildtime": 85,
+      "api_broken": [
+        2,
+        2,
+        10,
+        2
+      ],
+      "api_powup": [
+        2,
+        1,
+        0,
+        2
+      ],
+      "api_backs": 5,
+      "api_getmes": "Hi！ Good to see you.　あたしが、そうさ。<br>重巡Tuscaloosa！ン、New Orleans classだ。<br>よろしく！",
+      "api_afterfuel": 500,
+      "api_afterbull": 460,
+      "api_fuel_max": 40,
+      "api_bull_max": 60,
+      "api_voicef": 1
+    },
+    {
       "api_id": 925,
       "api_sortno": 525,
       "api_sort_id": 32231,
@@ -46853,6 +47113,71 @@
       "api_fuel_max": 10,
       "api_bull_max": 10,
       "api_voicef": 1
+    },
+    {
+      "api_id": 928,
+      "api_sortno": 528,
+      "api_sort_id": 32362,
+      "api_name": "Tuscaloosa改",
+      "api_yomi": "タスカルーサ",
+      "api_stype": 5,
+      "api_ctype": 121,
+      "api_afterlv": 0,
+      "api_aftershipid": "0",
+      "api_taik": [
+        53,
+        65
+      ],
+      "api_souk": [
+        41,
+        75
+      ],
+      "api_houg": [
+        45,
+        77
+      ],
+      "api_raig": [
+        0,
+        62
+      ],
+      "api_tyku": [
+        32,
+        79
+      ],
+      "api_luck": [
+        20,
+        90
+      ],
+      "api_soku": 10,
+      "api_leng": 2,
+      "api_slot_num": 4,
+      "api_maxeq": [
+        1,
+        1,
+        2,
+        5,
+        0
+      ],
+      "api_buildtime": 85,
+      "api_broken": [
+        2,
+        6,
+        18,
+        3
+      ],
+      "api_powup": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "api_backs": 6,
+      "api_getmes": "<br>",
+      "api_afterfuel": 0,
+      "api_afterbull": 0,
+      "api_fuel_max": 40,
+      "api_bull_max": 65,
+      "api_voicef": 3
     },
     {
       "api_id": 930,
@@ -47306,6 +47631,71 @@
       ],
       "api_backs": 5,
       "api_getmes": "日本陸軍特種船、揚陸母艦、熊野丸だ。<br>貴様が提督か。成程……そうか。貴官の指揮下に入ろう。<br>よろしいか！",
+      "api_afterfuel": 180,
+      "api_afterbull": 370,
+      "api_fuel_max": 40,
+      "api_bull_max": 15,
+      "api_voicef": 1
+    },
+    {
+      "api_id": 945,
+      "api_sortno": 545,
+      "api_sort_id": 26021,
+      "api_name": "第百一号輸送艦",
+      "api_yomi": "だいひゃくいちごう",
+      "api_stype": 17,
+      "api_ctype": 120,
+      "api_afterlv": 50,
+      "api_aftershipid": "727",
+      "api_taik": [
+        38,
+        49
+      ],
+      "api_souk": [
+        11,
+        34
+      ],
+      "api_houg": [
+        4,
+        24
+      ],
+      "api_raig": [
+        0,
+        0
+      ],
+      "api_tyku": [
+        15,
+        32
+      ],
+      "api_luck": [
+        17,
+        57
+      ],
+      "api_soku": 5,
+      "api_leng": 1,
+      "api_slot_num": 2,
+      "api_maxeq": [
+        8,
+        2,
+        0,
+        0,
+        0
+      ],
+      "api_buildtime": 150,
+      "api_broken": [
+        2,
+        2,
+        12,
+        2
+      ],
+      "api_powup": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "api_backs": 5,
+      "api_getmes": "第百一号型輸送艦、えっと、そうだ、二等輸送艦の方が<br>わかりやすいですよね！一番艦、第百一号輸送艦です！<br>戦時急造ですが、私、結構よくできてますよ！　はい！",
       "api_afterfuel": 180,
       "api_afterbull": 370,
       "api_fuel_max": 40,
@@ -53881,6 +54271,126 @@
       "api_ctype": 1,
       "api_soku": 5,
       "api_slot_num": 5
+    },
+    {
+      "api_id": 2152,
+      "api_sort_id": 0,
+      "api_name": "深海重巡水姫",
+      "api_yomi": "",
+      "api_stype": 6,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2153,
+      "api_sort_id": 0,
+      "api_name": "深海重巡水姫",
+      "api_yomi": "",
+      "api_stype": 6,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2154,
+      "api_sort_id": 0,
+      "api_name": "深海重巡水姫",
+      "api_yomi": "",
+      "api_stype": 6,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2155,
+      "api_sort_id": 0,
+      "api_name": "深海重巡水姫-壊",
+      "api_yomi": "",
+      "api_stype": 6,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2156,
+      "api_sort_id": 0,
+      "api_name": "深海重巡水姫-壊",
+      "api_yomi": "",
+      "api_stype": 6,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2157,
+      "api_sort_id": 0,
+      "api_name": "深海重巡水姫-壊",
+      "api_yomi": "",
+      "api_stype": 6,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2158,
+      "api_sort_id": 0,
+      "api_name": "深海擱座揚陸姫",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2159,
+      "api_sort_id": 0,
+      "api_name": "深海擱座揚陸姫",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2160,
+      "api_sort_id": 0,
+      "api_name": "深海擱座揚陸姫",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2161,
+      "api_sort_id": 0,
+      "api_name": "深海擱座揚陸姫-壊",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2162,
+      "api_sort_id": 0,
+      "api_name": "深海擱座揚陸姫-壊",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2163,
+      "api_sort_id": 0,
+      "api_name": "深海擱座揚陸姫-壊",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
     }
   ],
   "api_mst_slotitem_equiptype": [
@@ -54137,6 +54647,11 @@
     {
       "api_id": 51,
       "api_name": "潜水艦装備",
+      "api_show_flg": 0
+    },
+    {
+      "api_id": 52,
+      "api_name": "陸戦部隊",
       "api_show_flg": 0
     },
     {
@@ -75813,6 +76328,314 @@
       "api_usebull": "0"
     },
     {
+      "api_id": 492,
+      "api_sortno": 492,
+      "api_name": "零戦52型丙(八幡部隊)",
+      "api_type": [
+        3,
+        5,
+        6,
+        6,
+        12
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 1,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 10,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 1,
+      "api_raim": 0,
+      "api_houk": 1,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_cost": 5,
+      "api_distance": 6,
+      "api_rare": 3,
+      "api_broken": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 493,
+      "api_sortno": 493,
+      "api_name": "一式陸攻(八幡部隊)",
+      "api_type": [
+        21,
+        38,
+        47,
+        37,
+        4
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 11,
+      "api_soku": 0,
+      "api_baku": 12,
+      "api_tyku": 3,
+      "api_tais": 2,
+      "api_atap": 0,
+      "api_houm": 1,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 4,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_cost": 5,
+      "api_distance": 9,
+      "api_rare": 3,
+      "api_broken": [
+        8,
+        5,
+        0,
+        14
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 494,
+      "api_sortno": 494,
+      "api_name": "特大発動艇+チハ",
+      "api_type": [
+        8,
+        14,
+        24,
+        20,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 0,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 3,
+      "api_broken": [
+        2,
+        3,
+        2,
+        1
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 495,
+      "api_sortno": 495,
+      "api_name": "特大発動艇+チハ改",
+      "api_type": [
+        8,
+        14,
+        24,
+        20,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 1,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 0,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 4,
+      "api_broken": [
+        2,
+        4,
+        2,
+        1
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 496,
+      "api_sortno": 496,
+      "api_name": "陸軍歩兵部隊",
+      "api_type": [
+        27,
+        48,
+        52,
+        52,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 0,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 2,
+      "api_broken": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 497,
+      "api_sortno": 497,
+      "api_name": "九七式中戦車(チハ)",
+      "api_type": [
+        27,
+        48,
+        52,
+        52,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 0,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 2,
+      "api_broken": [
+        1,
+        3,
+        2,
+        1
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 498,
+      "api_sortno": 498,
+      "api_name": "九七式中戦車 新砲塔(チハ改)",
+      "api_type": [
+        27,
+        48,
+        52,
+        52,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 0,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 3,
+      "api_broken": [
+        1,
+        4,
+        2,
+        1
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 499,
+      "api_sortno": 499,
+      "api_name": "陸軍歩兵部隊+チハ改",
+      "api_type": [
+        27,
+        48,
+        52,
+        52,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 0,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 4,
+      "api_broken": [
+        1,
+        5,
+        2,
+        1
+      ],
+      "api_usebull": "0"
+    },
+    {
       "api_id": 1501,
       "api_sortno": 0,
       "api_name": "5inch単装砲",
@@ -80959,7 +81782,7 @@
       "api_type": 2,
       "api_no": 35,
       "api_filename": "036",
-      "api_version": "98"
+      "api_version": "99"
     },
     {
       "api_id": 235,
@@ -81449,7 +82272,7 @@
       "api_type": 5,
       "api_no": 93,
       "api_filename": "094",
-      "api_version": "35"
+      "api_version": "36"
     },
     {
       "api_id": 497,
@@ -83163,7 +83986,7 @@
       27,
       28,
       29,
-      -1
+      21
     ]
   },
   "api_mst_maparea": [
@@ -84071,10 +84894,10 @@
       "api_id": 564,
       "api_maparea_id": 56,
       "api_no": 4,
-      "api_name": "",
-      "api_level": 1,
-      "api_opetext": "",
-      "api_infotext": "",
+      "api_name": "小笠原諸島航路/父島沖",
+      "api_level": 9,
+      "api_opetext": "伊号輸送作戦",
+      "api_infotext": "小笠原方面及び硫黄島の防備<br>を固めるため、横須賀鎮守府<br>配備の艦艇を中心に伊号輸送<br>作戦を実施する！艦隊抜錨！",
       "api_item": [
         0,
         0,
@@ -84086,17 +84909,17 @@
       "api_sally_flag": [
         1,
         0,
-        0
+        1
       ]
     },
     {
       "api_id": 565,
       "api_maparea_id": 56,
       "api_no": 5,
-      "api_name": "",
-      "api_level": 1,
-      "api_opetext": "",
-      "api_infotext": "",
+      "api_name": "父島沖/硫黄島沖",
+      "api_level": 15,
+      "api_opetext": "出撃！八幡部隊",
+      "api_infotext": "小笠原方面の要衝、硫黄島に<br>侵攻部隊が襲来した！有力な<br>基地航空部隊を前線に展開、<br>艦隊と共にこれを邀撃せよ！",
       "api_item": [
         0,
         0,
@@ -84107,8 +84930,8 @@
       "api_required_defeat_count": null,
       "api_sally_flag": [
         1,
-        0,
-        0
+        7,
+        1
       ]
     },
     {
@@ -84129,8 +84952,8 @@
       "api_required_defeat_count": null,
       "api_sally_flag": [
         1,
-        0,
-        0
+        7,
+        1
       ]
     }
   ],
@@ -84679,6 +85502,48 @@
       "api_boss_bgm": [
         221,
         221
+      ]
+    },
+    {
+      "api_id": 564,
+      "api_maparea_id": 56,
+      "api_no": 4,
+      "api_moving_bgm": 222,
+      "api_map_bgm": [
+        219,
+        219
+      ],
+      "api_boss_bgm": [
+        221,
+        221
+      ]
+    },
+    {
+      "api_id": 565,
+      "api_maparea_id": 56,
+      "api_no": 5,
+      "api_moving_bgm": 222,
+      "api_map_bgm": [
+        223,
+        223
+      ],
+      "api_boss_bgm": [
+        224,
+        224
+      ]
+    },
+    {
+      "api_id": 566,
+      "api_maparea_id": 56,
+      "api_no": 6,
+      "api_moving_bgm": 220,
+      "api_map_bgm": [
+        223,
+        223
+      ],
+      "api_boss_bgm": [
+        225,
+        225
       ]
     }
   ],
@@ -87090,17 +87955,17 @@
     }
   ],
   "api_mst_const": {
-    "api_dpflag_quest": {
+    "api_parallel_quest_max": {
       "api_string_value": "",
-      "api_int_value": 1
+      "api_int_value": 10
     },
     "api_boko_max_ships": {
       "api_string_value": "",
       "api_int_value": 570
     },
-    "api_parallel_quest_max": {
+    "api_dpflag_quest": {
       "api_string_value": "",
-      "api_int_value": 10
+      "api_int_value": 1
     }
   },
   "api_mst_shipupgrade": [
@@ -94795,6 +95660,24 @@
       ]
     },
     {
+      "api_ship_id": 727,
+      "api_equip_type": [
+        1,
+        4,
+        12,
+        15,
+        21,
+        23,
+        29,
+        30,
+        37,
+        43,
+        46,
+        50,
+        52
+      ]
+    },
+    {
       "api_ship_id": 877,
       "api_equip_type": [
         3,
@@ -95198,6 +96081,24 @@
         43,
         44,
         50
+      ]
+    },
+    {
+      "api_ship_id": 945,
+      "api_equip_type": [
+        1,
+        4,
+        12,
+        15,
+        21,
+        23,
+        29,
+        30,
+        37,
+        43,
+        46,
+        50,
+        52
       ]
     },
     {
@@ -95702,7 +96603,7 @@
       "api_description": "何度描いても水で簡単にふ<br>き取りが可能な楽しい床。<br>戦略を立てるのにも有効で<br>す。心がこもっているので<br>ある意味消せません！",
       "api_rarity": 4,
       "api_price": 400,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -95884,7 +96785,7 @@
       "api_description": "もっと落ち着いた和の心の<br>壁紙が欲しい…という提督<br>の要請から生まれた、高級<br>和風壁紙。違いのわかる、<br>大人の提督に人気です。",
       "api_rarity": 2,
       "api_price": 700,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -95982,7 +96883,7 @@
       "api_description": "職人が丹精込めてしっかり<br>焼き上げた赤煉瓦を用いて<br>イギリス積みで組み上げた<br>様式美漂う鎮守府の壁。違<br>いの判る提督に人気です。",
       "api_rarity": 4,
       "api_price": 3000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -96136,7 +97037,7 @@
       "api_description": "桃の節句は女の子の季節。<br>そんな早春に相応しい甘い<br>雰囲気の壁紙です。雛祭り<br>にも優しくフィット。桃香<br>の漂う提督室作りに！",
       "api_rarity": 2,
       "api_price": 330,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 0,
@@ -96360,7 +97261,7 @@
       "api_description": "少し小ぶりの窓枠の両脇に<br>白いカーテンを備えた可愛<br>い小窓です。ガーリーな雰<br>囲気は優しい提督の艦娘に<br>ぴったりです！",
       "api_rarity": 3,
       "api_price": 330,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 5,
@@ -96374,7 +97275,7 @@
       "api_description": "桃の節句の季節を艦娘たち<br>と愉しむための特注品の窓<br>です。家具職人の熱い家具<br>魂とこの季節を彩る小物や<br>味覚が配置されています。",
       "api_rarity": 4,
       "api_price": 3300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 4,
@@ -97186,7 +98087,7 @@
       "api_description": "鎮守府の雛祭りをお祝する<br>古から伝わる家具。長門型<br>戦艦をイメージしたお内裏<br>様とお雛様が箪笥の上に鎮<br>座した可愛い雛人形です。",
       "api_rarity": 4,
       "api_price": 20000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97256,7 +98157,7 @@
       "api_description": "クラシックでシンプルな食<br>器棚。やはり艦隊の指揮に<br>紅茶セットは必須アイテム<br>でショ？",
       "api_rarity": 3,
       "api_price": 300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97312,7 +98213,7 @@
       "api_description": "所属する艦娘の大雑把な性<br>格が見事に表現された折り<br>畳み机！とりあえずここに<br>かけとこっと！",
       "api_rarity": 1,
       "api_price": 150,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97634,7 +98535,7 @@
       "api_description": "木彫で暖かみのある高いデ<br>ザイン性と機能美を持った<br>椅子。女の子達にも人気の<br>逸品です。",
       "api_rarity": 2,
       "api_price": 200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -98040,7 +98941,7 @@
       "api_description": "お内裏様とお雛様、そして<br>三人官女や五人囃子、右大<br>臣に左大臣、菱餅等も配し<br>た鎮守府雛人形豪華四段飾<br>り。職人の技が光ります。",
       "api_rarity": 5,
       "api_price": 3300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 0,
@@ -98448,7 +99349,7 @@
       "api_price": 32000,
       "api_saleflg": 1,
       "api_season": 19,
-      "api_version": 52,
+      "api_version": 53,
       "api_outside_id": 4,
       "api_active_flag": 1
     },
@@ -99118,7 +100019,7 @@
       "api_description": "提督が忙しい業務の間隙を<br>縫って、艦娘たちのために<br>チョコのお返しを手作りす<br>るための特別なキッチン！<br>ダイナミック職人支援可！",
       "api_rarity": 5,
       "api_price": 150000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99132,7 +100033,7 @@
       "api_description": "料理が苦手な艦娘やいつも<br>美味しい料理を作ってくれ<br>る艦娘に、たまには提督自<br>ら食事を作ってあげたい…<br>その想いを実現する食卓！",
       "api_rarity": 4,
       "api_price": 2800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 23,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99916,7 +100817,7 @@
       "api_description": "弥生の季節をモチーフにし<br>た、ある駆逐艦の手による<br>壁紙です。落ち着いた雰囲<br>気の中にも春の訪れを予感<br>させる仕上りです。",
       "api_rarity": 3,
       "api_price": 1700,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99944,7 +100845,7 @@
       "api_description": "ある睦月型駆逐艦が弥生の<br>季節の花々を使って作った<br>フラワーアレンジメントで<br>す。もちろん、怒ってなん<br>かいません。",
       "api_rarity": 3,
       "api_price": 1300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99958,7 +100859,7 @@
       "api_description": "提督が艦娘たちのために、<br>感謝の気持ちを込めて焼き<br>菓子を焼く季節。そんな春<br>の一日のために用意された<br>特別な壁紙を貴方に。",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99972,7 +100873,7 @@
       "api_description": "鎮守府提督室一杯に広がる<br>甘い焼き菓子の香り。そん<br>な提督室にぴったりの美味<br>しそうな雰囲気の床です。<br>艦娘たち、いつも感謝！",
       "api_rarity": 2,
       "api_price": 1200,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99986,7 +100887,7 @@
       "api_description": "お返しの感謝の気持ちを上<br>手に伝えられない提督が、<br>密かに習字も練習して制作<br>した感謝の掛け軸。これな<br>ら気持ちがダイレクトに！",
       "api_rarity": 3,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -100462,7 +101363,7 @@
       "api_description": "壁紙ではなく、壁構造材を<br>カフェ用仕様で再構成しま<br>した。シックで落ち着いた<br>喫茶室を演出します。艦娘<br>と素敵なティータイムを！",
       "api_rarity": 4,
       "api_price": 20000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101092,7 +101993,7 @@
       "api_description": "早春の提督室の床板です。<br>比較的質素な作りの床板と<br>春の訪れをイメージした畳<br>の組み合わせによる、独特<br>の魅力が光ります。",
       "api_rarity": 3,
       "api_price": 1000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101106,7 +102007,7 @@
       "api_description": "春の訪れを期待させる職人<br>の技と感性がみなぎる和の<br>壁板です。職人の気合いと<br>心意気で高級品でありなが<br>らリーズナブルにご提供！",
       "api_rarity": 3,
       "api_price": 1980,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101120,7 +102021,7 @@
       "api_description": "明るい春を感じさせる特注<br>家具季節窓です。ガーリー<br>で暖かい色調で構成された<br>特注窓は艦娘たちにも人気<br>です。",
       "api_rarity": 4,
       "api_price": 2200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 23,
       "api_version": 1,
       "api_outside_id": 4,
@@ -101148,7 +102049,7 @@
       "api_description": "択捉型海防艦のお内裏様と<br>お雛様、占守型や日振型も<br>参加しての三人官女や五人<br>囃子、海防艦豪華雛飾り！<br>職人ダイナミック割引可！",
       "api_rarity": 6,
       "api_price": 133000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101176,7 +102077,7 @@
       "api_description": "お返しのシーズンに海防艦<br>「対馬」が用意した特製の<br>掛け軸です。なにやら特注<br>部材を使いまくった逸品。<br>職人ダイナミック割引可！",
       "api_rarity": 5,
       "api_price": 103140,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101792,7 +102693,7 @@
       "api_description": "ポップな雰囲気のホワイト<br>デーをモチーフにした壁紙<br>です。艦娘たちに大人気の<br>ホワイトデーカーペットと<br>あわせてみたいですね！",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101806,7 +102707,7 @@
       "api_description": "楽しく優しい気持ちになれ<br>る、ホワイトデーシーズン<br>専用のカーペットです。駆<br>逐艦や海防艦など多くの艦<br>娘のお気に入りです！",
       "api_rarity": 3,
       "api_price": 1900,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101820,7 +102721,7 @@
       "api_description": "五輪の薔薇の花をデザイン<br>したレリーフの高級な石材<br>を使用した特注壁板です。<br>ホワイトデーには、薔薇の<br>花を贈るのも素敵ですね。",
       "api_rarity": 4,
       "api_price": 103140,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101834,7 +102735,7 @@
       "api_description": "高級石材を贅沢に使用した<br>ホワイトデーの季節にぴっ<br>たりの特注床板です。五本<br>の薔薇の花束を、お返しに<br>どうでしょう？",
       "api_rarity": 5,
       "api_price": 3140,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101848,7 +102749,7 @@
       "api_description": "改装を待つ主力オブ主力の<br>駆逐艦娘が用意した壁掛け<br>の花瓶飾り。ホワイトデー<br>には、薔薇の生花を飾るの<br>も素敵です。",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102130,7 +103031,7 @@
       "api_price": 117000,
       "api_saleflg": 1,
       "api_season": 0,
-      "api_version": 35,
+      "api_version": 36,
       "api_outside_id": 0,
       "api_active_flag": 0
     },
@@ -102562,7 +103463,7 @@
       "api_description": "桃の節句の頃は、少し春め<br>いた雰囲気になりますね。<br>そんな穏やかな春の訪れを<br>感じさせる床と、淡い桃色<br>の敷物です。",
       "api_rarity": 3,
       "api_price": 1300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102576,7 +103477,7 @@
       "api_description": "桃の節句といえば海防艦。<br>そう主張する択捉型海防艦<br>姉妹が家具職人の皆さんに<br>お願いして作ってもらった<br>桃の節句特注飾り棚です。",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102590,7 +103491,7 @@
       "api_description": "ある主力オブ主力な駆逐艦<br>姉妹が雛人形職人の皆さん<br>と協力して作り上げた豪華<br>二段飾りです。伝統の三人<br>官女も素敵ですね。",
       "api_rarity": 5,
       "api_price": 103300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102604,7 +103505,7 @@
       "api_description": "ある艦隊型駆逐艦が提督と<br>の時間を過ごすために家具<br>職人に依頼して作った特注<br>家具です。この机で執務は<br>…いえ、頑張れそうです！",
       "api_rarity": 5,
       "api_price": 9000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102618,7 +103519,7 @@
       "api_description": "職人達が丁寧に組み上げた<br>竹細工と竹模様の床です。<br>「筍と竹の壁紙」と合わせ<br>ると筍の季節を満喫できる<br>彼女と提督の春鎮守府に！",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102660,7 +103561,7 @@
       "api_description": "春は…筍が美味しい季節！<br>ところで、提督はタケノコ<br>って筍って書く派ですか？<br>それとも竹の子派？そもそ<br>もきのこ派？たけのこ派？",
       "api_rarity": 3,
       "api_price": 800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102674,7 +103575,7 @@
       "api_description": "たけのこ派の夢の家具が、<br>家具職人の手を借りて遂に<br>完成です！その名も…筍の<br>風流職人窓。筍羊羹も試作<br>しました。召し上がれ！",
       "api_rarity": 4,
       "api_price": 3000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -102940,7 +103841,7 @@
       "api_description": "構わないで…といいつつ、<br>最近提督室によく来るよう<br>になったある可愛い駆逐艦<br>の壁掛け小物棚です。姉妹<br>専用の私物コーナー付き。",
       "api_rarity": 4,
       "api_price": 1800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103416,7 +104317,7 @@
       "api_description": "明るい気分になるホワイト<br>と薄いピンク色のミックス<br>ウッドの床にカッティング<br>レースマットを。ガーリー<br>で優しい雰囲気の部屋に。",
       "api_rarity": 2,
       "api_price": 800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103472,7 +104373,7 @@
       "api_version": [
         "41",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         109,
@@ -103550,7 +104451,7 @@
       "api_version": [
         "46",
         "20",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         118,
@@ -103862,7 +104763,7 @@
       "api_version": [
         "22",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         61,
@@ -103940,7 +104841,7 @@
       "api_version": [
         "11",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         63,
@@ -104096,7 +104997,7 @@
       "api_version": [
         "42",
         "20",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -21,
@@ -104174,7 +105075,7 @@
       "api_version": [
         "16",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -28,
@@ -104252,7 +105153,7 @@
       "api_version": [
         "22",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         130,
@@ -104330,7 +105231,7 @@
       "api_version": [
         "14",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -28,
@@ -104408,7 +105309,7 @@
       "api_version": [
         "27",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         52,
@@ -104486,7 +105387,7 @@
       "api_version": [
         "57",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         57,
@@ -104564,7 +105465,7 @@
       "api_version": [
         "96",
         "37",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         52,
@@ -104642,7 +105543,7 @@
       "api_version": [
         "95",
         "41",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -104720,7 +105621,7 @@
       "api_version": [
         "13",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -104798,7 +105699,7 @@
       "api_version": [
         "64",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         300,
@@ -104876,7 +105777,7 @@
       "api_version": [
         "13",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -104954,7 +105855,7 @@
       "api_version": [
         "55",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -12,
@@ -105032,7 +105933,7 @@
       "api_version": [
         "18",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         112,
@@ -105110,7 +106011,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -19,
@@ -105188,7 +106089,7 @@
       "api_version": [
         "36",
         "38",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         91,
@@ -105266,7 +106167,7 @@
       "api_version": [
         "26",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -105344,7 +106245,7 @@
       "api_version": [
         "13",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -49,
@@ -105422,7 +106323,7 @@
       "api_version": [
         "65",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -333,
@@ -105500,7 +106401,7 @@
       "api_version": [
         "49",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -234,
@@ -105578,7 +106479,7 @@
       "api_version": [
         "12",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -180,
@@ -105656,7 +106557,7 @@
       "api_version": [
         "12",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         63,
@@ -105734,7 +106635,7 @@
       "api_version": [
         "10",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -42,
@@ -105812,7 +106713,7 @@
       "api_version": [
         "15",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -82,
@@ -105890,7 +106791,7 @@
       "api_version": [
         "18",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         78,
@@ -105968,7 +106869,7 @@
       "api_version": [
         "34",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -280,
@@ -106046,7 +106947,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -64,
@@ -106124,7 +107025,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -106202,7 +107103,7 @@
       "api_version": [
         "19",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         7,
@@ -106280,7 +107181,7 @@
       "api_version": [
         "19",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         42,
@@ -106358,7 +107259,7 @@
       "api_version": [
         "14",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -49,
@@ -106436,7 +107337,7 @@
       "api_version": [
         "28",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -106514,7 +107415,7 @@
       "api_version": [
         "10",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         75,
@@ -106592,7 +107493,7 @@
       "api_version": [
         "10",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -151,
@@ -106670,7 +107571,7 @@
       "api_version": [
         "56",
         "59",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -106748,7 +107649,7 @@
       "api_version": [
         "62",
         "76",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         103,
@@ -106826,7 +107727,7 @@
       "api_version": [
         "70",
         "84",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         76,
@@ -106904,7 +107805,7 @@
       "api_version": [
         "70",
         "59",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         121,
@@ -106982,7 +107883,7 @@
       "api_version": [
         "12",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -60,
@@ -107060,7 +107961,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -15,
@@ -107138,7 +108039,7 @@
       "api_version": [
         "21",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         21,
@@ -107216,7 +108117,7 @@
       "api_version": [
         "10",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         93,
@@ -107294,7 +108195,7 @@
       "api_version": [
         "12",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -107372,7 +108273,7 @@
       "api_version": [
         "27",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         51,
@@ -107450,7 +108351,7 @@
       "api_version": [
         "27",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -156,
@@ -107528,7 +108429,7 @@
       "api_version": [
         "19",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -108,
@@ -107606,7 +108507,7 @@
       "api_version": [
         "29",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         240,
@@ -107684,7 +108585,7 @@
       "api_version": [
         "22",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -10,
@@ -107762,7 +108663,7 @@
       "api_version": [
         "26",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         9,
@@ -107840,7 +108741,7 @@
       "api_version": [
         "26",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -107918,7 +108819,7 @@
       "api_version": [
         "14",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -49,
@@ -107996,7 +108897,7 @@
       "api_version": [
         "43",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -108074,7 +108975,7 @@
       "api_version": [
         "20",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -42,
@@ -108152,7 +109053,7 @@
       "api_version": [
         "4",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -39,
@@ -108230,7 +109131,7 @@
       "api_version": [
         "15",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         45,
@@ -108308,7 +109209,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         126,
@@ -108386,7 +109287,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         6,
@@ -108464,7 +109365,7 @@
       "api_version": [
         "14",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         51,
@@ -108542,7 +109443,7 @@
       "api_version": [
         "9",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         18,
@@ -108620,7 +109521,7 @@
       "api_version": [
         "8",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         21,
@@ -108698,7 +109599,7 @@
       "api_version": [
         "17",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         45,
@@ -108776,7 +109677,7 @@
       "api_version": [
         "18",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -46,
@@ -108854,7 +109755,7 @@
       "api_version": [
         "55",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -108932,7 +109833,7 @@
       "api_version": [
         "11",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         81,
@@ -109010,7 +109911,7 @@
       "api_version": [
         "11",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -109088,7 +109989,7 @@
       "api_version": [
         "55",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -10,
@@ -109166,7 +110067,7 @@
       "api_version": [
         "39",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         100,
@@ -109244,7 +110145,7 @@
       "api_version": [
         "7",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -39,
@@ -109322,7 +110223,7 @@
       "api_version": [
         "31",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -55,
@@ -109400,7 +110301,7 @@
       "api_version": [
         "13",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -63,
@@ -109478,7 +110379,7 @@
       "api_version": [
         "20",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         7,
@@ -109556,7 +110457,7 @@
       "api_version": [
         "45",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         204,
@@ -109634,7 +110535,7 @@
       "api_version": [
         "58",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -54,
@@ -109712,7 +110613,7 @@
       "api_version": [
         "60",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -109790,7 +110691,7 @@
       "api_version": [
         "20",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -63,
@@ -109868,7 +110769,7 @@
       "api_version": [
         "60",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -109946,7 +110847,7 @@
       "api_version": [
         "58",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -198,
@@ -110024,7 +110925,7 @@
       "api_version": [
         "14",
         "30",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -110102,7 +111003,7 @@
       "api_version": [
         "14",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -73,
@@ -110180,7 +111081,7 @@
       "api_version": [
         "20",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -110258,7 +111159,7 @@
       "api_version": [
         "27",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -110336,7 +111237,7 @@
       "api_version": [
         "54",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -154,
@@ -110414,7 +111315,7 @@
       "api_version": [
         "31",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -110492,7 +111393,7 @@
       "api_version": [
         "15",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -169,
@@ -110570,7 +111471,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -85,
@@ -110648,7 +111549,7 @@
       "api_version": [
         "75",
         "40",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         39,
@@ -110726,7 +111627,7 @@
       "api_version": [
         "62",
         "37",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -110804,7 +111705,7 @@
       "api_version": [
         "20",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -97,
@@ -110882,7 +111783,7 @@
       "api_version": [
         "22",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -110960,7 +111861,7 @@
       "api_version": [
         "21",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -51,
@@ -111038,7 +111939,7 @@
       "api_version": [
         "19",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         15,
@@ -111116,7 +112017,7 @@
       "api_version": [
         "66",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -28,
@@ -111194,7 +112095,7 @@
       "api_version": [
         "68",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -43,
@@ -111272,7 +112173,7 @@
       "api_version": [
         "15",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -27,
@@ -111350,7 +112251,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -111428,7 +112329,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -12,
@@ -111506,7 +112407,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -111584,7 +112485,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -52,
@@ -111662,7 +112563,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -33,
@@ -111740,7 +112641,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -52,
@@ -111818,7 +112719,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -111896,7 +112797,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -222,
@@ -111974,7 +112875,7 @@
       "api_version": [
         "29",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -112052,7 +112953,7 @@
       "api_version": [
         "25",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -112130,7 +113031,7 @@
       "api_version": [
         "25",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -112208,7 +113109,7 @@
       "api_version": [
         "15",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         30,
@@ -112286,7 +113187,7 @@
       "api_version": [
         "15",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -109,
@@ -112364,7 +113265,7 @@
       "api_version": [
         "59",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -97,
@@ -112442,7 +113343,7 @@
       "api_version": [
         "62",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -112520,7 +113421,7 @@
       "api_version": [
         "62",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -112598,7 +113499,7 @@
       "api_version": [
         "26",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -112676,7 +113577,7 @@
       "api_version": [
         "14",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -49,
@@ -112754,7 +113655,7 @@
       "api_version": [
         "24",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -112832,7 +113733,7 @@
       "api_version": [
         "24",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -112910,7 +113811,7 @@
       "api_version": [
         "28",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -112988,7 +113889,7 @@
       "api_version": [
         "39",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         99,
@@ -113066,7 +113967,7 @@
       "api_version": [
         "65",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         9,
@@ -113144,7 +114045,7 @@
       "api_version": [
         "65",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         18,
@@ -113222,7 +114123,7 @@
       "api_version": [
         "4",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -113300,7 +114201,7 @@
       "api_version": [
         "3",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -21,
@@ -113378,7 +114279,7 @@
       "api_version": [
         "20",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -113456,7 +114357,7 @@
       "api_version": [
         "65",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -113534,7 +114435,7 @@
       "api_version": [
         "65",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -113612,7 +114513,7 @@
       "api_version": [
         "55",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -21,
@@ -113690,7 +114591,7 @@
       "api_version": [
         "70",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         241,
@@ -113768,7 +114669,7 @@
       "api_version": [
         "90",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         64,
@@ -113846,7 +114747,7 @@
       "api_version": [
         "70",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -113924,7 +114825,7 @@
       "api_version": [
         "80",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -114002,7 +114903,7 @@
       "api_version": [
         "55",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -21,
@@ -114080,7 +114981,7 @@
       "api_version": [
         "20",
         "22",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -180,
@@ -114158,7 +115059,7 @@
       "api_version": [
         "11",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -114236,7 +115137,7 @@
       "api_version": [
         "11",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -114314,7 +115215,7 @@
       "api_version": [
         "26",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         121,
@@ -114392,7 +115293,7 @@
       "api_version": [
         "16",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -114470,7 +115371,7 @@
       "api_version": [
         "41",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -114548,7 +115449,7 @@
       "api_version": [
         "11",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -114626,7 +115527,7 @@
       "api_version": [
         "72",
         "59",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -114704,7 +115605,7 @@
       "api_version": [
         "83",
         "76",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -114782,7 +115683,7 @@
       "api_version": [
         "15",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -114860,7 +115761,7 @@
       "api_version": [
         "17",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -114938,7 +115839,7 @@
       "api_version": [
         "11",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -115016,7 +115917,7 @@
       "api_version": [
         "23",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -115094,7 +115995,7 @@
       "api_version": [
         "58",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -120,
@@ -115172,7 +116073,7 @@
       "api_version": [
         "45",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         204,
@@ -115250,7 +116151,7 @@
       "api_version": [
         "14",
         "30",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -115328,7 +116229,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -115406,7 +116307,7 @@
       "api_version": [
         "27",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -115484,7 +116385,7 @@
       "api_version": [
         "29",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -115562,7 +116463,7 @@
       "api_version": [
         "2",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -115640,7 +116541,7 @@
       "api_version": [
         "31",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -115718,7 +116619,7 @@
       "api_version": [
         "29",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         240,
@@ -115796,7 +116697,7 @@
       "api_version": [
         "27",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -115874,7 +116775,7 @@
       "api_version": [
         "26",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -115952,7 +116853,7 @@
       "api_version": [
         "15",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         252,
@@ -116030,7 +116931,7 @@
       "api_version": [
         "38",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         138,
@@ -116108,7 +117009,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -116186,7 +117087,7 @@
       "api_version": [
         "39",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -116264,7 +117165,7 @@
       "api_version": [
         "42",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -116342,7 +117243,7 @@
       "api_version": [
         "15",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -116420,7 +117321,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -116498,7 +117399,7 @@
       "api_version": [
         "61",
         "24",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -116576,7 +117477,7 @@
       "api_version": [
         "61",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -116654,7 +117555,7 @@
       "api_version": [
         "73",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -116732,7 +117633,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -116810,7 +117711,7 @@
       "api_version": [
         "12",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -116888,7 +117789,7 @@
       "api_version": [
         "11",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -116966,7 +117867,7 @@
       "api_version": [
         "29",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -117044,7 +117945,7 @@
       "api_version": [
         "16",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -117122,7 +118023,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -117200,7 +118101,7 @@
       "api_version": [
         "16",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -117278,7 +118179,7 @@
       "api_version": [
         "10",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -117356,7 +118257,7 @@
       "api_version": [
         "29",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -117434,7 +118335,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -117512,7 +118413,7 @@
       "api_version": [
         "6",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -117590,7 +118491,7 @@
       "api_version": [
         "82",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -117668,7 +118569,7 @@
       "api_version": [
         "69",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -117746,7 +118647,7 @@
       "api_version": [
         "66",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -117824,7 +118725,7 @@
       "api_version": [
         "66",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -117902,7 +118803,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -117980,7 +118881,7 @@
       "api_version": [
         "82",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -118058,7 +118959,7 @@
       "api_version": [
         "27",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -118136,7 +119037,7 @@
       "api_version": [
         "27",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -118214,7 +119115,7 @@
       "api_version": [
         "30",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -15,
@@ -118292,7 +119193,7 @@
       "api_version": [
         "8",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -118370,7 +119271,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -168,
@@ -118448,7 +119349,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -118526,7 +119427,7 @@
       "api_version": [
         "14",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -118604,7 +119505,7 @@
       "api_version": [
         "27",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -118682,7 +119583,7 @@
       "api_version": [
         "16",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -118760,7 +119661,7 @@
       "api_version": [
         "31",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -118838,7 +119739,7 @@
       "api_version": [
         "21",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         204,
@@ -118916,7 +119817,7 @@
       "api_version": [
         "22",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         156,
@@ -118994,7 +119895,7 @@
       "api_version": [
         "19",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -119072,7 +119973,7 @@
       "api_version": [
         "42",
         "20",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -21,
@@ -119150,7 +120051,7 @@
       "api_version": [
         "17",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -28,
@@ -119228,7 +120129,7 @@
       "api_version": [
         "18",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         78,
@@ -119306,7 +120207,7 @@
       "api_version": [
         "22",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         130,
@@ -119384,7 +120285,7 @@
       "api_version": [
         "34",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -280,
@@ -119462,7 +120363,7 @@
       "api_version": [
         "14",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -28,
@@ -119540,7 +120441,7 @@
       "api_version": [
         "27",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         52,
@@ -119618,7 +120519,7 @@
       "api_version": [
         "57",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         57,
@@ -119696,7 +120597,7 @@
       "api_version": [
         "20",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         7,
@@ -119774,7 +120675,7 @@
       "api_version": [
         "15",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -73,
@@ -119852,7 +120753,7 @@
       "api_version": [
         "45",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         204,
@@ -119930,7 +120831,7 @@
       "api_version": [
         "14",
         "30",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -120008,7 +120909,7 @@
       "api_version": [
         "27",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         51,
@@ -120086,7 +120987,7 @@
       "api_version": [
         "27",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -156,
@@ -120164,7 +121065,7 @@
       "api_version": [
         "66",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -28,
@@ -120242,7 +121143,7 @@
       "api_version": [
         "68",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -43,
@@ -120320,7 +121221,7 @@
       "api_version": [
         "15",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -27,
@@ -120398,7 +121299,7 @@
       "api_version": [
         "18",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         135,
@@ -120476,7 +121377,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -19,
@@ -120554,7 +121455,7 @@
       "api_version": [
         "36",
         "38",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         91,
@@ -120632,7 +121533,7 @@
       "api_version": [
         "19",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         102,
@@ -120710,7 +121611,7 @@
       "api_version": [
         "29",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         240,
@@ -120788,7 +121689,7 @@
       "api_version": [
         "22",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -10,
@@ -120866,7 +121767,7 @@
       "api_version": [
         "26",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         9,
@@ -120944,7 +121845,7 @@
       "api_version": [
         "13",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -121022,7 +121923,7 @@
       "api_version": [
         "64",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         300,
@@ -121100,7 +122001,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -121178,7 +122079,7 @@
       "api_version": [
         "55",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -12,
@@ -121256,7 +122157,7 @@
       "api_version": [
         "12",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -121334,7 +122235,7 @@
       "api_version": [
         "75",
         "40",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -121412,7 +122313,7 @@
       "api_version": [
         "96",
         "37",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         162,
@@ -121490,7 +122391,7 @@
       "api_version": [
         "62",
         "37",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -121568,7 +122469,7 @@
       "api_version": [
         "95",
         "41",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -121646,7 +122547,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -64,
@@ -121724,7 +122625,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -121802,7 +122703,7 @@
       "api_version": [
         "19",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         7,
@@ -121880,7 +122781,7 @@
       "api_version": [
         "19",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         42,
@@ -121958,7 +122859,7 @@
       "api_version": [
         "14",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -49,
@@ -122036,7 +122937,7 @@
       "api_version": [
         "28",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -122114,7 +123015,7 @@
       "api_version": [
         "11",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         75,
@@ -122192,7 +123093,7 @@
       "api_version": [
         "10",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -151,
@@ -122270,7 +123171,7 @@
       "api_version": [
         "56",
         "59",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -122348,7 +123249,7 @@
       "api_version": [
         "62",
         "76",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         103,
@@ -122426,7 +123327,7 @@
       "api_version": [
         "70",
         "84",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         180,
@@ -122504,7 +123405,7 @@
       "api_version": [
         "70",
         "59",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         121,
@@ -122582,7 +123483,7 @@
       "api_version": [
         "12",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -60,
@@ -122660,7 +123561,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -15,
@@ -122738,7 +123639,7 @@
       "api_version": [
         "20",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -97,
@@ -122816,7 +123717,7 @@
       "api_version": [
         "22",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         70,
@@ -122894,7 +123795,7 @@
       "api_version": [
         "21",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -51,
@@ -122972,7 +123873,7 @@
       "api_version": [
         "19",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         15,
@@ -123050,7 +123951,7 @@
       "api_version": [
         "21",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         21,
@@ -123128,7 +124029,7 @@
       "api_version": [
         "10",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         93,
@@ -123206,7 +124107,7 @@
       "api_version": [
         "41",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         109,
@@ -123284,7 +124185,7 @@
       "api_version": [
         "46",
         "20",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         118,
@@ -123362,7 +124263,7 @@
       "api_version": [
         "12",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -180,
@@ -123440,7 +124341,7 @@
       "api_version": [
         "12",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         63,
@@ -123518,7 +124419,7 @@
       "api_version": [
         "22",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         61,
@@ -123596,7 +124497,7 @@
       "api_version": [
         "10",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -42,
@@ -123674,7 +124575,7 @@
       "api_version": [
         "11",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         63,
@@ -123752,7 +124653,7 @@
       "api_version": [
         "15",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -82,
@@ -123830,7 +124731,7 @@
       "api_version": [
         "43",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -123908,7 +124809,7 @@
       "api_version": [
         "20",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -42,
@@ -123986,7 +124887,7 @@
       "api_version": [
         "4",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -39,
@@ -124064,7 +124965,7 @@
       "api_version": [
         "15",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         45,
@@ -124142,7 +125043,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         126,
@@ -124220,7 +125121,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         6,
@@ -124298,7 +125199,7 @@
       "api_version": [
         "14",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         51,
@@ -124376,7 +125277,7 @@
       "api_version": [
         "10",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         18,
@@ -124454,7 +125355,7 @@
       "api_version": [
         "8",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         21,
@@ -124532,7 +125433,7 @@
       "api_version": [
         "17",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         45,
@@ -124610,7 +125511,7 @@
       "api_version": [
         "18",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -46,
@@ -124688,7 +125589,7 @@
       "api_version": [
         "11",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         81,
@@ -124766,7 +125667,7 @@
       "api_version": [
         "11",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -124844,7 +125745,7 @@
       "api_version": [
         "58",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -54,
@@ -124922,7 +125823,7 @@
       "api_version": [
         "60",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -125000,7 +125901,7 @@
       "api_version": [
         "60",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -125078,7 +125979,7 @@
       "api_version": [
         "58",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -198,
@@ -125156,7 +126057,7 @@
       "api_version": [
         "31",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -125234,7 +126135,7 @@
       "api_version": [
         "15",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -169,
@@ -125312,7 +126213,7 @@
       "api_version": [
         "31",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -125390,7 +126291,7 @@
       "api_version": [
         "39",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -96,
@@ -125468,7 +126369,7 @@
       "api_version": [
         "9",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -125546,7 +126447,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -85,
@@ -125624,7 +126525,7 @@
       "api_version": [
         "54",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -154,
@@ -125702,7 +126603,7 @@
       "api_version": [
         "65",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -125780,7 +126681,7 @@
       "api_version": [
         "49",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -133,
@@ -125858,7 +126759,7 @@
       "api_version": [
         "29",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -125936,7 +126837,7 @@
       "api_version": [
         "15",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         30,
@@ -126014,7 +126915,7 @@
       "api_version": [
         "15",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -109,
@@ -126092,7 +126993,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -126170,7 +127071,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -222,
@@ -126248,7 +127149,7 @@
       "api_version": [
         "59",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -97,
@@ -126326,7 +127227,7 @@
       "api_version": [
         "28",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -126404,7 +127305,7 @@
       "api_version": [
         "39",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         99,
@@ -126482,7 +127383,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -67,
@@ -126560,7 +127461,7 @@
       "api_version": [
         "40",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -126638,7 +127539,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         195,
@@ -126716,7 +127617,7 @@
       "api_version": [
         "30",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -15,
@@ -126794,7 +127695,7 @@
       "api_version": [
         "70",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         241,
@@ -126872,7 +127773,7 @@
       "api_version": [
         "90",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         64,
@@ -126950,7 +127851,7 @@
       "api_version": [
         "70",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -127028,7 +127929,7 @@
       "api_version": [
         "80",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -127106,7 +128007,7 @@
       "api_version": [
         "20",
         "22",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -180,
@@ -127184,7 +128085,7 @@
       "api_version": [
         "11",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -127262,7 +128163,7 @@
       "api_version": [
         "12",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -127340,7 +128241,7 @@
       "api_version": [
         "39",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -127418,7 +128319,7 @@
       "api_version": [
         "42",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -127496,7 +128397,7 @@
       "api_version": [
         "29",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -127574,7 +128475,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -127652,7 +128553,7 @@
       "api_version": [
         "73",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -127730,7 +128631,7 @@
       "api_version": [
         "61",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -127808,7 +128709,7 @@
       "api_version": [
         "26",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         121,
@@ -127964,7 +128865,7 @@
       "api_version": [
         "6",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -128042,7 +128943,7 @@
       "api_version": [
         "61",
         "24",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -128120,7 +129021,7 @@
       "api_version": [
         "66",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -128198,7 +129099,7 @@
       "api_version": [
         "16",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -128276,7 +129177,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -128354,7 +129255,7 @@
       "api_version": [
         "69",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -128432,7 +129333,7 @@
       "api_version": [
         "14",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -128510,7 +129411,7 @@
       "api_version": [
         "51",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -128588,7 +129489,7 @@
       "api_version": [
         "27",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -128666,7 +129567,7 @@
       "api_version": [
         "34",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -128744,7 +129645,7 @@
       "api_version": [
         "15",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -128822,7 +129723,7 @@
       "api_version": [
         "45",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -42,
@@ -128900,7 +129801,7 @@
       "api_version": [
         "42",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         198,
@@ -128978,7 +129879,7 @@
       "api_version": [
         "23",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -129056,7 +129957,7 @@
       "api_version": [
         "25",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -129134,7 +130035,7 @@
       "api_version": [
         "25",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -129212,7 +130113,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -129368,7 +130269,7 @@
       "api_version": [
         "24",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -130070,7 +130971,7 @@
       "api_version": [
         "27",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -130148,7 +131049,7 @@
       "api_version": [
         "72",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -1,
@@ -130226,7 +131127,7 @@
       "api_version": [
         "63",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         192,
@@ -130304,7 +131205,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -130382,7 +131283,7 @@
       "api_version": [
         "60",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -130460,7 +131361,7 @@
       "api_version": [
         "111",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -130538,7 +131439,7 @@
       "api_version": [
         "80",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -130616,7 +131517,7 @@
       "api_version": [
         "66",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         156,
@@ -130694,7 +131595,7 @@
       "api_version": [
         "39",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -130772,7 +131673,7 @@
       "api_version": [
         "19",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -130850,7 +131751,7 @@
       "api_version": [
         "9",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -84,
@@ -130928,7 +131829,7 @@
       "api_version": [
         "8",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -131006,7 +131907,7 @@
       "api_version": [
         "8",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -131084,7 +131985,7 @@
       "api_version": [
         "47",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -131162,7 +132063,7 @@
       "api_version": [
         "11",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -131240,7 +132141,7 @@
       "api_version": [
         "15",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         30,
@@ -131318,7 +132219,7 @@
       "api_version": [
         "68",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         258,
@@ -131396,7 +132297,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -90,
@@ -131474,7 +132375,7 @@
       "api_version": [
         "13",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         234,
@@ -131552,7 +132453,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         198,
@@ -131630,7 +132531,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         102,
@@ -131708,7 +132609,7 @@
       "api_version": [
         "14",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -60,
@@ -131786,7 +132687,7 @@
       "api_version": [
         "2",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -131864,7 +132765,7 @@
       "api_version": [
         "21",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -131942,7 +132843,7 @@
       "api_version": [
         "1",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -132020,7 +132921,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -132098,7 +132999,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -132176,7 +133077,7 @@
       "api_version": [
         "2",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         174,
@@ -132254,7 +133155,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -132332,7 +133233,7 @@
       "api_version": [
         "66",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -132410,7 +133311,7 @@
       "api_version": [
         "35",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         228,
@@ -132488,7 +133389,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         114,
@@ -132566,7 +133467,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -132644,7 +133545,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -132722,7 +133623,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -132800,7 +133701,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         199,
@@ -132878,7 +133779,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -132956,7 +133857,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         258,
@@ -133034,7 +133935,7 @@
       "api_version": [
         "62",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         190,
@@ -133112,7 +134013,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         277,
@@ -133190,7 +134091,7 @@
       "api_version": [
         "103",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         186,
@@ -133268,7 +134169,7 @@
       "api_version": [
         "104",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         133,
@@ -133346,7 +134247,7 @@
       "api_version": [
         "92",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         163,
@@ -133424,7 +134325,7 @@
       "api_version": [
         "88",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         88,
@@ -133502,7 +134403,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         222,
@@ -133580,7 +134481,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -133658,7 +134559,7 @@
       "api_version": [
         "63",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         207,
@@ -133736,7 +134637,7 @@
       "api_version": [
         "48",
         "30",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         97,
@@ -133814,7 +134715,7 @@
       "api_version": [
         "3",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         174,
@@ -133892,7 +134793,7 @@
       "api_version": [
         "2",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         210,
@@ -133970,7 +134871,7 @@
       "api_version": [
         "2",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -134048,7 +134949,7 @@
       "api_version": [
         "88",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -134126,7 +135027,7 @@
       "api_version": [
         "3",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -134204,7 +135105,7 @@
       "api_version": [
         "4",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -134282,7 +135183,7 @@
       "api_version": [
         "3",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -21,
@@ -134360,7 +135261,7 @@
       "api_version": [
         "20",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -134438,7 +135339,7 @@
       "api_version": [
         "8",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -134516,7 +135417,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -134594,7 +135495,7 @@
       "api_version": [
         "29",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -134672,7 +135573,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -134750,7 +135651,7 @@
       "api_version": [
         "51",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -134828,7 +135729,7 @@
       "api_version": [
         "2",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -134906,7 +135807,7 @@
       "api_version": [
         "95",
         "41",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         283,
@@ -134984,7 +135885,7 @@
       "api_version": [
         "4",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -135062,7 +135963,7 @@
       "api_version": [
         "27",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -135140,7 +136041,7 @@
       "api_version": [
         "34",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -135218,7 +136119,7 @@
       "api_version": [
         "65",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -135296,7 +136197,7 @@
       "api_version": [
         "49",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -96,
@@ -135374,7 +136275,7 @@
       "api_version": [
         "45",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -42,
@@ -135452,7 +136353,7 @@
       "api_version": [
         "42",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         198,
@@ -135530,7 +136431,7 @@
       "api_version": [
         "23",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -135608,7 +136509,7 @@
       "api_version": [
         "43",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -135686,7 +136587,7 @@
       "api_version": [
         "20",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -135764,7 +136665,7 @@
       "api_version": [
         "2",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -30,
@@ -135842,7 +136743,7 @@
       "api_version": [
         "8",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -135920,7 +136821,7 @@
       "api_version": [
         "34",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -135998,7 +136899,7 @@
       "api_version": [
         "25",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -136076,7 +136977,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -136154,7 +137055,7 @@
       "api_version": [
         "11",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -136232,7 +137133,7 @@
       "api_version": [
         "63",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -136310,7 +137211,7 @@
       "api_version": [
         "72",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -136388,7 +137289,7 @@
       "api_version": [
         "42",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -136466,7 +137367,7 @@
       "api_version": [
         "14",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -72,
@@ -136544,7 +137445,7 @@
       "api_version": [
         "14",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -136622,7 +137523,7 @@
       "api_version": [
         "25",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -136700,7 +137601,7 @@
       "api_version": [
         "9",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -136778,7 +137679,7 @@
       "api_version": [
         "24",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -136856,7 +137757,7 @@
       "api_version": [
         "8",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -84,
@@ -136934,7 +137835,7 @@
       "api_version": [
         "2",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -137012,7 +137913,7 @@
       "api_version": [
         "41",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -137090,7 +137991,7 @@
       "api_version": [
         "46",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -137168,7 +138069,7 @@
       "api_version": [
         "24",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -137246,7 +138147,7 @@
       "api_version": [
         "3",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -137324,7 +138225,7 @@
       "api_version": [
         "3",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -137402,7 +138303,7 @@
       "api_version": [
         "14",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -60,
@@ -137480,7 +138381,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -90,
@@ -137558,7 +138459,7 @@
       "api_version": [
         "53",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         12,
@@ -137636,7 +138537,7 @@
       "api_version": [
         "30",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -60,
@@ -137714,7 +138615,7 @@
       "api_version": [
         "60",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -137792,7 +138693,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -137870,7 +138771,7 @@
       "api_version": [
         "34",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -137948,7 +138849,7 @@
       "api_version": [
         "53",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         12,
@@ -138026,7 +138927,7 @@
       "api_version": [
         "30",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -108,
@@ -138104,7 +139005,7 @@
       "api_version": [
         "15",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         30,
@@ -138182,7 +139083,7 @@
       "api_version": [
         "13",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         234,
@@ -138260,7 +139161,7 @@
       "api_version": [
         "34",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -138338,7 +139239,7 @@
       "api_version": [
         "111",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -36,
@@ -138416,7 +139317,7 @@
       "api_version": [
         "68",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         258,
@@ -138494,7 +139395,7 @@
       "api_version": [
         "80",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -48,
@@ -138572,7 +139473,7 @@
       "api_version": [
         "8",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -138650,7 +139551,7 @@
       "api_version": [
         "8",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -138728,7 +139629,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         198,
@@ -138806,7 +139707,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -138884,7 +139785,7 @@
       "api_version": [
         "66",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         156,
@@ -138962,7 +139863,7 @@
       "api_version": [
         "39",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         72,
@@ -139040,7 +139941,7 @@
       "api_version": [
         "19",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -139118,7 +140019,7 @@
       "api_version": [
         "29",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -139196,7 +140097,7 @@
       "api_version": [
         "25",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -139274,7 +140175,7 @@
       "api_version": [
         "20",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -139352,7 +140253,7 @@
       "api_version": [
         "14",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -139430,7 +140331,7 @@
       "api_version": [
         "47",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -139508,7 +140409,7 @@
       "api_version": [
         "29",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -139586,7 +140487,7 @@
       "api_version": [
         "25",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -139664,7 +140565,7 @@
       "api_version": [
         "20",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         160,
@@ -139742,7 +140643,7 @@
       "api_version": [
         "39",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         12,
@@ -139820,7 +140721,7 @@
       "api_version": [
         "14",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -139898,7 +140799,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -139976,7 +140877,7 @@
       "api_version": [
         "2",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         174,
@@ -140054,7 +140955,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         102,
@@ -140132,7 +141033,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -140210,7 +141111,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         222,
@@ -140288,7 +141189,7 @@
       "api_version": [
         "16",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -140366,7 +141267,7 @@
       "api_version": [
         "27",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         118,
@@ -140444,7 +141345,7 @@
       "api_version": [
         "27",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -140522,7 +141423,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         162,
@@ -140600,7 +141501,7 @@
       "api_version": [
         "63",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         207,
@@ -140678,7 +141579,7 @@
       "api_version": [
         "21",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -140834,7 +141735,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -140912,7 +141813,7 @@
       "api_version": [
         "81",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -140990,7 +141891,7 @@
       "api_version": [
         "35",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         228,
@@ -141068,7 +141969,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -141146,7 +142047,7 @@
       "api_version": [
         "3",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         222,
@@ -141224,7 +142125,7 @@
       "api_version": [
         "37",
         "38",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -141302,7 +142203,7 @@
       "api_version": [
         "21",
         "19",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         204,
@@ -141380,7 +142281,7 @@
       "api_version": [
         "19",
         "23",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -141458,7 +142359,7 @@
       "api_version": [
         "66",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -141536,7 +142437,7 @@
       "api_version": [
         "48",
         "30",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         97,
@@ -141614,7 +142515,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         192,
@@ -141692,7 +142593,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         252,
@@ -141770,7 +142671,7 @@
       "api_version": [
         "1",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -141848,7 +142749,7 @@
       "api_version": [
         "15",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -60,
@@ -141926,7 +142827,7 @@
       "api_version": [
         "56",
         "59",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -142004,7 +142905,7 @@
       "api_version": [
         "70",
         "84",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         114,
@@ -142082,7 +142983,7 @@
       "api_version": [
         "38",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         78,
@@ -142160,7 +143061,7 @@
       "api_version": [
         "38",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -142238,7 +143139,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         198,
@@ -142316,7 +143217,7 @@
       "api_version": [
         "65",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -142394,7 +143295,7 @@
       "api_version": [
         "65",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         180,
@@ -142472,7 +143373,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         198,
@@ -142550,7 +143451,7 @@
       "api_version": [
         "65",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -142628,7 +143529,7 @@
       "api_version": [
         "65",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         204,
@@ -142706,7 +143607,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -96,
@@ -142784,7 +143685,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -114,
@@ -142862,7 +143763,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -24,
@@ -142940,7 +143841,7 @@
       "api_version": [
         "56",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         93,
@@ -143018,7 +143919,7 @@
       "api_version": [
         "52",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         174,
@@ -143096,7 +143997,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -143174,7 +144075,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -143252,7 +144153,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         168,
@@ -143330,7 +144231,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         210,
@@ -143408,7 +144309,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         157,
@@ -143486,7 +144387,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         264,
@@ -143564,7 +144465,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         277,
@@ -143642,7 +144543,7 @@
       "api_version": [
         "103",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         228,
@@ -143720,7 +144621,7 @@
       "api_version": [
         "104",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         133,
@@ -143798,7 +144699,7 @@
       "api_version": [
         "53",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         258,
@@ -143876,7 +144777,7 @@
       "api_version": [
         "69",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         124,
@@ -143954,7 +144855,7 @@
       "api_version": [
         "73",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         69,
@@ -144032,7 +144933,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         258,
@@ -144110,7 +145011,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         222,
@@ -144188,7 +145089,7 @@
       "api_version": [
         "92",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         163,
@@ -144266,7 +145167,7 @@
       "api_version": [
         "61",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         138,
@@ -144344,7 +145245,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         55,
@@ -144422,7 +145323,7 @@
       "api_version": [
         "62",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         190,
@@ -144500,7 +145401,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         222,
@@ -144578,7 +145479,7 @@
       "api_version": [
         "62",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         208,
@@ -144656,7 +145557,7 @@
       "api_version": [
         "61",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -144734,7 +145635,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         55,
@@ -144812,7 +145713,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         180,
@@ -144890,7 +145791,7 @@
       "api_version": [
         "88",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         88,
@@ -144968,7 +145869,7 @@
       "api_version": [
         "58",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -102,
@@ -145046,7 +145947,7 @@
       "api_version": [
         "90",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         64,
@@ -145124,7 +146025,7 @@
       "api_version": [
         "80",
         "6",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -145202,7 +146103,7 @@
       "api_version": [
         "88",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         48,
@@ -145280,7 +146181,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -145358,7 +146259,7 @@
       "api_version": [
         "51",
         "14",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -192,
@@ -145436,7 +146337,7 @@
       "api_version": [
         "68",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         120,
@@ -145514,7 +146415,7 @@
       "api_version": [
         "51",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -145592,7 +146493,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         36,
@@ -145670,7 +146571,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -145748,7 +146649,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         240,
@@ -145826,7 +146727,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         174,
@@ -145904,7 +146805,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -177,
@@ -145982,7 +146883,7 @@
       "api_version": [
         "51",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -43,
@@ -146060,7 +146961,7 @@
       "api_version": [
         "62",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -146138,7 +147039,7 @@
       "api_version": [
         "61",
         "24",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         66,
@@ -146216,7 +147117,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -54,
@@ -146294,7 +147195,7 @@
       "api_version": [
         "73",
         "27",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -146372,7 +147273,7 @@
       "api_version": [
         "61",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         160,
@@ -146450,7 +147351,7 @@
       "api_version": [
         "62",
         "21",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -146528,7 +147429,7 @@
       "api_version": [
         "67",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -146606,7 +147507,7 @@
       "api_version": [
         "82",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         43,
@@ -146684,7 +147585,7 @@
       "api_version": [
         "70",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         144,
@@ -146762,7 +147663,7 @@
       "api_version": [
         "80",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -19,
@@ -146840,7 +147741,7 @@
       "api_version": [
         "95",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         115,
@@ -146918,7 +147819,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         192,
@@ -146996,7 +147897,7 @@
       "api_version": [
         "64",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         300,
@@ -147074,7 +147975,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -147152,7 +148053,7 @@
       "api_version": [
         "68",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         79,
@@ -147230,7 +148131,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         237,
@@ -147308,7 +148209,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -55,
@@ -147386,7 +148287,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -154,
@@ -147464,7 +148365,7 @@
       "api_version": [
         "90",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         180,
@@ -147542,7 +148443,7 @@
       "api_version": [
         "77",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -147620,7 +148521,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -55,
@@ -147698,7 +148599,7 @@
       "api_version": [
         "72",
         "12",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         60,
@@ -147776,7 +148677,7 @@
       "api_version": [
         "90",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         180,
@@ -147854,7 +148755,7 @@
       "api_version": [
         "77",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         108,
@@ -147932,7 +148833,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         40,
@@ -148010,7 +148911,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         81,
@@ -148088,7 +148989,7 @@
       "api_version": [
         "72",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         300,
@@ -148166,7 +149067,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         199,
@@ -148244,7 +149145,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -148322,7 +149223,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -144,
@@ -148400,7 +149301,7 @@
       "api_version": [
         "66",
         "13",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         118,
@@ -148478,7 +149379,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -148556,7 +149457,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -148634,7 +149535,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         27,
@@ -148712,7 +149613,7 @@
       "api_version": [
         "59",
         "33",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -88,
@@ -148790,7 +149691,7 @@
       "api_version": [
         "58",
         "29",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -127,
@@ -148868,7 +149769,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         43,
@@ -148946,7 +149847,7 @@
       "api_version": [
         "67",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         94,
@@ -149024,7 +149925,7 @@
       "api_version": [
         "62",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         67,
@@ -149102,7 +150003,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -46,
@@ -149180,7 +150081,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         112,
@@ -149258,7 +150159,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         43,
@@ -149336,7 +150237,7 @@
       "api_version": [
         "67",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         94,
@@ -149414,7 +150315,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -88,
@@ -149492,7 +150393,7 @@
       "api_version": [
         "65",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -91,
@@ -149570,7 +150471,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -102,
@@ -149648,7 +150549,7 @@
       "api_version": [
         "69",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         39,
@@ -149726,7 +150627,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         222,
@@ -149804,7 +150705,7 @@
       "api_version": [
         "51",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         192,
@@ -149882,7 +150783,7 @@
       "api_version": [
         "86",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         102,
@@ -149960,7 +150861,7 @@
       "api_version": [
         "69",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         39,
@@ -150038,7 +150939,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -138,
@@ -150116,7 +151017,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         166,
@@ -150194,7 +151095,7 @@
       "api_version": [
         "60",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         142,
@@ -150272,7 +151173,7 @@
       "api_version": [
         "63",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         207,
@@ -150350,7 +151251,7 @@
       "api_version": [
         "75",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -22,
@@ -150428,7 +151329,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         142,
@@ -150506,7 +151407,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         166,
@@ -150584,7 +151485,7 @@
       "api_version": [
         "60",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         142,
@@ -150662,7 +151563,7 @@
       "api_version": [
         "63",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         207,
@@ -150740,7 +151641,7 @@
       "api_version": [
         "75",
         "3",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         4,
@@ -150818,7 +151719,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         142,
@@ -150896,7 +151797,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         76,
@@ -150974,7 +151875,7 @@
       "api_version": [
         "59",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         49,
@@ -151052,7 +151953,7 @@
       "api_version": [
         "59",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         49,
@@ -151130,7 +152031,7 @@
       "api_version": [
         "59",
         "26",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         49,
@@ -151208,7 +152109,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -151286,7 +152187,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         76,
@@ -151364,7 +152265,7 @@
       "api_version": [
         "57",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         205,
@@ -151442,7 +152343,7 @@
       "api_version": [
         "62",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         136,
@@ -151520,7 +152421,7 @@
       "api_version": [
         "62",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         115,
@@ -151598,7 +152499,7 @@
       "api_version": [
         "90",
         "4",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         180,
@@ -151676,7 +152577,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         201,
@@ -151754,7 +152655,7 @@
       "api_version": [
         "53",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         159,
@@ -151832,7 +152733,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         274,
@@ -151910,7 +152811,7 @@
       "api_version": [
         "83",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         177,
@@ -151988,7 +152889,7 @@
       "api_version": [
         "63",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         30,
@@ -152066,7 +152967,7 @@
       "api_version": [
         "86",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         102,
@@ -152144,7 +153045,7 @@
       "api_version": [
         "80",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         181,
@@ -152222,7 +153123,7 @@
       "api_version": [
         "70",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         166,
@@ -152300,7 +153201,7 @@
       "api_version": [
         "83",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         177,
@@ -152378,7 +153279,7 @@
       "api_version": [
         "63",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         30,
@@ -152456,7 +153357,7 @@
       "api_version": [
         "51",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -152534,7 +153435,7 @@
       "api_version": [
         "55",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         210,
@@ -152612,7 +153513,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         289,
@@ -152690,7 +153591,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         196,
@@ -152768,7 +153669,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         145,
@@ -152846,7 +153747,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -138,
@@ -152924,7 +153825,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         207,
@@ -153002,7 +153903,7 @@
       "api_version": [
         "70",
         "10",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         241,
@@ -153080,7 +153981,7 @@
       "api_version": [
         "63",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         271,
@@ -153158,7 +154059,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         145,
@@ -153236,7 +154137,7 @@
       "api_version": [
         "55",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         133,
@@ -153314,7 +154215,7 @@
       "api_version": [
         "66",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         199,
@@ -153392,7 +154293,7 @@
       "api_version": [
         "68",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         141,
@@ -153470,7 +154371,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -184,
@@ -153548,7 +154449,7 @@
       "api_version": [
         "57",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -79,
@@ -153626,7 +154527,7 @@
       "api_version": [
         "55",
         "25",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         157,
@@ -153704,7 +154605,7 @@
       "api_version": [
         "66",
         "11",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         199,
@@ -153782,7 +154683,7 @@
       "api_version": [
         "68",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         141,
@@ -153860,7 +154761,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -184,
@@ -153938,7 +154839,7 @@
       "api_version": [
         "57",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -79,
@@ -154016,7 +154917,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -1,
@@ -154094,7 +154995,7 @@
       "api_version": [
         "53",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -112,
@@ -154172,7 +155073,7 @@
       "api_version": [
         "96",
         "37",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         214,
@@ -154250,7 +155151,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         232,
@@ -154328,7 +155229,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         132,
@@ -154406,7 +155307,7 @@
       "api_version": [
         "53",
         "15",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -112,
@@ -154484,7 +155385,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         105,
@@ -154562,7 +155463,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         105,
@@ -154640,7 +155541,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         187,
@@ -154718,7 +155619,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         79,
@@ -154796,7 +155697,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         240,
@@ -154874,7 +155775,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         174,
@@ -154952,7 +155853,7 @@
       "api_version": [
         "81",
         "16",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         216,
@@ -155030,7 +155931,7 @@
       "api_version": [
         "67",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         96,
@@ -155108,7 +156009,7 @@
       "api_version": [
         "60",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         237,
@@ -155186,7 +156087,7 @@
       "api_version": [
         "95",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         115,
@@ -155264,7 +156165,7 @@
       "api_version": [
         "69",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         124,
@@ -155342,7 +156243,7 @@
       "api_version": [
         "72",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         300,
@@ -155420,7 +156321,7 @@
       "api_version": [
         "73",
         "18",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         69,
@@ -155498,7 +156399,7 @@
       "api_version": [
         "82",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         43,
@@ -155576,7 +156477,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         40,
@@ -155654,7 +156555,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         27,
@@ -155732,7 +156633,7 @@
       "api_version": [
         "62",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         67,
@@ -155810,7 +156711,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         24,
@@ -155888,7 +156789,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -155966,7 +156867,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -46,
@@ -156044,7 +156945,7 @@
       "api_version": [
         "65",
         "8",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -84,
@@ -156122,7 +157023,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -138,
@@ -156200,7 +157101,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         145,
@@ -156278,7 +157179,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         201,
@@ -156356,7 +157257,7 @@
       "api_version": [
         "80",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         181,
@@ -156434,7 +157335,7 @@
       "api_version": [
         "51",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         220,
@@ -156512,7 +157413,7 @@
       "api_version": [
         "57",
         "7",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         159,
@@ -156590,7 +157491,7 @@
       "api_version": [
         "52",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -102,
@@ -156668,7 +157569,7 @@
       "api_version": [
         "56",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         93,
@@ -156746,7 +157647,7 @@
       "api_version": [
         "55",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         210,
@@ -156824,7 +157725,7 @@
       "api_version": [
         "88",
         "17",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         84,
@@ -156902,7 +157803,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         196,
@@ -156980,7 +157881,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         105,
@@ -157058,7 +157959,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         79,
@@ -157136,7 +158037,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -63,
@@ -157214,7 +158115,7 @@
       "api_version": [
         "70",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         166,
@@ -157292,7 +158193,7 @@
       "api_version": [
         "57",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         171,
@@ -157370,7 +158271,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         244,
@@ -157448,7 +158349,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         195,
@@ -157526,7 +158427,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         289,
@@ -157604,7 +158505,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         126,
@@ -157682,7 +158583,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         187,
@@ -157760,7 +158661,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         150,
@@ -157838,7 +158739,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -157916,7 +158817,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         81,
@@ -157994,7 +158895,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         18,
@@ -158072,7 +158973,7 @@
       "api_version": [
         "57",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         21,
@@ -158150,7 +159051,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -66,
@@ -158228,7 +159129,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         274,
@@ -158306,7 +159207,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         156,
@@ -158379,12 +159280,90 @@
       ]
     },
     {
+      "api_id": 727,
+      "api_filename": "pmheltnkuklh",
+      "api_version": [
+        "51",
+        "1",
+        "314"
+      ],
+      "api_battle_n": [
+        219,
+        190
+      ],
+      "api_battle_d": [
+        286,
+        178
+      ],
+      "api_sortno": 1727,
+      "api_boko_n": [
+        130,
+        202
+      ],
+      "api_boko_d": [
+        229,
+        201
+      ],
+      "api_kaisyu_n": [
+        49,
+        4
+      ],
+      "api_kaisyu_d": [
+        58,
+        7
+      ],
+      "api_kaizo_n": [
+        160,
+        82
+      ],
+      "api_kaizo_d": [
+        229,
+        43
+      ],
+      "api_map_n": [
+        168,
+        160
+      ],
+      "api_map_d": [
+        232,
+        160
+      ],
+      "api_ensyuf_n": [
+        178,
+        154
+      ],
+      "api_ensyuf_d": [
+        262,
+        139
+      ],
+      "api_ensyue_n": [
+        162,
+        0
+      ],
+      "api_weda": [
+        162,
+        -7
+      ],
+      "api_wedb": [
+        109,
+        193
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 877,
       "api_filename": "ixllqmqsmfdi",
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -88,
@@ -158462,7 +159441,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -88,
@@ -158540,7 +159519,7 @@
       "api_version": [
         "59",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -88,
@@ -158618,7 +159597,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         150,
@@ -158696,7 +159675,7 @@
       "api_version": [
         "68",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         163,
@@ -158774,7 +159753,7 @@
       "api_version": [
         "66",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         151,
@@ -158852,7 +159831,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         277,
@@ -158930,7 +159909,7 @@
       "api_version": [
         "57",
         "5",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         171,
@@ -159008,7 +159987,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         54,
@@ -159086,7 +160065,7 @@
       "api_version": [
         "68",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         124,
@@ -159164,7 +160143,7 @@
       "api_version": [
         "66",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         151,
@@ -159242,7 +160221,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         277,
@@ -159320,7 +160299,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         157,
@@ -159398,7 +160377,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -159476,7 +160455,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         244,
@@ -159554,7 +160533,7 @@
       "api_version": [
         "53",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         18,
@@ -159632,7 +160611,7 @@
       "api_version": [
         "54",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         0,
@@ -159710,7 +160689,7 @@
       "api_version": [
         "61",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         126,
@@ -159788,7 +160767,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         87,
@@ -159861,12 +160840,90 @@
       ]
     },
     {
+      "api_id": 904,
+      "api_filename": "pbxaffqftmeb",
+      "api_version": [
+        "51",
+        "1",
+        "314"
+      ],
+      "api_battle_n": [
+        48,
+        214
+      ],
+      "api_battle_d": [
+        -4,
+        283
+      ],
+      "api_sortno": 504,
+      "api_boko_n": [
+        1,
+        226
+      ],
+      "api_boko_d": [
+        -70,
+        358
+      ],
+      "api_kaisyu_n": [
+        3,
+        -4
+      ],
+      "api_kaisyu_d": [
+        -4,
+        -82
+      ],
+      "api_kaizo_n": [
+        3,
+        97
+      ],
+      "api_kaizo_d": [
+        -40,
+        174
+      ],
+      "api_map_n": [
+        21,
+        184
+      ],
+      "api_map_d": [
+        -37,
+        262
+      ],
+      "api_ensyuf_n": [
+        9,
+        165
+      ],
+      "api_ensyuf_d": [
+        -40,
+        211
+      ],
+      "api_ensyue_n": [
+        12,
+        0
+      ],
+      "api_weda": [
+        316,
+        -13
+      ],
+      "api_wedb": [
+        124,
+        199
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 905,
       "api_filename": "epdmhftmunjb",
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         195,
@@ -159944,7 +161001,7 @@
       "api_version": [
         "58",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         87,
@@ -160017,12 +161074,90 @@
       ]
     },
     {
+      "api_id": 909,
+      "api_filename": "kyqajbdvlhxw",
+      "api_version": [
+        "51",
+        "1",
+        "314"
+      ],
+      "api_battle_n": [
+        48,
+        214
+      ],
+      "api_battle_d": [
+        -4,
+        283
+      ],
+      "api_sortno": 509,
+      "api_boko_n": [
+        1,
+        226
+      ],
+      "api_boko_d": [
+        -70,
+        358
+      ],
+      "api_kaisyu_n": [
+        3,
+        -4
+      ],
+      "api_kaisyu_d": [
+        -4,
+        -82
+      ],
+      "api_kaizo_n": [
+        3,
+        97
+      ],
+      "api_kaizo_d": [
+        -40,
+        174
+      ],
+      "api_map_n": [
+        21,
+        184
+      ],
+      "api_map_d": [
+        -37,
+        262
+      ],
+      "api_ensyuf_n": [
+        9,
+        165
+      ],
+      "api_ensyuf_d": [
+        -40,
+        211
+      ],
+      "api_ensyue_n": [
+        12,
+        0
+      ],
+      "api_weda": [
+        316,
+        -13
+      ],
+      "api_wedb": [
+        124,
+        199
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 910,
       "api_filename": "eqnoxhfvioea",
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         195,
@@ -160100,7 +161235,7 @@
       "api_version": [
         "55",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -360,
@@ -160178,7 +161313,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         4,
@@ -160256,7 +161391,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         103,
@@ -160334,7 +161469,7 @@
       "api_version": [
         "55",
         "9",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -360,
@@ -160412,7 +161547,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         4,
@@ -160490,7 +161625,7 @@
       "api_version": [
         "67",
         "2",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         166,
@@ -160568,7 +161703,7 @@
       "api_version": [
         "56",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         165,
@@ -160641,12 +161776,90 @@
       ]
     },
     {
+      "api_id": 923,
+      "api_filename": "urkmcvixqwbf",
+      "api_version": [
+        "51",
+        "1",
+        "314"
+      ],
+      "api_battle_n": [
+        24,
+        208
+      ],
+      "api_battle_d": [
+        147,
+        213
+      ],
+      "api_sortno": 523,
+      "api_boko_n": [
+        -40,
+        211
+      ],
+      "api_boko_d": [
+        55,
+        220
+      ],
+      "api_kaisyu_n": [
+        21,
+        6
+      ],
+      "api_kaisyu_d": [
+        69,
+        25
+      ],
+      "api_kaizo_n": [
+        -24,
+        90
+      ],
+      "api_kaizo_d": [
+        75,
+        57
+      ],
+      "api_map_n": [
+        -16,
+        190
+      ],
+      "api_map_d": [
+        81,
+        199
+      ],
+      "api_ensyuf_n": [
+        -6,
+        180
+      ],
+      "api_ensyuf_d": [
+        105,
+        181
+      ],
+      "api_ensyue_n": [
+        -10,
+        0
+      ],
+      "api_weda": [
+        343,
+        -37
+      ],
+      "api_wedb": [
+        112,
+        184
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 925,
       "api_filename": "wqgjbrsicuxk",
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         105,
@@ -160724,7 +161937,7 @@
       "api_version": [
         "56",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         165,
@@ -160797,12 +162010,90 @@
       ]
     },
     {
+      "api_id": 928,
+      "api_filename": "jjfmynxxuonk",
+      "api_version": [
+        "51",
+        "1",
+        "314"
+      ],
+      "api_battle_n": [
+        24,
+        208
+      ],
+      "api_battle_d": [
+        147,
+        213
+      ],
+      "api_sortno": 528,
+      "api_boko_n": [
+        -40,
+        211
+      ],
+      "api_boko_d": [
+        55,
+        220
+      ],
+      "api_kaisyu_n": [
+        21,
+        6
+      ],
+      "api_kaisyu_d": [
+        69,
+        25
+      ],
+      "api_kaizo_n": [
+        -24,
+        90
+      ],
+      "api_kaizo_d": [
+        75,
+        57
+      ],
+      "api_map_n": [
+        -16,
+        190
+      ],
+      "api_map_d": [
+        81,
+        199
+      ],
+      "api_ensyuf_n": [
+        -6,
+        180
+      ],
+      "api_ensyuf_d": [
+        105,
+        181
+      ],
+      "api_ensyue_n": [
+        -10,
+        0
+      ],
+      "api_weda": [
+        343,
+        -37
+      ],
+      "api_wedb": [
+        112,
+        184
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 930,
       "api_filename": "frxnjxjjyicr",
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         105,
@@ -160880,7 +162171,7 @@
       "api_version": [
         "57",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         21,
@@ -160958,7 +162249,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -199,
@@ -161036,7 +162327,7 @@
       "api_version": [
         "55",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -66,
@@ -161114,7 +162405,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -199,
@@ -161192,7 +162483,7 @@
       "api_version": [
         "51",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         156,
@@ -161270,7 +162561,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         7,
@@ -161343,12 +162634,90 @@
       ]
     },
     {
+      "api_id": 945,
+      "api_filename": "qtzvitspnted",
+      "api_version": [
+        "51",
+        "1",
+        "314"
+      ],
+      "api_battle_n": [
+        219,
+        190
+      ],
+      "api_battle_d": [
+        286,
+        178
+      ],
+      "api_sortno": 545,
+      "api_boko_n": [
+        130,
+        202
+      ],
+      "api_boko_d": [
+        229,
+        201
+      ],
+      "api_kaisyu_n": [
+        49,
+        4
+      ],
+      "api_kaisyu_d": [
+        58,
+        7
+      ],
+      "api_kaizo_n": [
+        160,
+        82
+      ],
+      "api_kaizo_d": [
+        229,
+        43
+      ],
+      "api_map_n": [
+        168,
+        160
+      ],
+      "api_map_d": [
+        232,
+        160
+      ],
+      "api_ensyuf_n": [
+        178,
+        154
+      ],
+      "api_ensyuf_d": [
+        262,
+        139
+      ],
+      "api_ensyue_n": [
+        162,
+        0
+      ],
+      "api_weda": [
+        162,
+        -7
+      ],
+      "api_wedb": [
+        109,
+        193
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 948,
       "api_filename": "wpdtroidduxm",
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         7,
@@ -161426,7 +162795,7 @@
       "api_version": [
         "52",
         "1",
-        "303"
+        "314"
       ],
       "api_battle_n": [
         -88,
@@ -172546,6 +173915,210 @@
       "api_battle_d": [
         -94,
         -7
+      ]
+    },
+    {
+      "api_id": 2152,
+      "api_filename": "yddzmovsrytb",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -21,
+        63
+      ],
+      "api_battle_d": [
+        -21,
+        63
+      ]
+    },
+    {
+      "api_id": 2153,
+      "api_filename": "cffnkfnbntfx",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -21,
+        63
+      ],
+      "api_battle_d": [
+        -21,
+        63
+      ]
+    },
+    {
+      "api_id": 2154,
+      "api_filename": "gvpanvqhxeyo",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -21,
+        63
+      ],
+      "api_battle_d": [
+        -21,
+        63
+      ]
+    },
+    {
+      "api_id": 2155,
+      "api_filename": "migskwtplziw",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -21,
+        63
+      ],
+      "api_battle_d": [
+        -21,
+        63
+      ]
+    },
+    {
+      "api_id": 2156,
+      "api_filename": "gwcqewdkcnbm",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -21,
+        63
+      ],
+      "api_battle_d": [
+        -21,
+        63
+      ]
+    },
+    {
+      "api_id": 2157,
+      "api_filename": "uwoiiisongjr",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -21,
+        63
+      ],
+      "api_battle_d": [
+        -21,
+        63
+      ]
+    },
+    {
+      "api_id": 2158,
+      "api_filename": "jjkouaywkudw",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        85,
+        151
+      ],
+      "api_battle_d": [
+        85,
+        151
+      ]
+    },
+    {
+      "api_id": 2159,
+      "api_filename": "ynqkqjedvcic",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        85,
+        151
+      ],
+      "api_battle_d": [
+        85,
+        151
+      ]
+    },
+    {
+      "api_id": 2160,
+      "api_filename": "yvqmadxrmqvm",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        85,
+        151
+      ],
+      "api_battle_d": [
+        85,
+        151
+      ]
+    },
+    {
+      "api_id": 2161,
+      "api_filename": "obtpugwjlojy",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        85,
+        151
+      ],
+      "api_battle_d": [
+        85,
+        151
+      ]
+    },
+    {
+      "api_id": 2162,
+      "api_filename": "trelyeqmvbtw",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        85,
+        151
+      ],
+      "api_battle_d": [
+        85,
+        151
+      ]
+    },
+    {
+      "api_id": 2163,
+      "api_filename": "ismupbexewly",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        85,
+        151
+      ],
+      "api_battle_d": [
+        85,
+        151
       ]
     },
     {
