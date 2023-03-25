@@ -44829,48 +44829,48 @@
       "api_afterlv": 0,
       "api_aftershipid": "0",
       "api_taik": [
-        40,
-        59
+        19,
+        29
       ],
       "api_souk": [
-        14,
-        46
+        9,
+        39
       ],
       "api_houg": [
-        12,
-        37
+        3,
+        18
       ],
       "api_raig": [
         0,
         0
       ],
       "api_tyku": [
-        17,
-        41
+        10,
+        32
       ],
       "api_luck": [
-        22,
-        72
+        10,
+        63
       ],
       "api_soku": 5,
       "api_leng": 1,
       "api_slot_num": 3,
       "api_maxeq": [
-        8,
-        8,
-        2,
+        0,
+        0,
+        0,
         0,
         0
       ],
-      "api_buildtime": 150,
+      "api_buildtime": 14,
       "api_broken": [
+        1,
+        0,
         2,
-        2,
-        13,
-        5
+        0
       ],
       "api_powup": [
-        1,
+        0,
         0,
         1,
         1
@@ -44879,8 +44879,8 @@
       "api_getmes": "<br>",
       "api_afterfuel": 0,
       "api_afterbull": 0,
-      "api_fuel_max": 45,
-      "api_bull_max": 25,
+      "api_fuel_max": 15,
+      "api_bull_max": 10,
       "api_voicef": 1
     },
     {
@@ -47648,58 +47648,58 @@
       "api_afterlv": 50,
       "api_aftershipid": "727",
       "api_taik": [
-        38,
-        49
+        11,
+        19
       ],
       "api_souk": [
-        11,
-        34
+        5,
+        19
       ],
       "api_houg": [
-        4,
-        24
+        2,
+        9
       ],
       "api_raig": [
         0,
         0
       ],
       "api_tyku": [
-        15,
-        32
+        7,
+        26
       ],
       "api_luck": [
-        17,
-        57
+        8,
+        58
       ],
       "api_soku": 5,
       "api_leng": 1,
       "api_slot_num": 2,
       "api_maxeq": [
-        8,
-        2,
+        0,
+        0,
         0,
         0,
         0
       ],
-      "api_buildtime": 150,
+      "api_buildtime": 14,
       "api_broken": [
-        2,
-        2,
-        12,
-        2
+        1,
+        0,
+        1,
+        0
       ],
       "api_powup": [
         0,
         0,
-        1,
+        0,
         1
       ],
       "api_backs": 5,
       "api_getmes": "第百一号型輸送艦、えっと、そうだ、二等輸送艦の方が<br>わかりやすいですよね！一番艦、第百一号輸送艦です！<br>戦時急造ですが、私、結構よくできてますよ！　はい！",
-      "api_afterfuel": 180,
-      "api_afterbull": 370,
-      "api_fuel_max": 40,
-      "api_bull_max": 15,
+      "api_afterfuel": 170,
+      "api_afterbull": 60,
+      "api_fuel_max": 15,
+      "api_bull_max": 5,
       "api_voicef": 1
     },
     {
@@ -54339,7 +54339,7 @@
       "api_yomi": "",
       "api_stype": 10,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 5
     },
     {
@@ -54349,7 +54349,7 @@
       "api_yomi": "",
       "api_stype": 10,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 5
     },
     {
@@ -54359,7 +54359,7 @@
       "api_yomi": "",
       "api_stype": 10,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 5
     },
     {
@@ -54369,7 +54369,7 @@
       "api_yomi": "",
       "api_stype": 10,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 5
     },
     {
@@ -54379,7 +54379,7 @@
       "api_yomi": "",
       "api_stype": 10,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 5
     },
     {
@@ -54389,7 +54389,87 @@
       "api_yomi": "",
       "api_stype": 10,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2164,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 4
+    },
+    {
+      "api_id": 2165,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV-壊",
+      "api_yomi": "",
+      "api_stype": 9,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 4
+    },
+    {
+      "api_id": 2166,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 4
+    },
+    {
+      "api_id": 2167,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV-壊",
+      "api_yomi": "",
+      "api_stype": 9,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 4
+    },
+    {
+      "api_id": 2168,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2169,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV-壊",
+      "api_yomi": "",
+      "api_stype": 9,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2170,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV",
+      "api_yomi": "",
+      "api_stype": 10,
+      "api_ctype": 1,
+      "api_soku": 0,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2171,
+      "api_sort_id": 0,
+      "api_name": "集積地棲姫IV-壊",
+      "api_yomi": "",
+      "api_stype": 9,
+      "api_ctype": 1,
+      "api_soku": 0,
       "api_slot_num": 5
     }
   ],
@@ -81613,6 +81693,196 @@
         0
       ],
       "api_usebull": "0"
+    },
+    {
+      "api_id": 1634,
+      "api_sortno": 0,
+      "api_name": "深海艤装水上汎用襲撃機",
+      "api_type": [
+        5,
+        7,
+        11,
+        10,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 7,
+      "api_raig": 14,
+      "api_soku": 0,
+      "api_baku": 17,
+      "api_tyku": 7,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 9,
+      "api_raim": 0,
+      "api_houk": 6,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 5,
+      "api_rare": 5,
+      "api_broken": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 1635,
+      "api_sortno": 0,
+      "api_name": "深海突破襲撃機",
+      "api_type": [
+        3,
+        5,
+        8,
+        8,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 6,
+      "api_raig": 11,
+      "api_soku": 0,
+      "api_baku": 11,
+      "api_tyku": 4,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 4,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 5,
+      "api_rare": 3,
+      "api_broken": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 1636,
+      "api_sortno": 0,
+      "api_name": "深海突破襲撃機Ace",
+      "api_type": [
+        3,
+        5,
+        8,
+        8,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 9,
+      "api_raig": 13,
+      "api_soku": 0,
+      "api_baku": 16,
+      "api_tyku": 6,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 6,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 5,
+      "api_rare": 4,
+      "api_broken": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 1637,
+      "api_sortno": 0,
+      "api_name": "沿岸突撃半水中魚雷艇",
+      "api_type": [
+        2,
+        3,
+        22,
+        5,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 18,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 9,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 1,
+      "api_rare": 3,
+      "api_broken": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 1638,
+      "api_sortno": 0,
+      "api_name": "深海3inch単装高角砲+甲板機銃",
+      "api_type": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 5,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 7,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 3,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 1,
+      "api_rare": 2,
+      "api_broken": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_usebull": "0"
     }
   ],
   "api_mst_furnituregraph": [
@@ -84938,10 +85208,10 @@
       "api_id": 566,
       "api_maparea_id": 56,
       "api_no": 6,
-      "api_name": "",
-      "api_level": 1,
-      "api_opetext": "",
-      "api_infotext": "",
+      "api_name": "硫黄島沖",
+      "api_level": 17,
+      "api_opetext": "決戦！硫黄島逆上陸作戦",
+      "api_infotext": "いよいよ決戦だ！艦隊の全力<br>を挙げて硫黄島に向い、現地<br>で奮戦を続ける小笠原兵団を<br>救援する！艦隊、出撃せよ！",
       "api_item": [
         0,
         0,
@@ -87955,6 +88225,10 @@
     }
   ],
   "api_mst_const": {
+    "api_dpflag_quest": {
+      "api_string_value": "",
+      "api_int_value": 1
+    },
     "api_parallel_quest_max": {
       "api_string_value": "",
       "api_int_value": 10
@@ -87962,10 +88236,6 @@
     "api_boko_max_ships": {
       "api_string_value": "",
       "api_int_value": 570
-    },
-    "api_dpflag_quest": {
-      "api_string_value": "",
-      "api_int_value": 1
     }
   },
   "api_mst_shipupgrade": [
@@ -95666,10 +95936,13 @@
         4,
         12,
         15,
+        17,
         21,
         23,
+        27,
         29,
         30,
+        33,
         37,
         43,
         46,
@@ -96087,12 +96360,10 @@
       "api_ship_id": 945,
       "api_equip_type": [
         1,
-        4,
-        12,
         15,
+        17,
         21,
         23,
-        29,
         30,
         37,
         43,
@@ -174119,6 +174390,142 @@
       "api_battle_d": [
         85,
         151
+      ]
+    },
+    {
+      "api_id": 2164,
+      "api_filename": "immoyrzcjsdb",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -123,
+        70
+      ],
+      "api_battle_d": [
+        -123,
+        70
+      ]
+    },
+    {
+      "api_id": 2165,
+      "api_filename": "pxdpuejgwuuy",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -127,
+        39
+      ],
+      "api_battle_d": [
+        -127,
+        39
+      ]
+    },
+    {
+      "api_id": 2166,
+      "api_filename": "rvoiyhqcxvbb",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -123,
+        70
+      ],
+      "api_battle_d": [
+        -123,
+        70
+      ]
+    },
+    {
+      "api_id": 2167,
+      "api_filename": "xsevkuhkffkm",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -127,
+        39
+      ],
+      "api_battle_d": [
+        -127,
+        39
+      ]
+    },
+    {
+      "api_id": 2168,
+      "api_filename": "tnmfdfmhqigh",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -123,
+        70
+      ],
+      "api_battle_d": [
+        -123,
+        70
+      ]
+    },
+    {
+      "api_id": 2169,
+      "api_filename": "kczymnuhsknf",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -127,
+        39
+      ],
+      "api_battle_d": [
+        -127,
+        39
+      ]
+    },
+    {
+      "api_id": 2170,
+      "api_filename": "tfsccrfdqkje",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -123,
+        70
+      ],
+      "api_battle_d": [
+        -123,
+        70
+      ]
+    },
+    {
+      "api_id": 2171,
+      "api_filename": "jrftjshhwzeq",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        -127,
+        39
+      ],
+      "api_battle_d": [
+        -127,
+        39
       ]
     },
     {
