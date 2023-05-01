@@ -9498,8 +9498,8 @@
       "api_yomi": "はるな",
       "api_stype": 8,
       "api_ctype": 6,
-      "api_afterlv": 0,
-      "api_aftershipid": "0",
+      "api_afterlv": 88,
+      "api_aftershipid": "593",
       "api_taik": [
         81,
         99
@@ -9549,8 +9549,8 @@
       ],
       "api_backs": 7,
       "api_getmes": "<br>",
-      "api_afterfuel": 0,
-      "api_afterbull": 0,
+      "api_afterfuel": 7700,
+      "api_afterbull": 8300,
       "api_fuel_max": 100,
       "api_bull_max": 125,
       "api_voicef": 3
@@ -11915,7 +11915,7 @@
       ],
       "api_houg": [
         46,
-        77
+        78
       ],
       "api_raig": [
         32,
@@ -11936,7 +11936,7 @@
         2,
         2,
         9,
-        5,
+        6,
         0
       ],
       "api_buildtime": 90,
@@ -11980,7 +11980,7 @@
       ],
       "api_houg": [
         46,
-        77
+        79
       ],
       "api_raig": [
         33,
@@ -12001,7 +12001,7 @@
         2,
         2,
         9,
-        5,
+        6,
         0
       ],
       "api_buildtime": 90,
@@ -31622,7 +31622,7 @@
       ],
       "api_houg": [
         0,
-        56
+        59
       ],
       "api_raig": [
         0,
@@ -31641,9 +31641,9 @@
       "api_slot_num": 4,
       "api_maxeq": [
         17,
-        12,
-        12,
-        9,
+        22,
+        16,
+        4,
         0
       ],
       "api_buildtime": 100,
@@ -31687,7 +31687,7 @@
       ],
       "api_houg": [
         0,
-        55
+        58
       ],
       "api_raig": [
         0,
@@ -31706,9 +31706,9 @@
       "api_slot_num": 4,
       "api_maxeq": [
         17,
-        12,
-        12,
-        9,
+        22,
+        16,
+        4,
         0
       ],
       "api_buildtime": 100,
@@ -36881,6 +36881,71 @@
       "api_getmes": "<br>",
       "api_afterfuel": 0,
       "api_afterbull": 0,
+      "api_fuel_max": 100,
+      "api_bull_max": 160,
+      "api_voicef": 3
+    },
+    {
+      "api_id": 593,
+      "api_sortno": 393,
+      "api_sort_id": 1037,
+      "api_name": "榛名改二乙",
+      "api_yomi": "はるな",
+      "api_stype": 8,
+      "api_ctype": 6,
+      "api_afterlv": 90,
+      "api_aftershipid": "954",
+      "api_taik": [
+        85,
+        98
+      ],
+      "api_souk": [
+        70,
+        93
+      ],
+      "api_houg": [
+        74,
+        94
+      ],
+      "api_raig": [
+        17,
+        40
+      ],
+      "api_tyku": [
+        51,
+        94
+      ],
+      "api_luck": [
+        32,
+        100
+      ],
+      "api_soku": 10,
+      "api_leng": 3,
+      "api_slot_num": 4,
+      "api_maxeq": [
+        1,
+        2,
+        5,
+        4,
+        0
+      ],
+      "api_buildtime": 240,
+      "api_broken": [
+        14,
+        19,
+        38,
+        4
+      ],
+      "api_powup": [
+        4,
+        1,
+        3,
+        4
+      ],
+      "api_backs": 8,
+      "api_getmes": "<br>",
+      "api_afterfuel": 1700,
+      "api_afterbull": 1300,
       "api_fuel_max": 100,
       "api_bull_max": 160,
       "api_voicef": 3
@@ -47768,6 +47833,71 @@
       "api_voicef": 3
     },
     {
+      "api_id": 954,
+      "api_sortno": 554,
+      "api_sort_id": 1038,
+      "api_name": "榛名改二丙",
+      "api_yomi": "はるな",
+      "api_stype": 8,
+      "api_ctype": 6,
+      "api_afterlv": 90,
+      "api_aftershipid": "593",
+      "api_taik": [
+        85,
+        98
+      ],
+      "api_souk": [
+        70,
+        93
+      ],
+      "api_houg": [
+        75,
+        96
+      ],
+      "api_raig": [
+        18,
+        43
+      ],
+      "api_tyku": [
+        44,
+        91
+      ],
+      "api_luck": [
+        32,
+        100
+      ],
+      "api_soku": 10,
+      "api_leng": 3,
+      "api_slot_num": 4,
+      "api_maxeq": [
+        1,
+        2,
+        4,
+        3,
+        0
+      ],
+      "api_buildtime": 240,
+      "api_broken": [
+        14,
+        19,
+        38,
+        4
+      ],
+      "api_powup": [
+        4,
+        1,
+        3,
+        4
+      ],
+      "api_backs": 8,
+      "api_getmes": "<br>",
+      "api_afterfuel": 1700,
+      "api_afterbull": 1300,
+      "api_fuel_max": 100,
+      "api_bull_max": 160,
+      "api_voicef": 3
+    },
+    {
       "api_id": 959,
       "api_sortno": 559,
       "api_sort_id": 14046,
@@ -54862,8 +54992,10 @@
       "api_slotitem_id": 10,
       "api_ship_ids": [
         546,
+        593,
         911,
-        916
+        916,
+        954
       ]
     },
     {
@@ -54872,6 +55004,15 @@
         546,
         911,
         916
+      ]
+    },
+    {
+      "api_slotitem_id": 28,
+      "api_ship_ids": [
+        591,
+        592,
+        593,
+        954
       ]
     },
     {
@@ -54918,18 +55059,31 @@
         183,
         321,
         546,
+        593,
         894,
         899,
         911,
-        916
+        916,
+        954
+      ]
+    },
+    {
+      "api_slotitem_id": 88,
+      "api_ship_ids": [
+        591,
+        592,
+        593,
+        954
       ]
     },
     {
       "api_slotitem_id": 130,
       "api_ship_ids": [
         546,
+        593,
         911,
-        916
+        916,
+        954
       ]
     },
     {
@@ -54983,6 +55137,15 @@
       ]
     },
     {
+      "api_slotitem_id": 240,
+      "api_ship_ids": [
+        591,
+        592,
+        593,
+        954
+      ]
+    },
+    {
       "api_slotitem_id": 275,
       "api_ship_ids": [
         136,
@@ -54992,10 +55155,12 @@
         183,
         321,
         546,
+        593,
         894,
         899,
         911,
-        916
+        916,
+        954
       ]
     },
     {
@@ -55003,6 +55168,20 @@
       "api_ship_ids": [
         621,
         626
+      ]
+    },
+    {
+      "api_slotitem_id": 410,
+      "api_ship_ids": [
+        593,
+        954
+      ]
+    },
+    {
+      "api_slotitem_id": 411,
+      "api_ship_ids": [
+        593,
+        954
       ]
     },
     {
@@ -55097,8 +55276,10 @@
       "api_slotitem_id": 464,
       "api_ship_ids": [
         546,
+        593,
         911,
-        916
+        916,
+        954
       ]
     }
   ],
@@ -76862,6 +77043,82 @@
       "api_usebull": "0"
     },
     {
+      "api_id": 502,
+      "api_sortno": 502,
+      "api_name": "35.6cm連装砲改三(ダズル迷彩仕様)",
+      "api_type": [
+        1,
+        1,
+        3,
+        3,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 2,
+      "api_houg": 20,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 6,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 4,
+      "api_raim": 0,
+      "api_houk": 3,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 3,
+      "api_rare": 5,
+      "api_broken": [
+        0,
+        20,
+        24,
+        12
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_id": 503,
+      "api_sortno": 503,
+      "api_name": "35.6cm連装砲改四",
+      "api_type": [
+        1,
+        1,
+        3,
+        3,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 2,
+      "api_houg": 22,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 5,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 4,
+      "api_raim": 0,
+      "api_houk": 1,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 3,
+      "api_rare": 5,
+      "api_broken": [
+        0,
+        22,
+        24,
+        12
+      ],
+      "api_usebull": "0"
+    },
+    {
       "api_id": 1501,
       "api_sortno": 0,
       "api_name": "5inch単装砲",
@@ -82093,7 +82350,7 @@
       "api_type": 5,
       "api_no": 7,
       "api_filename": "008",
-      "api_version": "11"
+      "api_version": "12"
     },
     {
       "api_id": 174,
@@ -82198,7 +82455,7 @@
       "api_type": 2,
       "api_no": 35,
       "api_filename": "036",
-      "api_version": "100"
+      "api_version": "101"
     },
     {
       "api_id": 235,
@@ -82646,7 +82903,7 @@
       "api_type": 5,
       "api_no": 83,
       "api_filename": "084",
-      "api_version": "10"
+      "api_version": "11"
     },
     {
       "api_id": 445,
@@ -82688,7 +82945,7 @@
       "api_type": 5,
       "api_no": 93,
       "api_filename": "094",
-      "api_version": "37"
+      "api_version": "38"
     },
     {
       "api_id": 497,
@@ -82723,7 +82980,7 @@
       "api_type": 2,
       "api_no": 75,
       "api_filename": "076",
-      "api_version": "29"
+      "api_version": "30"
     },
     {
       "api_id": 523,
@@ -82786,7 +83043,7 @@
       "api_type": 2,
       "api_no": 87,
       "api_filename": "088",
-      "api_version": "2"
+      "api_version": "3"
     },
     {
       "api_id": 588,
@@ -84398,7 +84655,7 @@
       11,
       14,
       10,
-      13
+      -1
     ],
     "api_cabinet_2": [
       16,
@@ -84416,7 +84673,7 @@
       27,
       28,
       29,
-      21
+      -1
     ]
   },
   "api_mst_maparea": [
@@ -84454,11 +84711,6 @@
       "api_id": 7,
       "api_name": "南西海域",
       "api_type": 0
-    },
-    {
-      "api_id": 56,
-      "api_name": "絶対防衛線！「小笠原兵団」救援",
-      "api_type": 1
     }
   ],
   "api_mst_mapinfo": [
@@ -85253,138 +85505,6 @@
         0,
         0
       ]
-    },
-    {
-      "api_id": 561,
-      "api_maparea_id": 56,
-      "api_no": 1,
-      "api_name": "日本本土近海哨戒圏",
-      "api_level": 7,
-      "api_opetext": "S21作戦",
-      "api_infotext": "本土近海を跳梁し、我が海上<br>輸送路及び水上艦艇への脅威<br>となる敵潜水艦を捕捉、殲滅<br>する！敵機動部隊にも警戒！",
-      "api_item": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_max_maphp": 300,
-      "api_required_defeat_count": null,
-      "api_sally_flag": [
-        1,
-        0,
-        0
-      ]
-    },
-    {
-      "api_id": 562,
-      "api_maparea_id": 56,
-      "api_no": 2,
-      "api_name": "南西諸島沖/台湾沖",
-      "api_level": 12,
-      "api_opetext": "第二水雷戦隊 海上遊撃戦",
-      "api_infotext": "沖縄南西諸島方面に襲来した<br>敵侵攻部隊兵站を分断する！<br>精鋭第二水雷戦隊、海上遊<br>撃戦を展開、暁に勝利を！",
-      "api_item": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_max_maphp": 300,
-      "api_required_defeat_count": null,
-      "api_sally_flag": [
-        1,
-        7,
-        1
-      ]
-    },
-    {
-      "api_id": 563,
-      "api_maparea_id": 56,
-      "api_no": 3,
-      "api_name": "九州沖/四国沖/八丈島沖",
-      "api_level": 14,
-      "api_opetext": "敵空襲部隊を討て！",
-      "api_infotext": "いよいよ敵機動部隊が呉方面<br>及び関東地区への空襲を開始<br>した。我が全戦力を挙げて、<br>これを邀撃する！艦隊出撃！",
-      "api_item": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_max_maphp": 300,
-      "api_required_defeat_count": null,
-      "api_sally_flag": [
-        1,
-        7,
-        1
-      ]
-    },
-    {
-      "api_id": 564,
-      "api_maparea_id": 56,
-      "api_no": 4,
-      "api_name": "小笠原諸島航路/父島沖",
-      "api_level": 9,
-      "api_opetext": "伊号輸送作戦",
-      "api_infotext": "小笠原方面及び硫黄島の防備<br>を固めるため、横須賀鎮守府<br>配備の艦艇を中心に伊号輸送<br>作戦を実施する！艦隊抜錨！",
-      "api_item": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_max_maphp": 300,
-      "api_required_defeat_count": null,
-      "api_sally_flag": [
-        1,
-        0,
-        1
-      ]
-    },
-    {
-      "api_id": 565,
-      "api_maparea_id": 56,
-      "api_no": 5,
-      "api_name": "父島沖/硫黄島沖",
-      "api_level": 15,
-      "api_opetext": "出撃！八幡部隊",
-      "api_infotext": "小笠原方面の要衝、硫黄島に<br>侵攻部隊が襲来した！有力な<br>基地航空部隊を前線に展開、<br>艦隊と共にこれを邀撃せよ！",
-      "api_item": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_max_maphp": 300,
-      "api_required_defeat_count": null,
-      "api_sally_flag": [
-        1,
-        7,
-        1
-      ]
-    },
-    {
-      "api_id": 566,
-      "api_maparea_id": 56,
-      "api_no": 6,
-      "api_name": "硫黄島沖",
-      "api_level": 17,
-      "api_opetext": "決戦！硫黄島逆上陸作戦",
-      "api_infotext": "いよいよ決戦だ！艦隊の全力<br>を挙げて硫黄島に向い、現地<br>で奮戦を続ける小笠原兵団を<br>救援する！艦隊、出撃せよ！",
-      "api_item": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_max_maphp": 300,
-      "api_required_defeat_count": null,
-      "api_sally_flag": [
-        1,
-        7,
-        1
-      ]
     }
   ],
   "api_mst_mapbgm": [
@@ -85890,90 +86010,6 @@
       "api_boss_bgm": [
         150,
         150
-      ]
-    },
-    {
-      "api_id": 561,
-      "api_maparea_id": 56,
-      "api_no": 1,
-      "api_moving_bgm": 218,
-      "api_map_bgm": [
-        219,
-        219
-      ],
-      "api_boss_bgm": [
-        220,
-        220
-      ]
-    },
-    {
-      "api_id": 562,
-      "api_maparea_id": 56,
-      "api_no": 2,
-      "api_moving_bgm": 218,
-      "api_map_bgm": [
-        219,
-        219
-      ],
-      "api_boss_bgm": [
-        220,
-        220
-      ]
-    },
-    {
-      "api_id": 563,
-      "api_maparea_id": 56,
-      "api_no": 3,
-      "api_moving_bgm": 219,
-      "api_map_bgm": [
-        220,
-        220
-      ],
-      "api_boss_bgm": [
-        221,
-        221
-      ]
-    },
-    {
-      "api_id": 564,
-      "api_maparea_id": 56,
-      "api_no": 4,
-      "api_moving_bgm": 222,
-      "api_map_bgm": [
-        219,
-        219
-      ],
-      "api_boss_bgm": [
-        221,
-        221
-      ]
-    },
-    {
-      "api_id": 565,
-      "api_maparea_id": 56,
-      "api_no": 5,
-      "api_moving_bgm": 222,
-      "api_map_bgm": [
-        223,
-        223
-      ],
-      "api_boss_bgm": [
-        224,
-        224
-      ]
-    },
-    {
-      "api_id": 566,
-      "api_maparea_id": 56,
-      "api_no": 6,
-      "api_moving_bgm": 220,
-      "api_map_bgm": [
-        223,
-        223
-      ],
-      "api_boss_bgm": [
-        225,
-        225
       ]
     }
   ],
@@ -88308,80 +88344,6 @@
         2,
         0
       ]
-    },
-    {
-      "api_id": 301,
-      "api_disp_no": "S1",
-      "api_maparea_id": 56,
-      "api_name": "前衛支援任務",
-      "api_details": "支援艦隊を出撃させ、主力艦隊の<br>進撃を援護せよ！<br>(要:駆逐2隻)",
-      "api_reset_type": 0,
-      "api_damage_type": 0,
-      "api_time": 15,
-      "api_deck_num": 2,
-      "api_difficulty": 1,
-      "api_use_fuel": 0.5,
-      "api_use_bull": 0.8,
-      "api_win_item1": [
-        0,
-        0
-      ],
-      "api_win_item2": [
-        0,
-        0
-      ],
-      "api_win_mat_level": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_return_flag": 0,
-      "api_sample_fleet": [
-        8,
-        8,
-        2,
-        2,
-        0,
-        0
-      ]
-    },
-    {
-      "api_id": 302,
-      "api_disp_no": "S2",
-      "api_maparea_id": 56,
-      "api_name": "艦隊決戦支援任務",
-      "api_details": "主力艦隊支援を行う別動隊を出撃<br>させ、艦隊決戦を援護せよ！<br>(要:駆逐2隻)",
-      "api_reset_type": 0,
-      "api_damage_type": 0,
-      "api_time": 30,
-      "api_deck_num": 2,
-      "api_difficulty": 1,
-      "api_use_fuel": 0.5,
-      "api_use_bull": 0.8,
-      "api_win_item1": [
-        0,
-        0
-      ],
-      "api_win_item2": [
-        0,
-        0
-      ],
-      "api_win_mat_level": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "api_return_flag": 0,
-      "api_sample_fleet": [
-        8,
-        8,
-        8,
-        7,
-        2,
-        2
-      ]
     }
   ],
   "api_mst_const": {
@@ -88389,13 +88351,13 @@
       "api_string_value": "",
       "api_int_value": 570
     },
-    "api_dpflag_quest": {
-      "api_string_value": "",
-      "api_int_value": 1
-    },
     "api_parallel_quest_max": {
       "api_string_value": "",
       "api_int_value": 10
+    },
+    "api_dpflag_quest": {
+      "api_string_value": "",
+      "api_int_value": 1
     }
   },
   "api_mst_shipupgrade": [
@@ -88671,6 +88633,19 @@
       "api_aviation_mat_count": 0,
       "api_arms_mat_count": 0,
       "api_sortno": 21
+    },
+    {
+      "api_id": 79,
+      "api_current_ship_id": 0,
+      "api_original_ship_id": 79,
+      "api_upgrade_type": 1,
+      "api_upgrade_level": 0,
+      "api_drawing_count": 0,
+      "api_catapult_count": 0,
+      "api_report_count": 0,
+      "api_aviation_mat_count": 0,
+      "api_arms_mat_count": 0,
+      "api_sortno": 23
     },
     {
       "api_id": 80,
@@ -89167,6 +89142,19 @@
       "api_sortno": 150
     },
     {
+      "api_id": 151,
+      "api_current_ship_id": 211,
+      "api_original_ship_id": 79,
+      "api_upgrade_type": 1,
+      "api_upgrade_level": 2,
+      "api_drawing_count": 0,
+      "api_catapult_count": 0,
+      "api_report_count": 0,
+      "api_aviation_mat_count": 0,
+      "api_arms_mat_count": 0,
+      "api_sortno": 151
+    },
+    {
       "api_id": 171,
       "api_current_ship_id": 0,
       "api_original_ship_id": 171,
@@ -89360,6 +89348,19 @@
       "api_aviation_mat_count": 0,
       "api_arms_mat_count": 0,
       "api_sortno": 1310
+    },
+    {
+      "api_id": 211,
+      "api_current_ship_id": 79,
+      "api_original_ship_id": 79,
+      "api_upgrade_type": 1,
+      "api_upgrade_level": 1,
+      "api_drawing_count": 0,
+      "api_catapult_count": 0,
+      "api_report_count": 0,
+      "api_aviation_mat_count": 0,
+      "api_arms_mat_count": 0,
+      "api_sortno": 1311
     },
     {
       "api_id": 215,
@@ -91156,6 +91157,32 @@
       "api_sortno": 392
     },
     {
+      "api_id": 593,
+      "api_current_ship_id": 151,
+      "api_original_ship_id": 79,
+      "api_upgrade_type": 1,
+      "api_upgrade_level": 3,
+      "api_drawing_count": 2,
+      "api_catapult_count": 0,
+      "api_report_count": 1,
+      "api_aviation_mat_count": 0,
+      "api_arms_mat_count": 2,
+      "api_sortno": 393
+    },
+    {
+      "api_id": 593,
+      "api_current_ship_id": 954,
+      "api_original_ship_id": 79,
+      "api_upgrade_type": 1,
+      "api_upgrade_level": 5,
+      "api_drawing_count": 0,
+      "api_catapult_count": 0,
+      "api_report_count": 0,
+      "api_aviation_mat_count": 0,
+      "api_arms_mat_count": 0,
+      "api_sortno": 393
+    },
+    {
       "api_id": 594,
       "api_current_ship_id": 277,
       "api_original_ship_id": 83,
@@ -91896,6 +91923,19 @@
       "api_aviation_mat_count": 0,
       "api_arms_mat_count": 0,
       "api_sortno": 520
+    },
+    {
+      "api_id": 954,
+      "api_current_ship_id": 593,
+      "api_original_ship_id": 79,
+      "api_upgrade_type": 1,
+      "api_upgrade_level": 4,
+      "api_drawing_count": 0,
+      "api_catapult_count": 0,
+      "api_report_count": 0,
+      "api_aviation_mat_count": 0,
+      "api_arms_mat_count": 0,
+      "api_sortno": 554
     },
     {
       "api_id": 959,
@@ -95197,6 +95237,39 @@
       ]
     },
     {
+      "api_ship_id": 593,
+      "api_equip_type": [
+        3,
+        4,
+        5,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        28,
+        29,
+        33,
+        34,
+        36,
+        37,
+        39,
+        40,
+        42,
+        43,
+        45,
+        93,
+        95
+      ]
+    },
+    {
       "api_ship_id": 605,
       "api_equip_type": [
         5,
@@ -96707,6 +96780,39 @@
       ]
     },
     {
+      "api_ship_id": 954,
+      "api_equip_type": [
+        3,
+        4,
+        5,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        28,
+        29,
+        33,
+        34,
+        36,
+        37,
+        39,
+        40,
+        42,
+        43,
+        46,
+        93,
+        95
+      ]
+    },
+    {
       "api_ship_id": 959,
       "api_equip_type": [
         1,
@@ -96823,7 +96929,7 @@
       "api_description": "出撃による高揚した気分も<br>落ち着く青色カーペット。<br>艦娘たちもお気に入りです。",
       "api_rarity": 1,
       "api_price": 150,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -96865,7 +96971,7 @@
       "api_description": "冬を越え、春の訪れを感じ<br>させる色彩の、敷物です。<br>沈丁花の花がデザインされ<br>ています。その花言葉は、<br>「栄光」そして「永遠」。",
       "api_rarity": 4,
       "api_price": 1900,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97243,7 +97349,7 @@
       "api_description": "熟練の職人が鍛え抜かれた<br>技で仕上げた逸品。心も安<br>らぐ天然い草の香りが爽や<br>か。懐かしい、そして最高<br>級の畳の床です。",
       "api_rarity": 5,
       "api_price": 700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97509,7 +97615,7 @@
       "api_description": "壁紙ではなく、壁材自身を<br>木材に換装した逸品。自然<br>の素材ならではの落ち着い<br>た雰囲気が、鎮守府を優し<br>く包み込みます。",
       "api_rarity": 2,
       "api_price": 1000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97649,7 +97755,7 @@
       "api_description": "春の訪れを感じさせる季節<br>にぴったりの壁紙です。<br>「栄光」そして「不滅」…<br>そんな花言葉を持つ沈丁花<br>がデザインされています。",
       "api_rarity": 4,
       "api_price": 1900,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97677,7 +97783,7 @@
       "api_description": "打ちっぱなしの冷たいコン<br>クリート壁面がクール。知<br>的でセンスのある近代的な<br>艦隊司令部を演出します。",
       "api_rarity": 2,
       "api_price": 200,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -97691,7 +97797,7 @@
       "api_description": "一部艦娘に絶賛されている<br>ピンクのコンクリート壁。<br>打ちっぱなし壁面なのに、<br>キュートな独特の雰囲気。",
       "api_rarity": 2,
       "api_price": 250,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -98223,7 +98329,7 @@
       "api_description": "「海上護衛」の重要性を艦<br>娘たちに訴えかけるような<br>魂の掛け軸。大井提督の筆<br>によるものとも軽巡や駆逐<br>艦娘作など諸説あります。",
       "api_rarity": 3,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -98923,7 +99029,7 @@
       "api_description": "しょうぶの花がアレンジさ<br>れた和風家具。しょうぶの<br>葉を入れたお風呂、しょう<br>ぶ湯も健康によさそう！美<br>と武を祈る季節家具です。",
       "api_rarity": 3,
       "api_price": 1700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99121,7 +99227,7 @@
       "api_price": 188000,
       "api_saleflg": 1,
       "api_season": 0,
-      "api_version": 9,
+      "api_version": 10,
       "api_outside_id": 0,
       "api_active_flag": 1
     },
@@ -99217,7 +99323,7 @@
       "api_description": "提督の熱い要望によるちゃ<br>ぶ台＆座布団。もちろん、<br>ちゃぶ台返しは厳禁です。<br>ちゃぶ台の上には、艦娘お<br>手製の朝食が…頂きます！",
       "api_rarity": 3,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99567,7 +99673,7 @@
       "api_description": "鎮守府で戦術や航海の講義<br>をする際に用いる教室セッ<br>ト。その必需品の黒板一式<br>です。チョークや黒板消し<br>も完備。落書き禁止です！",
       "api_rarity": 4,
       "api_price": 50000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -99947,7 +100053,7 @@
       "api_price": 32000,
       "api_saleflg": 1,
       "api_season": 19,
-      "api_version": 54,
+      "api_version": 55,
       "api_outside_id": 4,
       "api_active_flag": 1
     },
@@ -100617,7 +100723,7 @@
       "api_description": "提督が忙しい業務の間隙を<br>縫って、艦娘たちのために<br>チョコのお返しを手作りす<br>るための特別なキッチン！<br>ダイナミック職人支援可！",
       "api_rarity": 5,
       "api_price": 150000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -100743,7 +100849,7 @@
       "api_description": "ある睦月型駆逐艦が僚艦の<br>駆逐艦と共に全力で作った<br>提督室の壁紙です。月の印<br>がデザインされた、少し和<br>の雰囲気が可愛いね！",
       "api_rarity": 3,
       "api_price": 1500,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -100757,7 +100863,7 @@
       "api_description": "改二となった睦月型駆逐艦<br>の趣味で制作された提督室<br>の窓です。大きく開いた窓<br>から景色も良く見えます。<br>シンプルで強いデザイン！",
       "api_rarity": 4,
       "api_price": 1750,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -100771,7 +100877,7 @@
       "api_description": "ある睦月型駆逐艦が信頼す<br>る司令官のために一生懸命<br>準備した特注執務机です。<br>機能的で、しかも可愛いね<br>と彼女も満足みたいです。",
       "api_rarity": 4,
       "api_price": 3500,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 17,
       "api_version": 1,
       "api_outside_id": 0,
@@ -100925,7 +101031,7 @@
       "api_description": "航空巡洋艦の模型が飾られ<br>た高級桐箪笥。家具コイン<br>長者に贈られるこの逸品…<br>大丈夫、箪笥には衝突しな<br>いって！痛っ、あ、あれ？",
       "api_rarity": 5,
       "api_price": 60000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101401,7 +101507,7 @@
       "api_description": "家具コイン長者に贈る二隻<br>の潜水空母の精密な模型が<br>配置された特製桐箪笥。潜<br>特型を補完するために建造<br>された潜水空母艦隊です。",
       "api_rarity": 5,
       "api_price": 51400,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101429,7 +101535,7 @@
       "api_description": "ある睦月型駆逐艦が家具職<br>人の手を借りて作り上げた<br>かなり凝った意匠の丸い窓<br>です。特注の弥生ブライン<br>ドも標準装備！豪華です。",
       "api_rarity": 4,
       "api_price": 3300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 1,
@@ -101457,7 +101563,7 @@
       "api_description": "提督が艦娘たちのために、<br>感謝の気持ちを込めて焼き<br>菓子を焼く季節。そんな春<br>の一日のために用意された<br>特別な壁紙を貴方に。",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101471,7 +101577,7 @@
       "api_description": "鎮守府提督室一杯に広がる<br>甘い焼き菓子の香り。そん<br>な提督室にぴったりの美味<br>しそうな雰囲気の床です。<br>艦娘たち、いつも感謝！",
       "api_rarity": 2,
       "api_price": 1200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101485,7 +101591,7 @@
       "api_description": "お返しの感謝の気持ちを上<br>手に伝えられない提督が、<br>密かに習字も練習して制作<br>した感謝の掛け軸。これな<br>ら気持ちがダイレクトに！",
       "api_rarity": 3,
       "api_price": 2000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -101597,7 +101703,7 @@
       "api_description": "高い機動力と第一線級艦爆<br>並みの潜在スペックを持つ<br>水上偵察機「瑞雲」。ある<br>艦娘が丹念に組み立てた模<br>型が飾られた桐箪笥です。",
       "api_rarity": 5,
       "api_price": 163400,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102297,7 +102403,7 @@
       "api_description": "圧倒的な歴戦の勇士が集う<br>第十七駆逐隊。彼女たちの<br>制服と部屋をイメージした<br>特注窓、堂々の完成です。<br>十七駆提督に贈る逸品！",
       "api_rarity": 5,
       "api_price": 3700,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -102633,7 +102739,7 @@
       "api_description": "お化粧の好きなある戦艦級<br>の艦娘が取り寄せた特注の<br>艦娘化粧鏡です。落ち着い<br>たデザインの中に、大人な<br>艦娘のセンスを感じます。",
       "api_rarity": 5,
       "api_price": 6200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102675,7 +102781,7 @@
       "api_description": "お返しのシーズンに海防艦<br>「対馬」が用意した特製の<br>掛け軸です。なにやら特注<br>部材を使いまくった逸品。<br>職人ダイナミック割引可！",
       "api_rarity": 5,
       "api_price": 103140,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102759,7 +102865,7 @@
       "api_description": "少し大人になったある睦月<br>型駆逐艦の用意した提督の<br>ためのお茶セットです。<br>菖蒲モチーフのインテリア<br>が提督室を演出します。",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102915,7 +103021,7 @@
       "api_price": 5500,
       "api_saleflg": 0,
       "api_season": 19,
-      "api_version": 10,
+      "api_version": 11,
       "api_outside_id": 0,
       "api_active_flag": 1
     },
@@ -103291,7 +103397,7 @@
       "api_description": "ポップな雰囲気のホワイト<br>デーをモチーフにした壁紙<br>です。艦娘たちに大人気の<br>ホワイトデーカーペットと<br>あわせてみたいですね！",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103305,7 +103411,7 @@
       "api_description": "楽しく優しい気持ちになれ<br>る、ホワイトデーシーズン<br>専用のカーペットです。駆<br>逐艦や海防艦など多くの艦<br>娘のお気に入りです！",
       "api_rarity": 3,
       "api_price": 1900,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103319,7 +103425,7 @@
       "api_description": "五輪の薔薇の花をデザイン<br>したレリーフの高級な石材<br>を使用した特注壁板です。<br>ホワイトデーには、薔薇の<br>花を贈るのも素敵ですね。",
       "api_rarity": 4,
       "api_price": 103140,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103333,7 +103439,7 @@
       "api_description": "高級石材を贅沢に使用した<br>ホワイトデーの季節にぴっ<br>たりの特注床板です。五本<br>の薔薇の花束を、お返しに<br>どうでしょう？",
       "api_rarity": 5,
       "api_price": 3140,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103347,7 +103453,7 @@
       "api_description": "改装を待つ主力オブ主力の<br>駆逐艦娘が用意した壁掛け<br>の花瓶飾り。ホワイトデー<br>には、薔薇の生花を飾るの<br>も素敵です。",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103375,7 +103481,7 @@
       "api_description": "そうなの？提督室に私達の<br>私物とか置いていいのね、<br>早く言ってくれればいいの<br>に…とかなんとか呟きつつ<br>ある艦娘が設置した家具。",
       "api_rarity": 5,
       "api_price": 4700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103445,7 +103551,7 @@
       "api_description": "木材やドラム缶で作られた<br>筏のミニチュアとある伊号<br>潜水艦のぬいぐるみが置か<br>れた新作の鎮守府窓です。<br>※七周年先行実装です！",
       "api_rarity": 5,
       "api_price": 4700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -103501,7 +103607,7 @@
       "api_description": "青と白、そして独特の意匠<br>と網がアレンジされた特注<br>の窓です。気分でカーテン<br>を閉めるのもいいですね。<br>職人ダイナミック割引可！",
       "api_rarity": 5,
       "api_price": 113000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 9,
@@ -103515,7 +103621,7 @@
       "api_description": "ある海外出身の傑作駆逐艦<br>ネームシップが持ち込んだ<br>特注デスクと、彼女専用の<br>ネービーチェアです。マグ<br>カップもお気に入りです。",
       "api_rarity": 4,
       "api_price": 2200,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103629,7 +103735,7 @@
       "api_price": 117000,
       "api_saleflg": 1,
       "api_season": 0,
-      "api_version": 37,
+      "api_version": 38,
       "api_outside_id": 0,
       "api_active_flag": 0
     },
@@ -103979,7 +104085,7 @@
       "api_price": 5000,
       "api_saleflg": 1,
       "api_season": 42,
-      "api_version": 29,
+      "api_version": 30,
       "api_outside_id": 4,
       "api_active_flag": 0
     },
@@ -104103,7 +104209,7 @@
       "api_description": "ある艦隊型駆逐艦が提督と<br>の時間を過ごすために家具<br>職人に依頼して作った特注<br>家具です。この机で執務は<br>…いえ、頑張れそうです！",
       "api_rarity": 5,
       "api_price": 9000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104173,7 +104279,7 @@
       "api_description": "たけのこ派の夢の家具が、<br>家具職人の手を借りて遂に<br>完成です！その名も…筍の<br>風流職人窓。筍羊羹も試作<br>しました。召し上がれ！",
       "api_rarity": 4,
       "api_price": 3000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -104215,7 +104321,7 @@
       "api_description": "阿賀野型軽巡、最後の二水<br>戦を率いて壮絶な戦いの海<br>に出撃した彼女。その精密<br>模型を配した特注高級箪笥<br>を。今、提督へ。",
       "api_rarity": 5,
       "api_price": 177000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104299,7 +104405,7 @@
       "api_description": "砕氷ですか？お任せくださ<br>い！という艦娘が特注家具<br>職人の謎の技術で完成した<br>チャージング航行砕氷床！<br>現代はラミング航行とも。",
       "api_rarity": 6,
       "api_price": 3800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104355,7 +104461,7 @@
       "api_description": "提督室にいながら、静かな<br>夜空の下にいる感覚を味わ<br>いたいという提督のために<br>生まれた夜空の壁。満天の<br>星の下で今宵艦娘と共に。",
       "api_rarity": 3,
       "api_price": 1300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104369,7 +104475,7 @@
       "api_description": "あるようでなかった新機軸<br>の窓。優しい質感の木製の<br>窓枠と横方向にスッと展開<br>する覗き窓のような横型の<br>窓。艦娘と覗いてみよう！",
       "api_rarity": 5,
       "api_price": 4000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 11,
@@ -104439,7 +104545,7 @@
       "api_description": "構わないで…といいつつ、<br>最近提督室によく来るよう<br>になったある可愛い駆逐艦<br>の壁掛け小物棚です。姉妹<br>専用の私物コーナー付き。",
       "api_rarity": 4,
       "api_price": 1800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104453,7 +104559,7 @@
       "api_description": "艦娘たちがそれぞれ作って<br>くれた自家製ケーキです。<br>ホールからプリンまで国内<br>海外出身の艦娘たちが腕に<br>よりをかけて作りました。",
       "api_rarity": 5,
       "api_price": 110000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104887,9 +104993,9 @@
       "api_description": "ある高速戦艦姉妹の一人が<br>提督とのゆっくりした時間<br>を過ごすため、職人さんに<br>特別にお願いした窓です。<br>榛名の時間を、君と。",
       "api_rarity": 5,
       "api_price": 2023,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
-      "api_version": 2,
+      "api_version": 3,
       "api_outside_id": 4,
       "api_active_flag": 0
     },
@@ -104976,6 +105082,34 @@
       "api_version": 1,
       "api_outside_id": 0,
       "api_active_flag": 1
+    },
+    {
+      "api_id": 590,
+      "api_type": 0,
+      "api_no": 82,
+      "api_title": "鯉のぼりの床板",
+      "api_description": "五月の季節の鎮守府に似合<br>う鯉のぼりを模した空色の<br>床板です。ちびっこ海防艦<br>たちや駆逐艦皐月、空色の<br>巡洋艦らにも好評です！",
+      "api_rarity": 3,
+      "api_price": 1505,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_version": 1,
+      "api_outside_id": 0,
+      "api_active_flag": 0
+    },
+    {
+      "api_id": 591,
+      "api_type": 1,
+      "api_no": 100,
+      "api_title": "菖蒲の壁",
+      "api_description": "菖蒲の季節を前面に押し出<br>した菖蒲の壁です。薬用や<br>お風呂、そして菖蒲の形が<br>刀に見えることやショウブ<br>＝勝負で魔除けの意味も！",
+      "api_rarity": 4,
+      "api_price": 2000,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_version": 1,
+      "api_outside_id": 0,
+      "api_active_flag": 0
     }
   ],
   "api_mst_shipgraph": [
@@ -115201,26 +115335,26 @@
       "api_id": 132,
       "api_filename": "khxsxmiuccsf",
       "api_version": [
-        "70",
+        "71",
         "10",
         "423"
       ],
       "api_battle_n": [
-        241,
-        217
+        0,
+        24
       ],
       "api_battle_d": [
-        241,
-        217
+        0,
+        66
       ],
       "api_sortno": 132,
       "api_boko_n": [
-        136,
-        231
+        9,
+        18
       ],
       "api_boko_d": [
-        136,
-        231
+        -6,
+        93
       ],
       "api_kaisyu_n": [
         36,
@@ -115231,40 +115365,40 @@
         0
       ],
       "api_kaizo_n": [
-        130,
-        94
+        9,
+        -66
       ],
       "api_kaizo_d": [
-        115,
-        58
+        9,
+        -36
       ],
       "api_map_n": [
-        195,
-        187
+        -15,
+        -12
       ],
       "api_map_d": [
-        195,
-        187
+        -60,
+        48
       ],
       "api_ensyuf_n": [
-        141,
-        178
+        60,
+        0
       ],
       "api_ensyuf_d": [
-        141,
-        178
+        -30,
+        -15
       ],
       "api_ensyue_n": [
-        127,
+        0,
         0
       ],
       "api_weda": [
-        163,
-        -28
+        261,
+        207
       ],
       "api_wedb": [
-        166,
-        180
+        216,
+        214
       ],
       "api_pa": [
         0,
@@ -116683,7 +116817,7 @@
       "api_id": 151,
       "api_filename": "ilxltdgucgbg",
       "api_version": [
-        "46",
+        "47",
         "29",
         "423"
       ],
@@ -128305,26 +128439,26 @@
       "api_id": 301,
       "api_filename": "ijhrnvnbqkmj",
       "api_version": [
-        "70",
+        "71",
         "10",
         "423"
       ],
       "api_battle_n": [
-        241,
-        217
+        0,
+        24
       ],
       "api_battle_d": [
-        241,
-        217
+        0,
+        66
       ],
       "api_sortno": 1397,
       "api_boko_n": [
-        136,
-        231
+        9,
+        18
       ],
       "api_boko_d": [
-        136,
-        231
+        -6,
+        93
       ],
       "api_kaisyu_n": [
         36,
@@ -128335,40 +128469,40 @@
         0
       ],
       "api_kaizo_n": [
-        130,
-        94
+        9,
+        -66
       ],
       "api_kaizo_d": [
-        115,
-        58
+        9,
+        -36
       ],
       "api_map_n": [
-        195,
-        187
+        -15,
+        -12
       ],
       "api_map_d": [
-        195,
-        187
+        -60,
+        48
       ],
       "api_ensyuf_n": [
-        141,
-        178
+        60,
+        0
       ],
       "api_ensyuf_d": [
-        141,
-        178
+        -30,
+        -15
       ],
       "api_ensyue_n": [
-        127,
+        0,
         0
       ],
       "api_weda": [
-        163,
-        -28
+        261,
+        207
       ],
       "api_wedb": [
-        166,
-        180
+        216,
+        214
       ],
       "api_pa": [
         0,
@@ -134779,26 +134913,26 @@
       "api_id": 384,
       "api_filename": "cggjgvkbrdby",
       "api_version": [
-        "105",
+        "106",
         "2",
         "423"
       ],
       "api_battle_n": [
-        199,
-        229
+        198,
+        78
       ],
       "api_battle_d": [
-        199,
-        211
+        60,
+        66
       ],
       "api_sortno": 1464,
       "api_boko_n": [
-        216,
-        253
+        249,
+        108
       ],
       "api_boko_d": [
-        216,
-        235
+        192,
+        102
       ],
       "api_kaisyu_n": [
         48,
@@ -134809,40 +134943,40 @@
         -18
       ],
       "api_kaizo_n": [
-        181,
-        129
+        162,
+        -30
       ],
       "api_kaizo_d": [
-        166,
-        76
+        48,
+        -60
       ],
       "api_map_n": [
-        208,
-        214
+        192,
+        54
       ],
       "api_map_d": [
-        208,
-        196
+        30,
+        60
       ],
       "api_ensyuf_n": [
-        195,
-        201
+        186,
+        60
       ],
       "api_ensyuf_d": [
-        195,
-        183
+        48,
+        60
       ],
       "api_ensyue_n": [
-        181,
+        180,
         0
       ],
       "api_weda": [
-        127,
-        -18
+        144,
+        150
       ],
       "api_wedb": [
-        115,
-        181
+        120,
+        168
       ],
       "api_pa": [
         0,
@@ -135247,26 +135381,26 @@
       "api_id": 392,
       "api_filename": "bvtpgrfoqzhq",
       "api_version": [
-        "48",
+        "49",
         "31",
         "423"
       ],
       "api_battle_n": [
-        97,
-        220
+        -192,
+        204
       ],
       "api_battle_d": [
-        193,
-        220
+        60,
+        216
       ],
       "api_sortno": 1472,
       "api_boko_n": [
-        24,
-        262
+        -120,
+        204
       ],
       "api_boko_d": [
-        108,
-        244
+        90,
+        240
       ],
       "api_kaisyu_n": [
         -21,
@@ -135277,44 +135411,44 @@
         0
       ],
       "api_kaizo_n": [
-        30,
+        -252,
         102
       ],
       "api_kaizo_d": [
-        114,
+        6,
         90
       ],
       "api_map_n": [
-        48,
-        190
+        -192,
+        180
       ],
       "api_map_d": [
-        148,
-        195
+        48,
+        192
       ],
       "api_ensyuf_n": [
-        49,
-        183
+        -228,
+        192
       ],
       "api_ensyuf_d": [
-        142,
-        196
+        36,
+        192
       ],
       "api_ensyue_n": [
-        34,
+        -234,
         0
       ],
       "api_weda": [
-        286,
-        -31
+        576,
+        -12
       ],
       "api_wedb": [
-        121,
-        174
+        126,
+        168
       ],
       "api_pa": [
-        196,
-        124
+        -592,
+        399
       ],
       "api_pab": [
         0,
@@ -143047,26 +143181,26 @@
       "api_id": 492,
       "api_filename": "mbuqrrnwsofd",
       "api_version": [
-        "48",
+        "49",
         "31",
         "423"
       ],
       "api_battle_n": [
-        97,
-        220
+        -192,
+        204
       ],
       "api_battle_d": [
-        193,
-        220
+        60,
+        216
       ],
       "api_sortno": 292,
       "api_boko_n": [
-        24,
-        262
+        -120,
+        204
       ],
       "api_boko_d": [
-        108,
-        244
+        90,
+        240
       ],
       "api_kaisyu_n": [
         -21,
@@ -143077,44 +143211,44 @@
         0
       ],
       "api_kaizo_n": [
-        30,
+        -252,
         102
       ],
       "api_kaizo_d": [
-        114,
+        6,
         90
       ],
       "api_map_n": [
-        48,
-        190
+        -192,
+        180
       ],
       "api_map_d": [
-        148,
-        195
+        48,
+        192
       ],
       "api_ensyuf_n": [
-        49,
-        183
+        -228,
+        192
       ],
       "api_ensyuf_d": [
-        142,
-        196
+        36,
+        192
       ],
       "api_ensyue_n": [
-        34,
+        -234,
         0
       ],
       "api_weda": [
-        286,
-        -31
+        576,
+        -12
       ],
       "api_wedb": [
-        121,
-        174
+        126,
+        168
       ],
       "api_pa": [
-        196,
-        124
+        -592,
+        399
       ],
       "api_pab": [
         0,
@@ -145231,26 +145365,26 @@
       "api_id": 525,
       "api_filename": "hakcdulvmfej",
       "api_version": [
-        "105",
+        "106",
         "2",
         "423"
       ],
       "api_battle_n": [
-        199,
-        229
+        198,
+        78
       ],
       "api_battle_d": [
-        199,
-        211
+        60,
+        66
       ],
       "api_sortno": 335,
       "api_boko_n": [
-        216,
-        253
+        249,
+        108
       ],
       "api_boko_d": [
-        216,
-        235
+        192,
+        102
       ],
       "api_kaisyu_n": [
         48,
@@ -145261,40 +145395,40 @@
         -18
       ],
       "api_kaizo_n": [
-        181,
-        129
+        162,
+        -30
       ],
       "api_kaizo_d": [
-        166,
-        76
+        48,
+        -60
       ],
       "api_map_n": [
-        208,
-        214
+        192,
+        54
       ],
       "api_map_d": [
-        208,
-        196
+        30,
+        60
       ],
       "api_ensyuf_n": [
-        195,
-        201
+        186,
+        60
       ],
       "api_ensyuf_d": [
-        195,
-        183
+        48,
+        60
       ],
       "api_ensyue_n": [
-        181,
+        180,
         0
       ],
       "api_weda": [
-        127,
-        -18
+        144,
+        150
       ],
       "api_wedb": [
-        115,
-        181
+        120,
+        168
       ],
       "api_pa": [
         0,
@@ -148975,26 +149109,26 @@
       "api_id": 574,
       "api_filename": "oaynhqvxddrq",
       "api_version": [
-        "90",
+        "91",
         "4",
         "423"
       ],
       "api_battle_n": [
-        180,
-        225
+        -4,
+        255
       ],
       "api_battle_d": [
-        207,
-        222
+        -63,
+        205
       ],
       "api_sortno": 374,
       "api_boko_n": [
-        114,
-        268
+        -70,
+        217
       ],
       "api_boko_d": [
-        145,
-        241
+        -79,
+        186
       ],
       "api_kaisyu_n": [
         16,
@@ -149005,40 +149139,40 @@
         25
       ],
       "api_kaizo_n": [
-        127,
-        91
+        -64,
+        81
       ],
       "api_kaizo_d": [
-        127,
-        76
+        -124,
+        30
       ],
       "api_map_n": [
-        136,
-        192
+        -55,
+        217
       ],
       "api_map_d": [
-        160,
-        195
+        -105,
+        181
       ],
       "api_ensyuf_n": [
-        148,
-        190
+        -28,
+        196
       ],
       "api_ensyuf_d": [
-        154,
-        193
+        -91,
+        156
       ],
       "api_ensyue_n": [
-        132,
+        -67,
         0
       ],
       "api_weda": [
-        195,
-        -25
+        403,
+        -19
       ],
       "api_wedb": [
         108,
-        171
+        162
       ],
       "api_pa": [
         0,
@@ -149287,26 +149421,26 @@
       "api_id": 579,
       "api_filename": "qauiuewvdpnz",
       "api_version": [
-        "90",
+        "91",
         "4",
         "423"
       ],
       "api_battle_n": [
-        180,
-        225
+        -4,
+        255
       ],
       "api_battle_d": [
-        207,
-        222
+        -63,
+        205
       ],
       "api_sortno": 379,
       "api_boko_n": [
-        114,
-        268
+        -70,
+        217
       ],
       "api_boko_d": [
-        145,
-        241
+        -79,
+        186
       ],
       "api_kaisyu_n": [
         16,
@@ -149317,40 +149451,40 @@
         25
       ],
       "api_kaizo_n": [
-        127,
-        91
+        -64,
+        81
       ],
       "api_kaizo_d": [
-        127,
-        76
+        -124,
+        30
       ],
       "api_map_n": [
-        136,
-        192
+        -55,
+        217
       ],
       "api_map_d": [
-        160,
-        195
+        -105,
+        181
       ],
       "api_ensyuf_n": [
-        148,
-        190
+        -28,
+        196
       ],
       "api_ensyuf_d": [
-        154,
-        193
+        -91,
+        156
       ],
       "api_ensyue_n": [
-        132,
+        -67,
         0
       ],
       "api_weda": [
-        195,
-        -25
+        403,
+        -19
       ],
       "api_wedb": [
         108,
-        171
+        162
       ],
       "api_pa": [
         0,
@@ -150376,6 +150510,84 @@
       ]
     },
     {
+      "api_id": 593,
+      "api_filename": "stztwgyskoqd",
+      "api_version": [
+        "51",
+        "29",
+        "423"
+      ],
+      "api_battle_n": [
+        -88,
+        214
+      ],
+      "api_battle_d": [
+        79,
+        223
+      ],
+      "api_sortno": 393,
+      "api_boko_n": [
+        -193,
+        211
+      ],
+      "api_boko_d": [
+        21,
+        244
+      ],
+      "api_kaisyu_n": [
+        31,
+        22
+      ],
+      "api_kaisyu_d": [
+        49,
+        -76
+      ],
+      "api_kaizo_n": [
+        -178,
+        97
+      ],
+      "api_kaizo_d": [
+        36,
+        88
+      ],
+      "api_map_n": [
+        -168,
+        190
+      ],
+      "api_map_d": [
+        34,
+        202
+      ],
+      "api_ensyuf_n": [
+        -130,
+        187
+      ],
+      "api_ensyuf_d": [
+        22,
+        184
+      ],
+      "api_ensyue_n": [
+        -142,
+        0
+      ],
+      "api_weda": [
+        481,
+        -33
+      ],
+      "api_wedb": [
+        118,
+        195
+      ],
+      "api_pa": [
+        397,
+        253
+      ],
+      "api_pab": [
+        -465,
+        400
+      ]
+    },
+    {
       "api_id": 594,
       "api_filename": "fihwdgptjcrf",
       "api_version": [
@@ -151003,26 +151215,26 @@
       "api_id": 602,
       "api_filename": "kobflkooyivx",
       "api_version": [
-        "66",
+        "67",
         "8",
         "423"
       ],
       "api_battle_n": [
-        130,
-        193
+        -91,
+        19
       ],
       "api_battle_d": [
-        136,
-        192
+        -28,
+        172
       ],
       "api_sortno": 402,
       "api_boko_n": [
-        76,
-        208
+        -145,
+        28
       ],
       "api_boko_d": [
-        81,
-        205
+        -79,
+        190
       ],
       "api_kaisyu_n": [
         22,
@@ -151033,44 +151245,44 @@
         -67
       ],
       "api_kaizo_n": [
-        85,
-        87
+        -124,
+        -102
       ],
       "api_kaizo_d": [
-        61,
-        39
+        -111,
+        27
       ],
       "api_map_n": [
-        130,
-        169
+        -123,
+        -1
       ],
       "api_map_d": [
-        100,
-        169
+        -61,
+        157
       ],
       "api_ensyuf_n": [
-        106,
-        165
+        -123,
+        -1
       ],
       "api_ensyuf_d": [
-        78,
-        166
+        -66,
+        153
       ],
       "api_ensyue_n": [
-        100,
+        -147,
         0
       ],
       "api_weda": [
-        226,
-        -25
+        472,
+        168
       ],
       "api_wedb": [
-        127,
-        189
+        153,
+        175
       ],
       "api_pa": [
-        270,
-        427
+        -379,
+        210
       ],
       "api_pab": [
         0,
@@ -152953,26 +153165,26 @@
       "api_id": 628,
       "api_filename": "jprihveusipc",
       "api_version": [
-        "63",
+        "64",
         "2",
         "423"
       ],
       "api_battle_n": [
-        108,
-        217
+        159,
+        220
       ],
       "api_battle_d": [
-        33,
+        199,
         223
       ],
       "api_sortno": 428,
       "api_boko_n": [
-        64,
-        229
+        130,
+        228
       ],
       "api_boko_d": [
-        -34,
-        232
+        139,
+        253
       ],
       "api_kaisyu_n": [
         19,
@@ -152983,40 +153195,40 @@
         -16
       ],
       "api_kaizo_n": [
-        70,
-        103
+        135,
+        108
       ],
       "api_kaizo_d": [
-        -25,
-        67
+        175,
+        82
       ],
       "api_map_n": [
-        91,
-        193
-      ],
-      "api_map_d": [
-        1,
+        153,
         199
       ],
+      "api_map_d": [
+        175,
+        222
+      ],
       "api_ensyuf_n": [
-        99,
+        150,
         186
       ],
       "api_ensyuf_d": [
-        -15,
-        184
+        193,
+        189
       ],
       "api_ensyue_n": [
-        76,
+        136,
         0
       ],
       "api_weda": [
-        261,
-        -37
+        205,
+        -31
       ],
       "api_wedb": [
-        123,
-        187
+        111,
+        180
       ],
       "api_pa": [
         0,
@@ -153031,26 +153243,26 @@
       "api_id": 629,
       "api_filename": "jhjyjljmfxma",
       "api_version": [
-        "63",
+        "64",
         "2",
         "423"
       ],
       "api_battle_n": [
-        108,
-        217
+        159,
+        220
       ],
       "api_battle_d": [
-        33,
+        199,
         223
       ],
       "api_sortno": 429,
       "api_boko_n": [
-        64,
-        229
+        130,
+        228
       ],
       "api_boko_d": [
-        -34,
-        232
+        139,
+        253
       ],
       "api_kaisyu_n": [
         34,
@@ -153061,40 +153273,40 @@
         -33
       ],
       "api_kaizo_n": [
-        70,
-        103
+        135,
+        108
       ],
       "api_kaizo_d": [
-        -25,
-        67
+        175,
+        82
       ],
       "api_map_n": [
-        91,
-        193
-      ],
-      "api_map_d": [
-        1,
+        153,
         199
       ],
+      "api_map_d": [
+        175,
+        222
+      ],
       "api_ensyuf_n": [
-        99,
+        150,
         186
       ],
       "api_ensyuf_d": [
-        -15,
-        184
+        193,
+        189
       ],
       "api_ensyue_n": [
-        76,
+        136,
         0
       ],
       "api_weda": [
-        261,
-        -37
+        205,
+        -31
       ],
       "api_wedb": [
-        123,
-        187
+        111,
+        180
       ],
       "api_pa": [
         0,
@@ -153109,26 +153321,26 @@
       "api_id": 630,
       "api_filename": "kgykxxmonxbh",
       "api_version": [
-        "90",
+        "91",
         "4",
         "423"
       ],
       "api_battle_n": [
-        180,
-        225
+        -13,
+        160
       ],
       "api_battle_d": [
-        207,
+        40,
         222
       ],
       "api_sortno": 430,
       "api_boko_n": [
-        114,
-        268
+        -57,
+        172
       ],
       "api_boko_d": [
-        145,
-        241
+        -6,
+        247
       ],
       "api_kaisyu_n": [
         24,
@@ -153139,40 +153351,40 @@
         -43
       ],
       "api_kaizo_n": [
-        127,
-        91
+        -93,
+        60
       ],
       "api_kaizo_d": [
-        127,
-        76
+        -33,
+        88
       ],
       "api_map_n": [
-        136,
-        192
+        -31,
+        139
       ],
       "api_map_d": [
-        160,
-        195
+        -7,
+        204
       ],
       "api_ensyuf_n": [
-        148,
-        190
+        -49,
+        129
       ],
       "api_ensyuf_d": [
-        154,
-        193
+        -21,
+        187
       ],
       "api_ensyue_n": [
-        132,
+        -64,
         0
       ],
       "api_weda": [
-        195,
-        -25
+        406,
+        28
       ],
       "api_wedb": [
-        108,
-        171
+        106,
+        169
       ],
       "api_pa": [
         0,
@@ -153655,26 +153867,26 @@
       "api_id": 637,
       "api_filename": "zhnvmyoxuein",
       "api_version": [
-        "82",
+        "83",
         "1",
         "423"
       ],
       "api_battle_n": [
-        277,
-        256
+        279,
+        226
       ],
       "api_battle_d": [
-        264,
-        223
+        279,
+        226
       ],
       "api_sortno": 437,
       "api_boko_n": [
-        213,
-        277
+        235,
+        247
       ],
       "api_boko_d": [
-        160,
-        268
+        235,
+        247
       ],
       "api_kaisyu_n": [
         52,
@@ -153685,40 +153897,40 @@
         -1
       ],
       "api_kaizo_n": [
-        229,
-        150
+        238,
+        121
       ],
       "api_kaizo_d": [
-        172,
-        70
+        223,
+        85
       ],
       "api_map_n": [
-        232,
-        222
+        244,
+        225
       ],
       "api_map_d": [
-        211,
-        208
+        244,
+        225
       ],
       "api_ensyuf_n": [
-        240,
-        202
+        258,
+        198
       ],
       "api_ensyuf_d": [
-        205,
-        166
+        258,
+        198
       ],
       "api_ensyue_n": [
-        238,
+        259,
         0
       ],
       "api_weda": [
-        81,
-        -45
+        78,
+        -40
       ],
       "api_wedb": [
-        124,
-        181
+        126,
+        211
       ],
       "api_pa": [
         0,
@@ -154513,26 +154725,26 @@
       "api_id": 648,
       "api_filename": "ulleoqzomsfl",
       "api_version": [
-        "70",
+        "71",
         "10",
         "423"
       ],
       "api_battle_n": [
-        241,
-        217
+        112,
+        156
       ],
       "api_battle_d": [
-        241,
-        217
+        157,
+        151
       ],
       "api_sortno": 448,
       "api_boko_n": [
-        136,
-        231
+        79,
+        156
       ],
       "api_boko_d": [
-        136,
-        231
+        97,
+        214
       ],
       "api_kaisyu_n": [
         18,
@@ -154543,40 +154755,40 @@
         -55
       ],
       "api_kaizo_n": [
-        130,
-        94
+        67,
+        39
       ],
       "api_kaizo_d": [
-        115,
-        58
+        97,
+        28
       ],
       "api_map_n": [
-        195,
-        187
+        132,
+        141
       ],
       "api_map_d": [
-        195,
-        187
+        183,
+        130
       ],
       "api_ensyuf_n": [
-        141,
-        178
+        99,
+        123
       ],
       "api_ensyuf_d": [
-        141,
-        178
+        121,
+        82
       ],
       "api_ensyue_n": [
-        127,
+        99,
         0
       ],
       "api_weda": [
-        163,
-        -28
+        217,
+        45
       ],
       "api_wedb": [
-        166,
-        180
+        180,
+        148
       ],
       "api_pa": [
         0,
@@ -157555,26 +157767,26 @@
       "api_id": 697,
       "api_filename": "fjdsybpwtaws",
       "api_version": [
-        "66",
+        "67",
         "8",
         "423"
       ],
       "api_battle_n": [
-        130,
-        193
+        -84,
+        19
       ],
       "api_battle_d": [
-        136,
-        192
+        -28,
+        190
       ],
       "api_sortno": 407,
       "api_boko_n": [
-        76,
-        208
+        -138,
+        28
       ],
       "api_boko_d": [
-        81,
-        205
+        -79,
+        208
       ],
       "api_kaisyu_n": [
         22,
@@ -157585,44 +157797,44 @@
         -67
       ],
       "api_kaizo_n": [
-        85,
-        87
+        -117,
+        -102
       ],
       "api_kaizo_d": [
-        61,
-        39
+        -111,
+        45
       ],
       "api_map_n": [
-        130,
-        169
+        -115,
+        -1
       ],
       "api_map_d": [
-        100,
-        169
+        -61,
+        175
       ],
       "api_ensyuf_n": [
-        106,
-        165
+        -115,
+        -1
       ],
       "api_ensyuf_d": [
-        78,
-        166
+        -66,
+        171
       ],
       "api_ensyue_n": [
-        100,
+        -139,
         0
       ],
       "api_weda": [
-        226,
-        -25
+        463,
+        168
       ],
       "api_wedb": [
-        127,
-        189
+        153,
+        175
       ],
       "api_pa": [
-        270,
-        427
+        -379,
+        210
       ],
       "api_pab": [
         0,
@@ -157867,26 +158079,26 @@
       "api_id": 701,
       "api_filename": "ujwdmefevbuy",
       "api_version": [
-        "82",
+        "83",
         "1",
         "423"
       ],
       "api_battle_n": [
-        277,
-        256
+        279,
+        226
       ],
       "api_battle_d": [
-        264,
-        223
+        279,
+        226
       ],
       "api_sortno": 1701,
       "api_boko_n": [
-        213,
-        277
+        235,
+        247
       ],
       "api_boko_d": [
-        160,
-        268
+        235,
+        247
       ],
       "api_kaisyu_n": [
         52,
@@ -157897,40 +158109,40 @@
         -1
       ],
       "api_kaizo_n": [
-        229,
-        150
+        238,
+        121
       ],
       "api_kaizo_d": [
-        172,
-        70
+        223,
+        85
       ],
       "api_map_n": [
-        232,
-        222
+        244,
+        225
       ],
       "api_map_d": [
-        211,
-        208
+        244,
+        225
       ],
       "api_ensyuf_n": [
-        240,
-        202
+        258,
+        198
       ],
       "api_ensyuf_d": [
-        205,
-        166
+        258,
+        198
       ],
       "api_ensyue_n": [
-        238,
+        259,
         0
       ],
       "api_weda": [
-        81,
-        -45
+        78,
+        -40
       ],
       "api_wedb": [
-        124,
-        181
+        126,
+        211
       ],
       "api_pa": [
         0,
@@ -159115,26 +159327,26 @@
       "api_id": 717,
       "api_filename": "ccuyfhwwjoho",
       "api_version": [
-        "62",
+        "63",
         "1",
         "423"
       ],
       "api_battle_n": [
-        240,
-        220
+        166,
+        204
       ],
       "api_battle_d": [
-        139,
-        223
+        166,
+        204
       ],
       "api_sortno": 1717,
       "api_boko_n": [
-        175,
-        232
+        139,
+        214
       ],
       "api_boko_d": [
-        73,
-        237
+        139,
+        214
       ],
       "api_kaisyu_n": [
         61,
@@ -159145,40 +159357,40 @@
         -31
       ],
       "api_kaizo_n": [
-        196,
-        109
+        127,
+        94
       ],
       "api_kaizo_d": [
-        76,
-        69
+        112,
+        60
       ],
       "api_map_n": [
-        193,
-        196
+        138,
+        190
       ],
       "api_map_d": [
-        97,
-        199
+        138,
+        190
       ],
       "api_ensyuf_n": [
-        211,
-        184
+        142,
+        172
       ],
       "api_ensyuf_d": [
-        105,
-        187
+        142,
+        172
       ],
       "api_ensyue_n": [
-        199,
+        151,
         0
       ],
       "api_weda": [
-        127,
-        -37
+        187,
+        -19
       ],
       "api_wedb": [
-        91,
-        184
+        139,
+        175
       ],
       "api_pa": [
         0,
@@ -161299,26 +161511,26 @@
       "api_id": 900,
       "api_filename": "rlqgnglcevfl",
       "api_version": [
-        "62",
+        "63",
         "1",
         "423"
       ],
       "api_battle_n": [
-        240,
-        220
+        166,
+        204
       ],
       "api_battle_d": [
-        139,
-        223
+        166,
+        204
       ],
       "api_sortno": 500,
       "api_boko_n": [
-        175,
-        232
+        139,
+        214
       ],
       "api_boko_d": [
-        73,
-        237
+        139,
+        214
       ],
       "api_kaisyu_n": [
         61,
@@ -161329,40 +161541,40 @@
         -31
       ],
       "api_kaizo_n": [
-        196,
-        109
+        127,
+        94
       ],
       "api_kaizo_d": [
-        76,
-        69
+        112,
+        60
       ],
       "api_map_n": [
-        193,
-        196
+        138,
+        190
       ],
       "api_map_d": [
-        97,
-        199
+        138,
+        190
       ],
       "api_ensyuf_n": [
-        211,
-        184
+        142,
+        172
       ],
       "api_ensyuf_d": [
-        105,
-        187
+        142,
+        172
       ],
       "api_ensyue_n": [
-        199,
+        151,
         0
       ],
       "api_weda": [
-        127,
-        -37
+        187,
+        -19
       ],
       "api_wedb": [
-        91,
-        184
+        139,
+        175
       ],
       "api_pa": [
         0,
@@ -163399,6 +163611,84 @@
       "api_pab": [
         0,
         0
+      ]
+    },
+    {
+      "api_id": 954,
+      "api_filename": "yzlukkewigbp",
+      "api_version": [
+        "51",
+        "29",
+        "423"
+      ],
+      "api_battle_n": [
+        -88,
+        214
+      ],
+      "api_battle_d": [
+        79,
+        223
+      ],
+      "api_sortno": 554,
+      "api_boko_n": [
+        -193,
+        211
+      ],
+      "api_boko_d": [
+        21,
+        244
+      ],
+      "api_kaisyu_n": [
+        31,
+        22
+      ],
+      "api_kaisyu_d": [
+        49,
+        -76
+      ],
+      "api_kaizo_n": [
+        -178,
+        97
+      ],
+      "api_kaizo_d": [
+        36,
+        88
+      ],
+      "api_map_n": [
+        -168,
+        190
+      ],
+      "api_map_d": [
+        34,
+        202
+      ],
+      "api_ensyuf_n": [
+        -130,
+        187
+      ],
+      "api_ensyuf_d": [
+        22,
+        184
+      ],
+      "api_ensyue_n": [
+        -142,
+        0
+      ],
+      "api_weda": [
+        481,
+        -33
+      ],
+      "api_wedb": [
+        118,
+        195
+      ],
+      "api_pa": [
+        397,
+        253
+      ],
+      "api_pab": [
+        -465,
+        400
       ]
     },
     {
