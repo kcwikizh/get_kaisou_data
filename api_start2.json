@@ -77577,6 +77577,86 @@
       "api_version": 2
     },
     {
+      "api_id": 509,
+      "api_sortno": 509,
+      "api_name": "12cm単装高角砲E型改",
+      "api_type": [
+        1,
+        1,
+        1,
+        16,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 1,
+      "api_houg": 1,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 4,
+      "api_tais": 2,
+      "api_atap": 0,
+      "api_houm": 1,
+      "api_raim": 0,
+      "api_houk": 3,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 0,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 1,
+      "api_rare": 3,
+      "api_broken": [
+        0,
+        3,
+        2,
+        1
+      ],
+      "api_usebull": "0",
+      "api_version": 2
+    },
+    {
+      "api_id": 510,
+      "api_sortno": 510,
+      "api_name": "Walrus",
+      "api_type": [
+        5,
+        7,
+        10,
+        50,
+        49
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 0,
+      "api_tais": 4,
+      "api_atap": 0,
+      "api_houm": 1,
+      "api_raim": 0,
+      "api_houk": 0,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 4,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_cost": 10,
+      "api_distance": 3,
+      "api_rare": 3,
+      "api_broken": [
+        2,
+        2,
+        0,
+        4
+      ],
+      "api_usebull": "0",
+      "api_version": 2
+    },
+    {
       "api_id": 1501,
       "api_sortno": 0,
       "api_name": "5inch単装砲",
@@ -88859,17 +88939,17 @@
     }
   ],
   "api_mst_const": {
-    "api_dpflag_quest": {
+    "api_parallel_quest_max": {
       "api_string_value": "",
-      "api_int_value": 1
+      "api_int_value": 10
     },
     "api_boko_max_ships": {
       "api_string_value": "",
       "api_int_value": 590
     },
-    "api_parallel_quest_max": {
+    "api_dpflag_quest": {
       "api_string_value": "",
-      "api_int_value": 10
+      "api_int_value": 1
     }
   },
   "api_mst_shipupgrade": [
