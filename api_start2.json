@@ -35661,12 +35661,12 @@
       "api_afterlv": 50,
       "api_aftershipid": "577",
       "api_taik": [
-        82,
+        81,
         92
       ],
       "api_souk": [
-        74,
-        92
+        73,
+        93
       ],
       "api_houg": [
         72,
@@ -35678,11 +35678,11 @@
       ],
       "api_tyku": [
         24,
-        82
+        83
       ],
       "api_luck": [
-        24,
-        89
+        23,
+        87
       ],
       "api_soku": 5,
       "api_leng": 3,
@@ -35708,7 +35708,7 @@
         4
       ],
       "api_backs": 7,
-      "api_getmes": "※",
+      "api_getmes": "私がRodneyよ。ちょっとだけ……待った？<br>Admiral、姉が随分お世話になっているみたい？<br>でも、私が来たからには、もう大丈夫よ！",
       "api_afterfuel": 2800,
       "api_afterbull": 1700,
       "api_fuel_max": 95,
@@ -35986,12 +35986,12 @@
       "api_afterlv": 0,
       "api_aftershipid": "0",
       "api_taik": [
-        93,
+        92,
         98
       ],
       "api_souk": [
-        84,
-        104
+        83,
+        105
       ],
       "api_houg": [
         81,
@@ -36003,11 +36003,11 @@
       ],
       "api_tyku": [
         30,
-        92
+        94
       ],
       "api_luck": [
-        28,
-        98
+        27,
+        97
       ],
       "api_soku": 5,
       "api_leng": 3,
@@ -56415,61 +56415,61 @@
     {
       "api_id": 2198,
       "api_sort_id": 0,
-      "api_name": "#E7新敵",
+      "api_name": "欧州妹姫",
       "api_yomi": "",
-      "api_stype": 2,
+      "api_stype": 9,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 4
     },
     {
       "api_id": 2199,
       "api_sort_id": 0,
-      "api_name": "#E7新敵",
+      "api_name": "欧州妹姫",
       "api_yomi": "",
-      "api_stype": 2,
+      "api_stype": 9,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 4
     },
     {
       "api_id": 2200,
       "api_sort_id": 0,
-      "api_name": "#E7新敵",
+      "api_name": "欧州妹姫",
       "api_yomi": "",
-      "api_stype": 2,
+      "api_stype": 9,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 4
     },
     {
       "api_id": 2201,
       "api_sort_id": 0,
-      "api_name": "#E7新敵-壊",
+      "api_name": "欧州妹姫-壊",
       "api_yomi": "",
-      "api_stype": 2,
+      "api_stype": 9,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 4
     },
     {
       "api_id": 2202,
       "api_sort_id": 0,
-      "api_name": "#E7新敵-壊",
+      "api_name": "欧州妹姫-壊",
       "api_yomi": "",
-      "api_stype": 2,
+      "api_stype": 9,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 4
     },
     {
       "api_id": 2203,
       "api_sort_id": 0,
-      "api_name": "#E7新敵-壊",
+      "api_name": "欧州妹姫-壊",
       "api_yomi": "",
-      "api_stype": 2,
+      "api_stype": 9,
       "api_ctype": 1,
-      "api_soku": 10,
+      "api_soku": 5,
       "api_slot_num": 4
     }
   ],
@@ -88342,12 +88342,12 @@
       "api_id": 577,
       "api_maparea_id": 57,
       "api_no": 7,
-      "api_name": "",
-      "api_level": 0,
-      "api_opetext": "",
-      "api_infotext": "",
+      "api_name": "ノルマンディー沖",
+      "api_level": 18,
+      "api_opetext": "ノルマンディー上陸作戦",
+      "api_infotext": "全ての作戦準備は整った！<br>今こそノルマンディー上陸<br>作戦を実施する時！全艦隊<br>発進せよ！暁に勝利を！",
       "api_item": [
-        0,
+        32,
         0,
         0,
         0
@@ -91373,10 +91373,6 @@
     }
   ],
   "api_mst_const": {
-    "api_parallel_quest_max": {
-      "api_string_value": "",
-      "api_int_value": 10
-    },
     "api_boko_max_ships": {
       "api_string_value": "",
       "api_int_value": 590
@@ -91384,6 +91380,10 @@
     "api_dpflag_quest": {
       "api_string_value": "",
       "api_int_value": 1
+    },
+    "api_parallel_quest_max": {
+      "api_string_value": "",
+      "api_int_value": 10
     }
   },
   "api_mst_shipupgrade": [
@@ -180822,12 +180822,12 @@
         "1"
       ],
       "api_battle_n": [
-        85,
-        205
+        -90,
+        193
       ],
       "api_battle_d": [
-        85,
-        205
+        -90,
+        193
       ]
     },
     {
@@ -180839,12 +180839,12 @@
         "1"
       ],
       "api_battle_n": [
-        85,
-        205
+        -90,
+        193
       ],
       "api_battle_d": [
-        85,
-        205
+        -90,
+        193
       ]
     },
     {
@@ -180856,12 +180856,12 @@
         "1"
       ],
       "api_battle_n": [
-        85,
-        205
+        -90,
+        193
       ],
       "api_battle_d": [
-        85,
-        205
+        -90,
+        193
       ]
     },
     {
@@ -180873,12 +180873,12 @@
         "1"
       ],
       "api_battle_n": [
-        85,
-        205
+        -90,
+        193
       ],
       "api_battle_d": [
-        85,
-        205
+        -90,
+        193
       ]
     },
     {
@@ -180890,12 +180890,12 @@
         "1"
       ],
       "api_battle_n": [
-        85,
-        205
+        -90,
+        193
       ],
       "api_battle_d": [
-        85,
-        205
+        -90,
+        193
       ]
     },
     {
@@ -180907,12 +180907,12 @@
         "1"
       ],
       "api_battle_n": [
-        85,
-        205
+        -90,
+        193
       ],
       "api_battle_d": [
-        85,
-        205
+        -90,
+        193
       ]
     },
     {
