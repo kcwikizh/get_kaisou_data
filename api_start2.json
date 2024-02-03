@@ -80089,6 +80089,47 @@
       "api_version": 2
     },
     {
+      "api_id": 521,
+      "api_sortno": 521,
+      "api_name": "紫雲(熟練)",
+      "api_type": [
+        5,
+        7,
+        10,
+        10,
+        2
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 1,
+      "api_tyku": 0,
+      "api_tais": 4,
+      "api_atap": 0,
+      "api_houm": 2,
+      "api_raim": 0,
+      "api_houk": 2,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 9,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_cost": 10,
+      "api_distance": 5,
+      "api_rare": 5,
+      "api_broken": [
+        2,
+        1,
+        0,
+        17
+      ],
+      "api_usebull": "0",
+      "api_version": 2
+    },
+    {
       "api_id": 1501,
       "api_sortno": 0,
       "api_name": "5inch単装砲",
@@ -91593,13 +91634,13 @@
       "api_string_value": "",
       "api_int_value": 1
     },
-    "api_parallel_quest_max": {
-      "api_string_value": "",
-      "api_int_value": 10
-    },
     "api_boko_max_ships": {
       "api_string_value": "",
       "api_int_value": 620
+    },
+    "api_parallel_quest_max": {
+      "api_string_value": "",
+      "api_int_value": 10
     }
   },
   "api_mst_shipupgrade": [
