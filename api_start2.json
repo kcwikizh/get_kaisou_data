@@ -50043,6 +50043,71 @@
       "api_voicef": 1
     },
     {
+      "api_id": 972,
+      "api_sortno": 572,
+      "api_sort_id": 22261,
+      "api_name": "伊41",
+      "api_yomi": "い41",
+      "api_stype": 14,
+      "api_ctype": 127,
+      "api_afterlv": 50,
+      "api_aftershipid": "977",
+      "api_taik": [
+        14,
+        19
+      ],
+      "api_souk": [
+        4,
+        20
+      ],
+      "api_houg": [
+        2,
+        8
+      ],
+      "api_raig": [
+        36,
+        73
+      ],
+      "api_tyku": [
+        0,
+        0
+      ],
+      "api_luck": [
+        18,
+        71
+      ],
+      "api_soku": 5,
+      "api_leng": 1,
+      "api_slot_num": 2,
+      "api_maxeq": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "api_buildtime": 22,
+      "api_broken": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "api_powup": [
+        0,
+        2,
+        1,
+        0
+      ],
+      "api_backs": 5,
+      "api_getmes": "伊号潜水艦、巡潜乙型改一。その二番艦、伊41、見参！<br>あんたが提督って訳かい？　あの艦長とどっちがすげーかな？<br>ま、見せておくれよ、その采配ってのを！",
+      "api_afterfuel": 170,
+      "api_afterbull": 290,
+      "api_fuel_max": 10,
+      "api_bull_max": 20,
+      "api_voicef": 1
+    },
+    {
       "api_id": 976,
       "api_sortno": 576,
       "api_sort_id": 22252,
@@ -50075,6 +50140,71 @@
       "api_luck": [
         48,
         96
+      ],
+      "api_soku": 5,
+      "api_leng": 1,
+      "api_slot_num": 2,
+      "api_maxeq": [
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      "api_buildtime": 22,
+      "api_broken": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "api_powup": [
+        0,
+        3,
+        1,
+        0
+      ],
+      "api_backs": 6,
+      "api_getmes": "<br>",
+      "api_afterfuel": 0,
+      "api_afterbull": 0,
+      "api_fuel_max": 10,
+      "api_bull_max": 25,
+      "api_voicef": 3
+    },
+    {
+      "api_id": 977,
+      "api_sortno": 577,
+      "api_sort_id": 22262,
+      "api_name": "伊41改",
+      "api_yomi": "い41",
+      "api_stype": 14,
+      "api_ctype": 127,
+      "api_afterlv": 0,
+      "api_aftershipid": "0",
+      "api_taik": [
+        18,
+        25
+      ],
+      "api_souk": [
+        4,
+        21
+      ],
+      "api_houg": [
+        3,
+        14
+      ],
+      "api_raig": [
+        38,
+        89
+      ],
+      "api_tyku": [
+        0,
+        0
+      ],
+      "api_luck": [
+        22,
+        81
       ],
       "api_soku": 5,
       "api_leng": 1,
@@ -57305,26 +57435,66 @@
     {
       "api_id": 2222,
       "api_sort_id": 0,
-      "api_name": "深海伊号水姫",
-      "api_yomi": "flagship",
-      "api_stype": 13,
+      "api_name": "新量産空母棲姫",
+      "api_yomi": "",
+      "api_stype": 11,
       "api_ctype": 1,
-      "api_soku": 5,
-      "api_slot_num": 4
+      "api_soku": 10,
+      "api_slot_num": 5
     },
     {
       "api_id": 2223,
       "api_sort_id": 0,
-      "api_name": "深海伊号水姫",
-      "api_yomi": "flagship",
-      "api_stype": 13,
+      "api_name": "新量産空母棲姫",
+      "api_yomi": "",
+      "api_stype": 11,
       "api_ctype": 1,
-      "api_soku": 5,
-      "api_slot_num": 4
+      "api_soku": 10,
+      "api_slot_num": 5
     },
     {
       "api_id": 2224,
       "api_sort_id": 0,
+      "api_name": "新量産空母棲姫",
+      "api_yomi": "",
+      "api_stype": 11,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2225,
+      "api_sort_id": 0,
+      "api_name": "新量産空母棲姫-壊",
+      "api_yomi": "",
+      "api_stype": 11,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2226,
+      "api_sort_id": 0,
+      "api_name": "新量産空母棲姫-壊",
+      "api_yomi": "",
+      "api_stype": 11,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2227,
+      "api_sort_id": 0,
+      "api_name": "新量産空母棲姫-壊",
+      "api_yomi": "",
+      "api_stype": 11,
+      "api_ctype": 1,
+      "api_soku": 10,
+      "api_slot_num": 5
+    },
+    {
+      "api_id": 2228,
+      "api_sort_id": 0,
       "api_name": "深海伊号水姫",
       "api_yomi": "flagship",
       "api_stype": 13,
@@ -57333,7 +57503,27 @@
       "api_slot_num": 4
     },
     {
-      "api_id": 2225,
+      "api_id": 2229,
+      "api_sort_id": 0,
+      "api_name": "深海伊号水姫",
+      "api_yomi": "flagship",
+      "api_stype": 13,
+      "api_ctype": 1,
+      "api_soku": 5,
+      "api_slot_num": 4
+    },
+    {
+      "api_id": 2230,
+      "api_sort_id": 0,
+      "api_name": "深海伊号水姫",
+      "api_yomi": "flagship",
+      "api_stype": 13,
+      "api_ctype": 1,
+      "api_soku": 5,
+      "api_slot_num": 4
+    },
+    {
+      "api_id": 2231,
       "api_sort_id": 0,
       "api_name": "深海伊号水姫-壊",
       "api_yomi": "flagship",
@@ -57343,7 +57533,7 @@
       "api_slot_num": 4
     },
     {
-      "api_id": 2226,
+      "api_id": 2232,
       "api_sort_id": 0,
       "api_name": "深海伊号水姫-壊",
       "api_yomi": "flagship",
@@ -57353,7 +57543,7 @@
       "api_slot_num": 4
     },
     {
-      "api_id": 2227,
+      "api_id": 2233,
       "api_sort_id": 0,
       "api_name": "深海伊号水姫-壊",
       "api_yomi": "flagship",
@@ -89921,10 +90111,10 @@
       "api_id": 584,
       "api_maparea_id": 58,
       "api_no": 4,
-      "api_name": "#E4",
-      "api_level": 12,
-      "api_opetext": "#E4",
-      "api_infotext": "#E4",
+      "api_name": "サイパン沖/マーシャル諸島沖正面",
+      "api_level": 17,
+      "api_opetext": "新Z作戦改",
+      "api_infotext": "竜巻作戦によって前線を大<br>きく押し戻した。今こそ、<br>総力決戦「新Z作戦改」で<br>敵を撃滅する！全力出撃！",
       "api_item": [
         0,
         0,
@@ -89935,8 +90125,8 @@
       "api_required_defeat_count": null,
       "api_sally_flag": [
         1,
-        0,
-        0
+        7,
+        1
       ]
     }
   ],
@@ -89947,7 +90137,7 @@
       "api_no": 1,
       "api_moving_bgm": 14,
       "api_map_bgm": [
-        172,
+        30,
         2
       ],
       "api_boss_bgm": [
@@ -89961,7 +90151,7 @@
       "api_no": 2,
       "api_moving_bgm": 14,
       "api_map_bgm": [
-        172,
+        1,
         2
       ],
       "api_boss_bgm": [
@@ -89987,7 +90177,7 @@
       "api_id": 14,
       "api_maparea_id": 1,
       "api_no": 4,
-      "api_moving_bgm": 172,
+      "api_moving_bgm": 116,
       "api_map_bgm": [
         30,
         2
@@ -90029,7 +90219,7 @@
       "api_id": 21,
       "api_maparea_id": 2,
       "api_no": 1,
-      "api_moving_bgm": 172,
+      "api_moving_bgm": 14,
       "api_map_bgm": [
         133,
         2
@@ -90057,7 +90247,7 @@
       "api_id": 23,
       "api_maparea_id": 2,
       "api_no": 3,
-      "api_moving_bgm": 172,
+      "api_moving_bgm": 103,
       "api_map_bgm": [
         8,
         2
@@ -90485,6 +90675,20 @@
       "api_boss_bgm": [
         243,
         243
+      ]
+    },
+    {
+      "api_id": 584,
+      "api_maparea_id": 58,
+      "api_no": 4,
+      "api_moving_bgm": 241,
+      "api_map_bgm": [
+        241,
+        242
+      ],
+      "api_boss_bgm": [
+        244,
+        244
       ]
     }
   ],
@@ -92896,13 +93100,13 @@
     }
   ],
   "api_mst_const": {
-    "api_boko_max_ships": {
-      "api_string_value": "",
-      "api_int_value": 620
-    },
     "api_dpflag_quest": {
       "api_string_value": "",
       "api_int_value": 1
+    },
+    "api_boko_max_ships": {
+      "api_string_value": "",
+      "api_int_value": 620
     },
     "api_parallel_quest_max": {
       "api_string_value": "",
@@ -102068,7 +102272,7 @@
       "api_description": "寒い冬を温かく過ごすため<br>の冬用カーペットです。暖<br>色系のデザインと柔らかな<br>風合いで、冬の鎮守府でも<br>快適に過ごせそう。",
       "api_rarity": 3,
       "api_price": 1500,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102474,7 +102678,7 @@
       "api_description": "チョコレートをモチーフに<br>鎮守府の艦娘たちがデザイ<br>ンした壁紙です。鎮守府内<br>にチョコレートの甘い香り<br>が漂いますネ！",
       "api_rarity": 2,
       "api_price": 550,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -102656,7 +102860,7 @@
       "api_description": "素材の木材自身の醸し出す<br>美しさと落ち着いた雰囲気<br>が味わえる高級木材の壁。<br>職人が山に登って厳選した<br>素材の良さが伝わります。",
       "api_rarity": 3,
       "api_price": 2200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103006,7 +103210,7 @@
       "api_description": "桃の節句の季節を艦娘たち<br>と愉しむための特注品の窓<br>です。家具職人の熱い家具<br>魂とこの季節を彩る小物や<br>味覚が配置されています。",
       "api_rarity": 4,
       "api_price": 3300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 4,
@@ -103524,7 +103728,7 @@
       "api_description": "艦隊決戦の主力艦隊と行動<br>を共にする艦隊型駆逐艦、<br>甲型駆逐艦の最終型。主力<br>of主力なある駆逐艦型一番<br>艦の手による掛け軸です。",
       "api_rarity": 4,
       "api_price": 3100,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103804,7 +104008,7 @@
       "api_description": "艦娘たちが提督のために心<br>を込めて用意したバレンタ<br>インデーの贈り物。香り高<br>い紅茶と甘いチョコレート<br>ケーキを召し上がれ！",
       "api_rarity": 4,
       "api_price": 0,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 15,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103818,7 +104022,7 @@
       "api_description": "鎮守府の雛祭りをお祝する<br>古から伝わる家具。長門型<br>戦艦をイメージしたお内裏<br>様とお雛様が箪笥の上に鎮<br>座した可愛い雛人形です。",
       "api_rarity": 4,
       "api_price": 20000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 0,
@@ -103986,7 +104190,7 @@
       "api_description": "艦娘たちが出撃前に殺到す<br>る鏡台。身だしなみは大事<br>です！なぜ提督の部屋に必<br>要かは、ちょっと謎です。",
       "api_rarity": 5,
       "api_price": 600,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104602,7 +104806,7 @@
       "api_description": "美味しそうな板チョコ風な<br>デザインの机と椅子です。<br>チョコレートの甘い香りが<br>執務室全体に広がる不思議<br>な雰囲気をどうぞ！",
       "api_rarity": 3,
       "api_price": 1200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -104672,7 +104876,7 @@
       "api_description": "お内裏様とお雛様、そして<br>三人官女や五人囃子、右大<br>臣に左大臣、菱餅等も配し<br>た鎮守府雛人形豪華四段飾<br>り。職人の技が光ります。",
       "api_rarity": 5,
       "api_price": 3300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 16,
       "api_version": 1,
       "api_outside_id": 0,
@@ -105080,7 +105284,7 @@
       "api_price": 32000,
       "api_saleflg": 1,
       "api_season": 19,
-      "api_version": 64,
+      "api_version": 65,
       "api_outside_id": 4,
       "api_active_flag": 1
     },
@@ -105106,7 +105310,7 @@
       "api_description": "腕に自信のある艦娘たちは<br>オフの日は手作りのお菓子<br>作りにチャレンジします！<br>春先は、ボールに溶かした<br>チョコが…楽しみかも？",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 15,
       "api_version": 1,
       "api_outside_id": 0,
@@ -105134,7 +105338,7 @@
       "api_description": "日本酒や和製ウイスキーな<br>どが好きな大人の艦娘たち<br>垂涎のお酒棚です。鎮守府<br>カウンターバーと一緒に配<br>置して、夜の鎮守府に！",
       "api_rarity": 4,
       "api_price": 20000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 32,
       "api_version": 1,
       "api_outside_id": 0,
@@ -105162,7 +105366,7 @@
       "api_description": "春らしい色彩の和の雰囲気<br>が漂う新色の壁紙です。<br>鎮守府を春色に演出して、<br>艦娘と春を迎えましょう！",
       "api_rarity": 3,
       "api_price": 1700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -105190,7 +105394,7 @@
       "api_description": "和の色である梅紫で構成さ<br>れた新色の壁紙です。少し<br>落ち着いた雰囲気の色合い<br>が、大人の艦娘にも人気み<br>たいです。",
       "api_rarity": 2,
       "api_price": 700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -105750,7 +105954,7 @@
       "api_description": "提督が忙しい業務の間隙を<br>縫って、艦娘たちのために<br>チョコのお返しを手作りす<br>るための特別なキッチン！<br>ダイナミック職人支援可！",
       "api_rarity": 5,
       "api_price": 150000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -105764,7 +105968,7 @@
       "api_description": "料理が苦手な艦娘やいつも<br>美味しい料理を作ってくれ<br>る艦娘に、たまには提督自<br>ら食事を作ってあげたい…<br>その想いを実現する食卓！",
       "api_rarity": 4,
       "api_price": 2800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 23,
       "api_version": 1,
       "api_outside_id": 0,
@@ -106548,7 +106752,7 @@
       "api_description": "弥生の季節をモチーフにし<br>た、ある駆逐艦の手による<br>壁紙です。落ち着いた雰囲<br>気の中にも春の訪れを予感<br>させる仕上りです。",
       "api_rarity": 3,
       "api_price": 1700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -106562,7 +106766,7 @@
       "api_description": "ある睦月型駆逐艦が家具職<br>人の手を借りて作り上げた<br>かなり凝った意匠の丸い窓<br>です。特注の弥生ブライン<br>ドも標準装備！豪華です。",
       "api_rarity": 4,
       "api_price": 3300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 1,
@@ -106576,7 +106780,7 @@
       "api_description": "ある睦月型駆逐艦が弥生の<br>季節の花々を使って作った<br>フラワーアレンジメントで<br>す。もちろん、怒ってなん<br>かいません。",
       "api_rarity": 3,
       "api_price": 1300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -106590,7 +106794,7 @@
       "api_description": "提督が艦娘たちのために、<br>感謝の気持ちを込めて焼き<br>菓子を焼く季節。そんな春<br>の一日のために用意された<br>特別な壁紙を貴方に。",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -106604,7 +106808,7 @@
       "api_description": "鎮守府提督室一杯に広がる<br>甘い焼き菓子の香り。そん<br>な提督室にぴったりの美味<br>しそうな雰囲気の床です。<br>艦娘たち、いつも感謝！",
       "api_rarity": 2,
       "api_price": 1200,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -106618,7 +106822,7 @@
       "api_description": "お返しの感謝の気持ちを上<br>手に伝えられない提督が、<br>密かに習字も練習して制作<br>した感謝の掛け軸。これな<br>ら気持ちがダイレクトに！",
       "api_rarity": 3,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -106702,7 +106906,7 @@
       "api_description": "ちょっといい窓を作るため<br>ある駆逐艦娘が趣向を凝ら<br>した特注窓です。窓に備え<br>付けの小さなテーブルは、<br>お裁縫などにも最適です。",
       "api_rarity": 4,
       "api_price": 4300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -107094,7 +107298,7 @@
       "api_description": "壁紙ではなく、壁構造材を<br>カフェ用仕様で再構成しま<br>した。シックで落ち着いた<br>喫茶室を演出します。艦娘<br>と素敵なティータイムを！",
       "api_rarity": 4,
       "api_price": 20000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -107108,7 +107312,7 @@
       "api_description": "何気に奥深い珈琲の世界。<br>実は少なくない珈琲派艦娘<br>たちに人気のカフェ仕様の<br>壁紙です。香り高い一杯で<br>艦娘との安らぎの時間を。",
       "api_rarity": 3,
       "api_price": 1700,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -107138,7 +107342,7 @@
       "api_price": 2140,
       "api_saleflg": 1,
       "api_season": 15,
-      "api_version": 27,
+      "api_version": 28,
       "api_outside_id": 0,
       "api_active_flag": 0
     },
@@ -107150,7 +107354,7 @@
       "api_description": "提督と艦娘の春色の座布団<br>です。艦娘用座布団は、春<br>に咲く桜の花をイメージ。<br>提督用は葉桜をモチーフに<br>座椅子付でリッチな気分！",
       "api_rarity": 4,
       "api_price": 1700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -107696,7 +107900,7 @@
       "api_description": "バレンタインの季節に艦娘<br>たちがそれぞれの想いを込<br>めたキャンドルが並ぶ幻想<br>的な窓です。優しく揺れる<br>光を素敵に侘び寂びです。",
       "api_rarity": 4,
       "api_price": 4000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 4,
@@ -107710,7 +107914,7 @@
       "api_description": "心からチョコレートを愛す<br>る提督に贈るチョコレート<br>フォンデュタワー！流れる<br>チョコレートの謎の魅力。<br>職人ダイナミック割引可！",
       "api_rarity": 5,
       "api_price": 121400,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -107724,7 +107928,7 @@
       "api_description": "早春の提督室の床板です。<br>比較的質素な作りの床板と<br>春の訪れをイメージした畳<br>の組み合わせによる、独特<br>の魅力が光ります。",
       "api_rarity": 3,
       "api_price": 1000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -107738,7 +107942,7 @@
       "api_description": "春の訪れを期待させる職人<br>の技と感性がみなぎる和の<br>壁板です。職人の気合いと<br>心意気で高級品でありなが<br>らリーズナブルにご提供！",
       "api_rarity": 3,
       "api_price": 1980,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108214,7 +108418,7 @@
       "api_description": "家具にあまり余計なお金は<br>そんな提督のために、艦娘<br>たちが破れた昔の窓を補修<br>してくれました。冬の野菜<br>などの備蓄にも使えます！",
       "api_rarity": 4,
       "api_price": 1980,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 8,
@@ -108382,7 +108586,7 @@
       "api_description": "手先の器用な艦娘が提督の<br>ために作ったバレンタイン<br>の季節にぴったりの装飾。<br>チョコ仕様の額縁にハート<br>型の薔薇アレンジメント！",
       "api_rarity": 3,
       "api_price": 1300,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108396,7 +108600,7 @@
       "api_description": "提督のための手作りチョコ<br>を艦娘がレシピ本と激しい<br>戦闘を繰り広げながら鋭意<br>製作中の台所です。庶民的<br>＆甘い雰囲気が漂います！",
       "api_rarity": 5,
       "api_price": 8800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 15,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108410,7 +108614,7 @@
       "api_description": "ある駆逐隊が提督の執務机<br>をバレンタイン仕様に全力<br>でカスタマイズ。置かれた<br>チョコには艦娘からの手紙<br>が添えられていました…！",
       "api_rarity": 4,
       "api_price": 120200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108424,7 +108628,7 @@
       "api_description": "ポップな雰囲気のホワイト<br>デーをモチーフにした壁紙<br>です。艦娘たちに大人気の<br>ホワイトデーカーペットと<br>あわせてみたいですね！",
       "api_rarity": 3,
       "api_price": 1800,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108438,7 +108642,7 @@
       "api_description": "楽しく優しい気持ちになれ<br>る、ホワイトデーシーズン<br>専用のカーペットです。駆<br>逐艦や海防艦など多くの艦<br>娘のお気に入りです！",
       "api_rarity": 3,
       "api_price": 1900,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108452,7 +108656,7 @@
       "api_description": "五輪の薔薇の花をデザイン<br>したレリーフの高級な石材<br>を使用した特注壁板です。<br>ホワイトデーには、薔薇の<br>花を贈るのも素敵ですね。",
       "api_rarity": 4,
       "api_price": 103140,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108466,7 +108670,7 @@
       "api_description": "高級石材を贅沢に使用した<br>ホワイトデーの季節にぴっ<br>たりの特注床板です。五本<br>の薔薇の花束を、お返しに<br>どうでしょう？",
       "api_rarity": 5,
       "api_price": 3140,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108480,7 +108684,7 @@
       "api_description": "改装を待つ主力オブ主力の<br>駆逐艦娘が用意した壁掛け<br>の花瓶飾り。ホワイトデー<br>には、薔薇の生花を飾るの<br>も素敵です。",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108508,7 +108712,7 @@
       "api_description": "そうなの？提督室に私達の<br>私物とか置いていいのね、<br>早く言ってくれればいいの<br>に…とかなんとか呟きつつ<br>ある艦娘が設置した家具。",
       "api_rarity": 5,
       "api_price": 4700,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -108762,7 +108966,7 @@
       "api_price": 117000,
       "api_saleflg": 0,
       "api_season": 0,
-      "api_version": 47,
+      "api_version": 48,
       "api_outside_id": 0,
       "api_active_flag": 0
     },
@@ -109028,7 +109232,7 @@
       "api_price": 194400,
       "api_saleflg": 1,
       "api_season": 0,
-      "api_version": 15,
+      "api_version": 16,
       "api_outside_id": 0,
       "api_active_flag": 1
     },
@@ -109112,7 +109316,7 @@
       "api_price": 5000,
       "api_saleflg": 1,
       "api_season": 42,
-      "api_version": 40,
+      "api_version": 41,
       "api_outside_id": 4,
       "api_active_flag": 0
     },
@@ -109152,7 +109356,7 @@
       "api_description": "バレンタインの甘い季節を<br>暖かく演出するカーペット<br>です。まるで本物のカカオ<br>を使ったような風合いは…<br>本物じゃ…ないですよね？",
       "api_rarity": 3,
       "api_price": 1700,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109166,7 +109370,7 @@
       "api_description": "なんとガチでチョコレート<br>で造られた特注の壁です！<br>職人さんの特殊技術により<br>本物のチョコで作られてお<br>り、非常時の備蓄食にも！",
       "api_rarity": 4,
       "api_price": 2140,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109180,7 +109384,7 @@
       "api_description": "家具職人たちが魂を込めて<br>作り上げたバレンタインの<br>鎮守府に向けた特注仕上げ<br>チェストです。置いてある<br>何か…が少し変わるかも？",
       "api_rarity": 5,
       "api_price": 144000,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109194,7 +109398,7 @@
       "api_description": "桃の節句の頃は、少し春め<br>いた雰囲気になりますね。<br>そんな穏やかな春の訪れを<br>感じさせる床と、淡い桃色<br>の敷物です。",
       "api_rarity": 3,
       "api_price": 1300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109208,7 +109412,7 @@
       "api_description": "桃の節句といえば海防艦。<br>そう主張する択捉型海防艦<br>姉妹が家具職人の皆さんに<br>お願いして作ってもらった<br>桃の節句特注飾り棚です。",
       "api_rarity": 4,
       "api_price": 2000,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109222,7 +109426,7 @@
       "api_description": "ある主力オブ主力な駆逐艦<br>姉妹が雛人形職人の皆さん<br>と協力して作り上げた豪華<br>二段飾りです。伝統の三人<br>官女も素敵ですね。",
       "api_rarity": 5,
       "api_price": 103300,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109432,7 +109636,7 @@
       "api_description": "砕氷ですか？お任せくださ<br>い！という艦娘が特注家具<br>職人の謎の技術で完成した<br>チャージング航行砕氷床！<br>現代はラミング航行とも。",
       "api_rarity": 6,
       "api_price": 3800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109446,7 +109650,7 @@
       "api_description": "第二水雷戦隊を精鋭部隊に<br>育て上げたベテラン軽巡が<br>日常使いしている小物棚。<br>一部駆逐艦は尊敬と畏怖の<br>念で出撃前にお参りする。",
       "api_rarity": 5,
       "api_price": 2200,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109726,7 +109930,7 @@
       "api_description": "まるで提督室の床そのもの<br>がラッピングされたチョコ<br>レートのような床です。<br>甘いバレンタインの雰囲気<br>を味わって！",
       "api_rarity": 4,
       "api_price": 1980,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -109740,7 +109944,7 @@
       "api_description": "甘いホワイトチョコレート<br>とビターなチョコレートが<br>混ざりあった、まるでマー<br>ブル模様のような壁です。<br>食べれそうな雰囲気！",
       "api_rarity": 3,
       "api_price": 1400,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -110048,7 +110252,7 @@
       "api_description": "明るい気分になるホワイト<br>と薄いピンク色のミックス<br>ウッドの床にカッティング<br>レースマットを。ガーリー<br>で優しい雰囲気の部屋に。",
       "api_rarity": 2,
       "api_price": 800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -110062,7 +110266,7 @@
       "api_description": "遂に鎮守府の壁はここまで<br>来てしまった……。職人の<br>技を借りて実現した、艦娘<br>から提督へのチョコレート<br>アソート。美味しいです！",
       "api_rarity": 4,
       "api_price": 2080,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -110076,7 +110280,7 @@
       "api_description": "えっと……提督、仕事して<br>ください！と大淀が眉をひ<br>そめそうなチェアです。<br>Valentineは…特に…<br>たまには……いいですね！",
       "api_rarity": 5,
       "api_price": 2140,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -110090,7 +110294,7 @@
       "api_description": "甘いもの好きな提督と艦娘<br>のために、とんでもない窓<br>が完成してしまいました！<br>しかも、ストロベリー味と<br>ビター、切替可能ですっ！",
       "api_rarity": 6,
       "api_price": 121400,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 47,
       "api_version": 1,
       "api_outside_id": 4,
@@ -110216,7 +110420,7 @@
       "api_description": "ある改装白露型駆逐艦の…<br>あれやこれやが収められて<br>いる改装駆逐艦の私物棚。<br>あまり生活感はないかも…<br>ですね？…実態は如何に！",
       "api_rarity": 6,
       "api_price": 151800,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -110454,7 +110658,7 @@
       "api_description": "第七駆逐隊メンバーの私物<br>や装備の一部を置く特注の<br>棚です。七駆のペットたち<br>もお気に入り？季節ごとに<br>少しだけ変わる…たぶん！",
       "api_rarity": 5,
       "api_price": 2700,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_version": 1,
       "api_outside_id": 0,
@@ -171615,6 +171819,84 @@
       ]
     },
     {
+      "api_id": 972,
+      "api_filename": "dmjndywdalef",
+      "api_version": [
+        "51",
+        "1",
+        "229"
+      ],
+      "api_battle_n": [
+        169,
+        228
+      ],
+      "api_battle_d": [
+        285,
+        223
+      ],
+      "api_sortno": 572,
+      "api_boko_n": [
+        138,
+        244
+      ],
+      "api_boko_d": [
+        249,
+        235
+      ],
+      "api_kaisyu_n": [
+        46,
+        -36
+      ],
+      "api_kaisyu_d": [
+        51,
+        34
+      ],
+      "api_kaizo_n": [
+        130,
+        121
+      ],
+      "api_kaizo_d": [
+        238,
+        81
+      ],
+      "api_map_n": [
+        151,
+        199
+      ],
+      "api_map_d": [
+        265,
+        198
+      ],
+      "api_ensyuf_n": [
+        148,
+        183
+      ],
+      "api_ensyuf_d": [
+        262,
+        181
+      ],
+      "api_ensyue_n": [
+        145,
+        0
+      ],
+      "api_weda": [
+        169,
+        -52
+      ],
+      "api_wedb": [
+        139,
+        220
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
       "api_id": 976,
       "api_filename": "kcgsfubnizzk",
       "api_version": [
@@ -171682,6 +171964,84 @@
       "api_wedb": [
         130,
         214
+      ],
+      "api_pa": [
+        0,
+        0
+      ],
+      "api_pab": [
+        0,
+        0
+      ]
+    },
+    {
+      "api_id": 977,
+      "api_filename": "pokiuobqgepg",
+      "api_version": [
+        "51",
+        "1",
+        "229"
+      ],
+      "api_battle_n": [
+        169,
+        228
+      ],
+      "api_battle_d": [
+        285,
+        223
+      ],
+      "api_sortno": 577,
+      "api_boko_n": [
+        138,
+        244
+      ],
+      "api_boko_d": [
+        249,
+        235
+      ],
+      "api_kaisyu_n": [
+        46,
+        -36
+      ],
+      "api_kaisyu_d": [
+        51,
+        34
+      ],
+      "api_kaizo_n": [
+        130,
+        121
+      ],
+      "api_kaizo_d": [
+        238,
+        81
+      ],
+      "api_map_n": [
+        151,
+        199
+      ],
+      "api_map_d": [
+        265,
+        198
+      ],
+      "api_ensyuf_n": [
+        148,
+        183
+      ],
+      "api_ensyuf_d": [
+        262,
+        181
+      ],
+      "api_ensyue_n": [
+        145,
+        0
+      ],
+      "api_weda": [
+        169,
+        -52
+      ],
+      "api_wedb": [
+        139,
+        220
       ],
       "api_pa": [
         0,
@@ -184002,12 +184362,12 @@
         "1"
       ],
       "api_battle_n": [
-        120,
-        142
+        -58,
+        126
       ],
       "api_battle_d": [
-        120,
-        142
+        -58,
+        126
       ]
     },
     {
@@ -184019,12 +184379,12 @@
         "1"
       ],
       "api_battle_n": [
-        120,
-        142
+        -58,
+        126
       ],
       "api_battle_d": [
-        120,
-        142
+        -58,
+        126
       ]
     },
     {
@@ -184036,12 +184396,12 @@
         "1"
       ],
       "api_battle_n": [
-        120,
-        142
+        -58,
+        126
       ],
       "api_battle_d": [
-        120,
-        142
+        -58,
+        126
       ]
     },
     {
@@ -184053,12 +184413,12 @@
         "1"
       ],
       "api_battle_n": [
-        120,
-        142
+        133,
+        126
       ],
       "api_battle_d": [
-        120,
-        142
+        133,
+        126
       ]
     },
     {
@@ -184070,12 +184430,12 @@
         "1"
       ],
       "api_battle_n": [
-        120,
-        142
+        133,
+        126
       ],
       "api_battle_d": [
-        120,
-        142
+        133,
+        126
       ]
     },
     {
@@ -184087,12 +184447,114 @@
         "1"
       ],
       "api_battle_n": [
-        120,
-        142
+        133,
+        126
       ],
       "api_battle_d": [
-        120,
-        142
+        133,
+        126
+      ]
+    },
+    {
+      "api_id": 2228,
+      "api_filename": "gzhhmcvkufnn",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        13,
+        211
+      ],
+      "api_battle_d": [
+        13,
+        211
+      ]
+    },
+    {
+      "api_id": 2229,
+      "api_filename": "kcfqobbhnwrh",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        13,
+        211
+      ],
+      "api_battle_d": [
+        13,
+        211
+      ]
+    },
+    {
+      "api_id": 2230,
+      "api_filename": "fbvepygrbtpn",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        13,
+        211
+      ],
+      "api_battle_d": [
+        13,
+        211
+      ]
+    },
+    {
+      "api_id": 2231,
+      "api_filename": "ddyhmkivcbku",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        13,
+        211
+      ],
+      "api_battle_d": [
+        13,
+        211
+      ]
+    },
+    {
+      "api_id": 2232,
+      "api_filename": "pfujhqfcrybm",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        13,
+        211
+      ],
+      "api_battle_d": [
+        13,
+        211
+      ]
+    },
+    {
+      "api_id": 2233,
+      "api_filename": "zujhnquiipbo",
+      "api_version": [
+        "1",
+        "1",
+        "1"
+      ],
+      "api_battle_n": [
+        13,
+        211
+      ],
+      "api_battle_d": [
+        13,
+        211
       ]
     },
     {
