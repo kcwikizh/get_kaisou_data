@@ -58435,6 +58435,28 @@
       },
       "api_ctypes": null,
       "api_req_level": 0
+    },
+    "527": {
+      "api_ship_ids": null,
+      "api_stypes": null,
+      "api_ctypes": {
+        "88": 1,
+        "67": 1,
+        "108": 1,
+        "78": 1,
+        "112": 1
+      },
+      "api_req_level": 0
+    },
+    "528": {
+      "api_ship_ids": null,
+      "api_stypes": null,
+      "api_ctypes": {
+        "88": 1,
+        "67": 1,
+        "108": 1
+      },
+      "api_req_level": 0
     }
   },
   "api_mst_stype": [
@@ -81187,6 +81209,84 @@
       "api_version": 2
     },
     {
+      "api_id": 527,
+      "api_sortno": 527,
+      "api_name": "Type281 レーダー",
+      "api_type": [
+        5,
+        8,
+        13,
+        11,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 7,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 1,
+      "api_raim": 0,
+      "api_houk": 2,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 8,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_rare": 3,
+      "api_broken": [
+        0,
+        0,
+        20,
+        26
+      ],
+      "api_usebull": "0",
+      "api_version": 2
+    },
+    {
+      "api_id": 528,
+      "api_sortno": 528,
+      "api_name": "Type274 射撃管制レーダー",
+      "api_type": [
+        5,
+        8,
+        13,
+        11,
+        0
+      ],
+      "api_taik": 0,
+      "api_souk": 1,
+      "api_houg": 2,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 3,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 8,
+      "api_raim": 0,
+      "api_houk": 2,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 5,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 2,
+      "api_rare": 4,
+      "api_broken": [
+        0,
+        0,
+        22,
+        24
+      ],
+      "api_usebull": "0",
+      "api_version": 2
+    },
+    {
       "api_id": 1501,
       "api_sortno": 0,
       "api_name": "5inch単装砲",
@@ -93104,13 +93204,13 @@
       "api_string_value": "",
       "api_int_value": 1
     },
-    "api_boko_max_ships": {
-      "api_string_value": "",
-      "api_int_value": 620
-    },
     "api_parallel_quest_max": {
       "api_string_value": "",
       "api_int_value": 10
+    },
+    "api_boko_max_ships": {
+      "api_string_value": "",
+      "api_int_value": 620
     }
   },
   "api_mst_shipupgrade": [
@@ -106852,7 +106952,7 @@
       "api_price": 2200,
       "api_saleflg": 0,
       "api_season": 0,
-      "api_version": 20,
+      "api_version": 22,
       "api_outside_id": 0,
       "api_active_flag": 1
     },
