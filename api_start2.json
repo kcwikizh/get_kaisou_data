@@ -162259,7 +162259,8 @@
         0,
         2
       ],
-      "api_usebull": "0"
+      "api_usebull": "0",
+      "api_version": 2
     },
     {
       "api_id": 164,
@@ -177875,6 +177876,47 @@
         1,
         0,
         1
+      ],
+      "api_usebull": "0",
+      "api_version": 2
+    },
+    {
+      "api_id": 568,
+      "api_sortno": 568,
+      "api_name": "強風改二(熟練)",
+      "api_type": [
+        5,
+        36,
+        45,
+        43,
+        26
+      ],
+      "api_taik": 0,
+      "api_souk": 0,
+      "api_houg": 0,
+      "api_raig": 0,
+      "api_soku": 0,
+      "api_baku": 0,
+      "api_tyku": 7,
+      "api_tais": 0,
+      "api_atap": 0,
+      "api_houm": 2,
+      "api_raim": 0,
+      "api_houk": 5,
+      "api_raik": 0,
+      "api_bakk": 0,
+      "api_saku": 3,
+      "api_sakb": 0,
+      "api_luck": 0,
+      "api_leng": 0,
+      "api_cost": 6,
+      "api_distance": 3,
+      "api_rare": 5,
+      "api_broken": [
+        2,
+        1,
+        0,
+        7
       ],
       "api_usebull": "0",
       "api_version": 2
