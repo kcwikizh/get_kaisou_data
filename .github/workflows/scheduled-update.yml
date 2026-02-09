@@ -16,9 +16,9 @@ jobs:
         python-version: [3.14]
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v6
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
@@ -32,6 +32,6 @@ jobs:
       run: |
         python ./get_kaisou_data.py
     - name: Add & Commit
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
         message: 'Scheduled update ${{ steps.date.outputs.date }}'
